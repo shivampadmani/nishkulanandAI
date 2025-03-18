@@ -36,48 +36,48 @@ def set_example_prompt(prompt):
 
 # Load the fine-tuned Gujarati poetry model and tokenizer
 @st.cache_resource
-# def load_model():
-# 	try:
-# 		# model_name = "./indictrans2-poetry-finetuned"
-# 		model_name = "shivampadmani/nishkulanandAI"
-# 		base_model_path = "ai4bharat/indictrans2-indic-indic-1B"  # Original model instead of fine-tuned
-# 		tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
-# 		# THis model can translate any language to english
-# 		# tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
-#
-# 		model = AutoModelForSeq2SeqLM.from_pretrained(
-# 			model_name,
-# 			trust_remote_code=True,
-# 			torch_dtype=torch.float16,  # performance might slightly vary for bfloat16
-# 			attn_implementation="flash_attention_2"
-# 		).to(device)
-# 		return tokenizer, model, None
-# 	except Exception as e:
-# 		return None, None, str(e)
 def load_model():
-    try:
-        model_name = "shivampadmani/nishkulanandAI"
-        base_model_path = "ai4bharat/indictrans2-indic-indic-1B"
+	try:
+		# model_name = "./indictrans2-poetry-finetuned"
+		model_name = "shivampadmani/nishkulanandAI"
+		base_model_path = "ai4bharat/indictrans2-indic-indic-1B"  # Original model instead of fine-tuned
+		tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
+		# THis model can translate any language to english
+		# tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 
-        # Check if there is an active event loop and create one if necessary
-        try:
-            loop = asyncio.get_running_loop()
-        except RuntimeError:
-            loop = asyncio.new_event_loop()
-            asyncio.set_event_loop(loop)
+		model = AutoModelForSeq2SeqLM.from_pretrained(
+			model_name,
+			trust_remote_code=True,
+			torch_dtype=torch.float16,  # performance might slightly vary for bfloat16
+			attn_implementation="flash_attention_2"
+		).to(device)
+		return tokenizer, model, None
+	except Exception as e:
+ 		return None, None, str(e)
+# def load_model():
+#     try:
+#         model_name = "shivampadmani/nishkulanandAI"
+#         base_model_path = "ai4bharat/indictrans2-indic-indic-1B"
 
-        tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
+#         # Check if there is an active event loop and create one if necessary
+#         try:
+#             loop = asyncio.get_running_loop()
+#         except RuntimeError:
+#             loop = asyncio.new_event_loop()
+#             asyncio.set_event_loop(loop)
 
-        model = AutoModelForSeq2SeqLM.from_pretrained(
-            model_name,
-            trust_remote_code=True,
-            torch_dtype=torch.float16,
-            attn_implementation="flash_attention_2"
-        ).to(device)
+#         tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
 
-        return tokenizer, model, None
-    except Exception as e:
-        return None, None, str(e)
+#         model = AutoModelForSeq2SeqLM.from_pretrained(
+#             model_name,
+#             trust_remote_code=True,
+#             torch_dtype=torch.float16,
+#             attn_implementation="flash_attention_2"
+#         ).to(device)
+
+#         return tokenizer, model, None
+#     except Exception as e:
+#         return None, None, str(e)
 
 
 # Function to generate poetry
