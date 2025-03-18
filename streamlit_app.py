@@ -1,5 +1,5 @@
 import streamlit as st
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoConfig, PreTrainedModel
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from IndicTransToolkit import IndicProcessor
 import torch
 import os
@@ -56,31 +56,23 @@ def set_example_prompt(prompt):
 def load_model():
     try:
         model_name = "shivampadmani/nishkulanandAI"
-        base_model_path = "ai4bharat/indictrans2-indic-indic-1B"  # Base model path
+        base_model_path = "ai4bharat/indictrans2-indic-indic-1B"
 
-        # Load tokenizer
+        # Check if there is an active event loop and create one if necessary
+        try:
+            loop = asyncio.get_running_loop()
+        except RuntimeError:
+            loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(loop)
+
         tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
 
-        # Load config
-        config = AutoConfig.from_pretrained(model_name, trust_remote_code=True)
-
-        # Handle unrecognized model_type
-        if config.model_type == "IndicTrans":
-            from transformers import PreTrainedModel
-            model = PreTrainedModel.from_pretrained(
-                model_name,
-                config=config,
-                trust_remote_code=True,
-                torch_dtype=torch.float16,
-                attn_implementation="flash_attention_2"
-            ).to(device)
-        else:
-            model = AutoModelForSeq2SeqLM.from_pretrained(
-                model_name,
-                trust_remote_code=True,
-                torch_dtype=torch.float16,
-                attn_implementation="flash_attention_2"
-            ).to(device)
+        model = AutoModelForSeq2SeqLM.from_pretrained(
+            model_name,
+            trust_remote_code=True,
+            torch_dtype=torch.float16,
+            attn_implementation="flash_attention_2"
+        ).to(device)
 
         return tokenizer, model, None
     except Exception as e:
