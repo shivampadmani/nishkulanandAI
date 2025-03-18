@@ -1,5 +1,5 @@
 import streamlit as st
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoConfig, PreTrainedModel
 from IndicTransToolkit import IndicProcessor
 import torch
 import os
