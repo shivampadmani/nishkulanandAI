@@ -2,6 +2,7 @@ import streamlit as st
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from IndicTransToolkit import IndicProcessor
 import torch
+import asyncio
 import os
 import re
 device = "cuda" if torch.cuda.is_available() else "cpu"
