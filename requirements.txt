@@ -11,3 +11,4 @@ morfessor
 pandas
 numpy
 indic-nlp-library-IT2@ git+https://github.com/VarunGumma/indic_nlp_library.git
+-e git+https://github.com/VarunGumma/IndicTransToolkit.git#egg=IndicTransToolkit
