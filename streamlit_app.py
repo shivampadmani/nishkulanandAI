@@ -37,7 +37,8 @@ def set_example_prompt(prompt):
 @st.cache_resource
 def load_model():
 	try:
-		model_name = "./indictrans2-poetry-finetuned"
+		# model_name = "./indictrans2-poetry-finetuned"
+		model_name = "shivampadmani/nishkulanandAI"
 		base_model_path = "ai4bharat/indictrans2-indic-indic-1B"  # Original model instead of fine-tuned
 		tokenizer = AutoTokenizer.from_pretrained(base_model_path, trust_remote_code=True)
 		# THis model can translate any language to english
