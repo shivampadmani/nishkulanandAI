@@ -327,7 +327,8 @@ with right_col:
 	st.markdown("""
     <div class="sidebar-content">
     <h4>About This App</h4>
-    <p>This AI model has been trained on the poetic works of Nishkulanand Swami to generate Gujarati poetry that reflects his unique style, spiritual themes, and devotional essence.</p>
+    <p>Disclaimer: Responses of this chat app do not represent opinion of BAPS and this chat app is not official published or supported by BAPS.
+    This AI model has been trained on the poetic works of Nishkulanand Swami to generate Gujarati poetry.</p>
 	<p> Please contact Shivam Padmani on LinkedIn for more details.
 <a href="https://www.linkedin.com/in/shivampadmani/">LinkedIn Profile</a>
 </p>
