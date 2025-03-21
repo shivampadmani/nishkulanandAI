@@ -1,0 +1,509 @@
+{
+    "prakaran": 85,
+    "title_gu": "પ્રકરણ ૮૫: શ્રીહરિચરિત્રે ગઢડે અન્નકોટનો ઉત્સવ કર્યો",
+    "title_trans": "Prakaran 85: Shrī Haricharitre Gaḍhaḍe Annakoṭno Utsav Karyo",
+    "gujarati": [
+        {
+            "couplet": "અલબેલોજી આનંદકારી આવ્યા ગઢડે દેવ મુરારી \nસર્વે દાસને દર્શન દીધાં જનનાં મન મગન કીધાં",
+            "couplet_number": 1,
+            "context": "The couplet describes the blissful union between Lord Krishna and Radha, where they met at a secret place, revealing themselves to all servants and captivating everyone's minds."
+        },
+        {
+            "couplet": "બેઠા વાલ્યમ આસન વાળી જન સહુ રહ્યાં સામું ભાળી \nજેમ ચંદને જુવે ચકોર જેમ મેઘને જુવે છે મોર",
+            "couplet_number": 2,
+            "context": "The couplet describes a peaceful atmosphere where people sit together harmoniously, just like the way one gazes at moonlight or clouds without disturbance."
+        },
+        {
+            "couplet": "એમ સર્વે રહ્યા સામું જોઈ મીટે મટકું ન ભરે કોઈ \nપછી બોલિયા પ્રાણજીવન તમે છો સુખિયા સહુ જન",
+            "couplet_number": 3,
+            "context": "The speaker is saying that even in the midst of chaos and uncertainty, they are grateful to have found a peaceful companion who understands their struggles; with them by their side, life becomes sweet."
+        },
+        {
+            "couplet": "પછી બોલ્યા જન જોડી હાથ તમને નીર્ખી સુખી છીએ નાથ \nપછી સુંદર ભોજન કરી જન હેતે જમ્યા તિયાં હરિ",
+            "couplet_number": 4,
+            "context": "After all the troubles pass, you'll find peace and happiness; then savor a beautiful meal with friends and thank God's favor."
+        },
+        {
+            "couplet": "અતિ હેતે બોલે વાલો વળી સર્વે રાજી થાય તે સાંભળી \nદેશદેશના દાસ સંભારી વખાણે તેને દેવ મુરારિ",
+            "couplet_number": 5,
+            "context": "Those who speak the truth will be heard and respected by all; they are like servants of the nation, praised by God himself."
+        },
+        {
+            "couplet": "બીજી બહુ બહુ કરે વાત સુણી જન થાય રળિયાત \nએમ કરતાં માસ દોય થયા દિન દશ તે ઉપર ગયા",
+            "couplet_number": 6,
+            "context": "Many people chatter endlessly, but wise individuals listen patiently; doing so will make their days and years go well."
+        },
+        {
+            "couplet": "ત્યારે બોલિયા જીવનપ્રાણ સુણો સંત સરવે સુજાણ \nહતી અસુરની જે ઉપાધિ તે આ સમે શમી ગઈ બાધિ",
+            "couplet_number": 7,
+            "context": "At that moment, my life and breath were in the hands of God; I was blessed with a rare privilege. The benefit of that divine blessing has been lost now, as if it never existed."
+        },
+        {
+            "couplet": "થયું રાજ્ય હવે ન્યાયવાળું સર્વે ગરીબ રાંકને સુખાળું \nહવે જોર જુલમ ન થાય તમ જેવા સાધુ ન પીડાય",
+            "couplet_number": 8,
+            "context": "Now the kingdom is just and fair, where everyone, even the poorest, can live happily. Now, don't be harsh or cruel to those like you, who are innocent."
+        },
+        {
+            "couplet": "માટે રાખો પ્રથમની રીત અતિ સુંદર પરમ પુનિત \nએમ કહ્યું જનને મહારાજે તેવી રીત્ય રાખી મુનિરાજે",
+            "couplet_number": 9,
+            "context": "Maintain the first way, perfect and pure; This is what the king said to his people, and they followed it with great devotion."
+        },
+        {
+            "couplet": "પછી આવ્યો છે ફાગણ માસ હોળી રમવા થયા હુલાસ \nભાલ મધ્યે ગામ મછિયાવ્ય વસે ભક્ત તેને અતિ ભાવ",
+            "couplet_number": 10,
+            "context": "The month of Phagun has arrived, bringing with it the festival of Holi, a time for joy and revelry. In the midst of this celebration, one's heart is filled with great devotion."
+        },
+        {
+            "couplet": "તેણે હરિને તેડાવ્યા હેતે તિયાં પધારિયા પ્રભુજી પ્રીતે \nસખા સહિત આવ્યા ભગવાન દીધાં દાસને દર્શનદાન",
+            "couplet_number": 11,
+            "context": "The Lord was pleased with the devotion of the devotee and gave him a glimpse of His divine form, accompanied by blessings for his service to others."
+        },
+        {
+            "couplet": "દેશ દેશના સત્સંગી આવ્યા તિયાં સર્વે મુનિને બોલાવ્યા \nકરવા ઉત્સવ દેવા દર્શન અતિ રાજી છે પ્રાણજીવન",
+            "couplet_number": 12,
+            "context": "The wise men from various countries have gathered here, summoning all the munis to share their wisdom; the true festival is of seeing and experiencing the ultimate reality, which fills one's soul with immense joy."
+        },
+        {
+            "couplet": "મીઠી વાણીએ સહુને બોલાવે વાત વાલાની સહુને ભાવે \nવળી પ્રશ્ન ઉત્તર તિયાં થાય જન ગુણ ગોવિંદના ગાય",
+            "couplet_number": 13,
+            "context": "The sweet words of the loved one beckon him, stirring his emotions; only then does he respond, his soul's answer echoing with the praise of God."
+        },
+        {
+            "couplet": "પછી આવ્યો ઉત્સવનો દન રમવા રાજી જનશું જીવન \nથયા અલબેલો અસવાર સંગે સખા હજારો હજાર",
+            "couplet_number": 14,
+            "context": "After the festive atmosphere settles down, people are eager to socialize and enjoy life; even a small gathering of friends is worth thousands."
+        },
+        {
+            "couplet": "ભરી ફાંટ્યો ને ફેંકે ગુલાલ ચડી ગરદી ગગનમાં લાલ \nરસબસ થયા સખા રંગે રમતાં રંગ રસિયા સંગે",
+            "couplet_number": 15,
+            "context": "A flower blooms in the midst of gloom, its beauty radiates to the heavens red; \nFlavors mingle and colors dance, joy is shared in harmony sweet."
+        },
+        {
+            "couplet": "વાજે વાજાં વિવિધનાં કંઈ જે જેકાર રહ્યો તિયાં થઈ \nએમ રમે રંગભીનો હોળી સંગે લઈ મુનિજન ટોળી",
+            "couplet_number": 16,
+            "context": "As time passes, people and things change, but those who remain steadfast will ultimately thrive; just like the colorful festival that takes place in a village, attracting many to join in celebration."
+        },
+        {
+            "couplet": "સહુ જનની પૂરી છે હામ પછી નાહ્યા સરોવરમાં શ્યામ \nત્યાંથી અલબેલો આવ્યા ઉતારે થઈ રૂડી રસોઈ તે વારે",
+            "couplet_number": 17,
+            "context": "The fullness of a friend's love is found in our own home, and after that, even the Yamuna River can't quench one's thirst; it is only then that you realize the value of friendship."
+        },
+        {
+            "couplet": "જમ્યા જીવન જન જમાડ્યા સર્વે સંતને મોદ પમાડ્યા \nજને બાંધ્યો હિંડોળો ત્યાં બાર્ય હરિ બેઠા હિંડોળા મોઝાર્ય",
+            "couplet_number": 18,
+            "context": "Life has ended, but the soul is still attached; God's presence is felt in every moment, everywhere."
+        },
+        {
+            "couplet": "પછી ઝૂલ્યા હિંડોળે જીવન સર્વે જનને કર્યા મગન \nપછી મેડિયે બેઠા મહારાજ આવ્યા મલ્લ ત્યાં રમવા કાજ",
+            "couplet_number": 19,
+            "context": "After playing, the peacock lived its life, enjoying itself with all beings; afterwards, I sat at the feet of Maharaja and went to play there."
+        },
+        {
+            "couplet": "દીઠી જેઠીની રમત્ય સારી રીઝી દીધો શિરપાવ ઉતારી \nએમ લીલા કરી અલબેલે દીધાં દર્શન છેલ છબીલે",
+            "couplet_number": 20,
+            "context": "The couplet describes the joyous and playful nature of siblings, their bond being strong like a tree branch that's grown together with time. Their playfulness is like a beautiful painting, showcasing the beauty of their relationship."
+        },
+        {
+            "couplet": "કરી લીલા ત્યાં બહુ જીવને ફાગણ સુદિ પૂન્યમને દને \nતે દિ લીલા કરી મછિયાવ્યે કરાવી ફૂઈબાઈએ ભાવે",
+            "couplet_number": 21,
+            "context": "Life is celebrated with great enthusiasm in the festive season of Fagun, and it is filled with joy and love. The festival brings people together to celebrate life's beauty and cherish each other's company."
+        },
+        {
+            "couplet": "પછી ત્યાંથી ચાલ્યા તતકાળ આવ્યા દદુકે દીનદયાળ \nતિયાં ભક્ત વસે છે ભાવિક જેને આશરો સ્વામીનો એક",
+            "couplet_number": 22,
+            "context": "As time passed, I wandered in search of divine guidance; now a devoted soul resides within me, under the Lord's shelter."
+        },
+        {
+            "couplet": "તેણે તેડી મુનિજન સાથ રૂડી રસોયે જમાડ્યા નાથ \nપછી જમાડી સંતની મંડળી કરી સુંદર રસોઈ ગળી",
+            "couplet_number": 23,
+            "context": "She decorated the divine gathering with her presence and beautiful smile; afterwards, she led a lovely and elegant circle of devotees."
+        },
+        {
+            "couplet": "પ્રભુ પોતે પીરસવા ઊઠ્યા દાસ ઉપર દયાળુ ત્રૂઠ્યા \nલઈ લાડુ કરે મનુવાર્ય જમાડી સંત પમાડ્યા હાર્ય",
+            "couplet_number": 24,
+            "context": "The Lord himself is deceived by the slave's flattery, and a saintly person is defeated by their own pride. The speaker laments that even the humblest of people can be brought down by their own arrogance."
+        },
+        {
+            "couplet": "એમ આપી સુખ અતિ ઘણાં કર્યાં રાજી મન જન તણાં \nપછી અલબેલે આગન્યા કીધી સર્વે સંતને શીખ જ દીધી",
+            "couplet_number": 25,
+            "context": "This couplet suggests that true happiness is rare and fleeting, obtained after putting in effort to cultivate a calm mind; and once achieved, it's shared with others through wisdom imparted."
+        },
+        {
+            "couplet": "પછી રહ્યા તિયાં એક રાત્ય ત્યાંથી પ્રભુ પધાર્યા પ્રભાત્ય \nજોઈ જનના મનનો ભાવ પાછા પધારિયા મછિયાવ",
+            "couplet_number": 26,
+            "context": "After living a night with the Lord, one returns to their own mind's state; then, one becomes attached again and falls back into old habits."
+        },
+        {
+            "couplet": "રહ્યા તિયાં પોતે પંચ દન દીધાં દયા કરી દરશન \nપછી ત્યાંથી ચાલ્યા તતકાળ આવ્યા શ્યામળો ગામ શિયાળ",
+            "couplet_number": 27,
+            "context": "He stayed there for five days and nights, enjoying the divine sight; later he left that place in the morning, returning to his village in the evening."
+        },
+        {
+            "couplet": "તિયાં ભક્ત વસે તુલાધાર રૂડો જન ને મન ઉદાર \nતેને ઘેર ઊતર્યા મહારાજ કરાવ્યાં ભોજન નાથ કાજ",
+            "couplet_number": 28,
+            "context": "A devout soul resides in a humble abode, with a generous heart that's free from worldly attachments. Their majesty takes care of them and provides for their needs without any expectations."
+        },
+        {
+            "couplet": "ત્યાંથી જમી ચાલ્યા અલબેલો રહ્યા રોજકે છેલ છબીલો \nત્યાંથી ચાલિયા સુંદરશ્યામ આવ્યા ગોવિંદ ગઢડે ગામ",
+            "couplet_number": 29,
+            "context": "There is no clear rhyme scheme in this couplet, but a possible summary is:\n\nA journey began with unknown destination, but every day brought new beauty; then came the beautiful Gopinath and reached their village."
+        },
+        {
+            "couplet": "સર્વે જન કરે જે જેકાર ધન્ય ધન્ય એ થાય ઉચ્ચાર \nએવી કીરતિ કાને સાંભળી સર્વે અસુર ઊઠ્યા છે બળી",
+            "couplet_number": 30,
+            "context": "Here is a summarization of the Gujarati couplet:\n\nPeople praise what they get, and it becomes great; but listen to such flattery carefully, for everyone has their own hidden strength."
+        },
+        {
+            "couplet": "કહે અસુર સરવે મળી સતસંગીને નાખિયે દળી \nએમ પાપી મળી પરિયાણ્યા દેશદેશના અસુર આણ્યા",
+            "couplet_number": 31,
+            "context": "Here is a summary of the Gujarati couplet in English:\n\nBad company will gather you, and with them, you'll be destroyed; similarly, sinful people will ruin their own countries, bringing forth demonic forces within themselves."
+        },
+        {
+            "couplet": "મોટે દૈત્યે મનસૂબો કરી આવ્યા બહુ બળે બંધૂકો ભરી \nસહુ દિશેથી લીધા છે ઘેરી ખરા ખેધકુ સાધુના વેરી",
+            "couplet_number": 32,
+            "context": "A mighty force should be used to overcome great troubles, but one's own self is the biggest obstacle to overcome."
+        },
+        {
+            "couplet": "માંહોમાંહિ બોલે એમ પાપી નાખો સત્સંગી સહુને કાપી \nચોંપે ચડાવી બંધૂકો હૈયે બોલિયા હરિના ભક્ત તૈયે",
+            "couplet_number": 33,
+            "context": "Those who speak ill of others are sinners, and it's better to cut off relationships with such people; instead, follow the path of devotion to God like the true devotees do."
+        },
+        {
+            "couplet": "કરો ઘાવ શું રહ્યા વિચારી પછી જુવો રમત્ય અમારી \nતૈયે અસુરે બંધૂકો દાગી ઊડી આગ્ય ને ડાઢિયો લાગી",
+            "couplet_number": 34,
+            "context": "A person should consider what they have achieved and then enjoy it; otherwise, their success will be like a bird that flies away without being caught."
+        },
+        {
+            "couplet": "પછી એવું જણાણું છે એને આજ ન મૂકે જીવતા કેને \nપછી પાપી પાછા પગ ભરી ગયા કાળા મોઢા સહુ કરી",
+            "couplet_number": 35,
+            "context": "The couplet suggests that one should not conceal their true nature today and tomorrow, as it is futile to pretend otherwise. Instead, acknowledge your mistakes and take responsibility for them, like a sinner who has finally confessed their guilt."
+        },
+        {
+            "couplet": "પડ્યા પાપી પાછા પાપવશ માસ જ્યેષ્ઠ સુદિ ચઉદશ \nતે દિ દુષ્ટે એ રચ્યોતો દગો દગો અંતે નોય કેનો સગો",
+            "couplet_number": 36,
+            "context": "The wicked person is caught in their own sins, stuck in the cycle of suffering until the end of time."
+        },
+        {
+            "couplet": "પાપી પોતાના પાપમાં ગયા હરિભક્ત તે નિર્ભય રહ્યા \nપછી ત્યાંથી સધાવિયા શ્યામ આવ્યા નાથ કારિયાણી ગામ",
+            "couplet_number": 37,
+            "context": "Those who commit sinful acts get consumed by their own vices, but a devotee of God remains fearless; later, Shyam (Lord Krishna) came to the town where sinners were punished and virtuous people were rewarded."
+        },
+        {
+            "couplet": "રહ્યા દન દો ચાર એ ઠામ પછી આવિયા ગઢડે ગામ \nઆવ્યા સાધુ રામદાસ કાજ કર્યું રામદાસે તન ત્યાજ",
+            "couplet_number": 38,
+            "context": "A person lived for four days in this world, then went to the village of Gadhda after that; Ramdas left his body and attained salvation."
+        },
+        {
+            "couplet": "જ્યેષ્ઠ વદી તે છઠ્યને દન તે દિ ત્યાગ્યું છે તેમણે તન \nએહ કાજે રહ્યા એક રાત પાછા પ્રભુ પધાર્યા પ્રભાત",
+            "couplet_number": 39,
+            "context": "When the greatest sorrow is faced, it becomes a test of one's strength; it can be overcome in just one night, with God's guidance, at dawn."
+        },
+        {
+            "couplet": "દિન દશ પાંચ તિયાં રહ્યા કરી જીત ગઢડે આવિયા \nઆવી તીરથવાસીને કાજે બંધાવ્યું સદાવ્રત મહારાજે",
+            "couplet_number": 40,
+            "context": "Five days passed like a dream, and finally I achieved victory; the king of customs has bound me in an unbreakable tradition."
+        },
+        {
+            "couplet": "આપે અન્ન જમે જન બહુ સુણી આવે અન્નારથી સહુ \nબાંધી ધર્મની ધ્વજા તે બહાર દિયે અન્ન બહુ દે દેકાર",
+            "couplet_number": 41,
+            "context": "One line summary: Although you may eat much food, it is the effort that leads to growth; similarly, though you may raise high the flag of righteousness, it's the inner purification that truly saves.\n\nTwo-line summary: The couplet emphasizes the importance of effort and inner purification in achieving spiritual growth."
+        },
+        {
+            "couplet": "બીજી જમે મુનિની મંડળી થાય આનંદ ઉત્સવ વળી \nએમ કર્તાં વીત્યું છે ચોમાસું ગયો ભાદ્ર ને આવિયો આસુ",
+            "couplet_number": 42,
+            "context": "In the company of good people, joy and celebration arise; having spent a year in peace, I've reached the holy month of Bhadrapad and await the next one."
+        },
+        {
+            "couplet": "પછી સુરતથી સતસંગી આવ્યા પ્રભુને કાજે પોશાગ લાવ્યા \nલાવ્યા પાઘ સુંદર શોભાળી નામે અંકિત અતિ રૂપાળી",
+            "couplet_number": 43,
+            "context": "Gujarati friends came from Surat, bringing with them the Lord's blessings; their arrival was a beautiful sight, esteemed and lovely in name."
+        },
+        {
+            "couplet": "લાવ્યા વાઘો સુંદર સુરવાળ બહુ પ્રેમેશું પૂજ્યા દયાળ \nથયા રાજી પોતે મહારાજ પહેર્યાં વસ્ત્ર જન હેત કાજ",
+            "couplet_number": 44,
+            "context": "A beautiful horse was obtained through love, and the divine was pleased; it became a great king itself, adorning its people with its own virtues."
+        },
+        {
+            "couplet": "જેના સેવક આતમારામ માને પોતાને પૂરણકામ \nતેના સ્વામીને કેમ કહેવાય જે અપ્રાકૃત પૂજાને ચાય",
+            "couplet_number": 45,
+            "context": "Those who serve their own self-interest are complete; they praise only their own accomplishments.\nThey will be praised by no one, except for the worship of their own unfulfilled desires."
+        },
+        {
+            "couplet": "માટે જનના ભાવને જોઈ લિયે પૂજા પ્રસન્ન મન હોઈ \nએમ કરતાં આવી દિવાળી પૂરી દીપની માળા રૂપાળી",
+            "couplet_number": 46,
+            "context": "To understand the emotions of others and worship with a peaceful mind; this is how one should celebrate the festival, filling the lamp of life with beauty."
+        },
+        {
+            "couplet": "તિયાં બેઠા અલબેલો આવી સુંદર મૂરતિ સહુને ભાવી \nજોઈ જન થયા છે મગન સહુ કહે સ્વામી ધન્ય ધન્ય",
+            "couplet_number": 47,
+            "context": "The beloved's beauty is like a work of art, and I am grateful to behold it. His praise is sweet music that fills my heart with joy."
+        },
+        {
+            "couplet": "પછી બહુ ભાતે કર્યાં ભોજન વિધ્ય વિધ્યનાં કર્યાં વ્યંજન \nઘણે અન્ને અન્નકોટ કીધો વાલે પ્રેમેશું પ્રસાદ લીધો",
+            "couplet_number": 48,
+            "context": "After a meal of many courses, one's hunger is satisfied and tastes are fulfilled; many grains have been sown, and the fruit of love has been harvested with joy."
+        },
+        {
+            "couplet": "પછી જમાડ્યો જનનો સાથ પ્રભુ પીરસે પોતાને હાથ \nદીધું નાથે સુખ લીધું જને કાર્તિક સુદિ એકમને દને",
+            "couplet_number": 49,
+            "context": "When a person's life is over, the Lord takes his hand; one gets happiness only when one's account is settled on the day of Kartik Sud Ekam."
+        },
+        {
+            "couplet": "તે દિ આવ્યા મુનિ સહુ મળી દેશો દેશ જે હતી મંડળી \nકરાવિયો ઉત્સવ એ દને જયા લલિતા ઉત્તમ જને",
+            "couplet_number": 50,
+            "context": "The gods descended as a gathering of people from various lands; they celebrated the festival with Lalita, who was the best among them."
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Alabelojī ānandkārī, āvyā Gaḍhaḍe dev murārī; <RHYME_1>\nSarve dāsne darshan dīdhā, jannā man magan kīdhā.  <RHYME_1>",
+            "couplet_number": 1,
+            "context": "The joy of reunion is like a sweet medicine that cures all sorrows, and the meeting with the Lord is the ultimate fulfillment of one's desires.\n\n(The rhyme scheme seems to be AABB, where <RHYME_1> is repeated at the end of both couplets.)"
+        },
+        {
+            "couplet": "Beṭhā vālyam āsan vāḷī, jan sahu rahyā sāmu bhāḷī; <RHYME_2>\nJem chandane juve chakor, jem meghne juve chhe mor.  <RHYME_2>",
+            "couplet_number": 2,
+            "context": "In life's journey, whether it's easy or hard, a good person will always be remembered with respect and gratitude. Just as a peacock is praised for its beauty, so too is a virtuous person celebrated by all."
+        },
+        {
+            "couplet": "Em sarve rahyā sāmu joī, mīṭe maṭaku na bhare koī; <RHYME_3>\nPachhī boliyā prāṇ-jīvan, tame chho sukhiyā sahu jan.  <RHYME_3>",
+            "couplet_number": 3,
+            "context": "The couplet suggests that a person who has nothing in life, yet is content with what they have, is truly happy and blessed. It implies that one's inner satisfaction and joy come from being at peace with oneself, regardless of external circumstances."
+        },
+        {
+            "couplet": "Pachhī bolyā jan joḍī hāth, tamane nīrkhī sukhī chhīe Nāth; <RHYME_4>\nPachhī sundar bhojan karī, jan hete jamyā tiyā Hari.  <RHYME_4>",
+            "couplet_number": 4,
+            "context": "A person who has obtained God's mercy is one who has received true happiness and peace of mind. Serving God through devotion brings joy and contentment in life."
+        },
+        {
+            "couplet": "Ati hete bole vālo vaḷī, sarve rājī thāy te sāmbhaḷī; <RHYME_5>\nDesh-deshnā dās sambhārī, vakhāṇe tene dev murāri.  <RHYME_5>",
+            "couplet_number": 5,
+            "context": "The couplet is a playful expression of the joy of being in love, where the speaker's emotions are so intense that they seem to be speaking from one place to another.\n\nIt describes the longing and yearning for one's beloved, comparing it to the devotion one has towards God."
+        },
+        {
+            "couplet": "Bījī bahu bahu kare vāt, suṇī jan thāy raḷiyāt; <RHYME_6>\nEm karatā mās doy thayā, din dash te upar gayā.  <RHYME_6>",
+            "couplet_number": 6,
+            "context": "The couplet describes the cycle of life where a child is born (vāt) and grows up, eventually passing away, leaving memories behind. In this journey, each day passes quickly, and before we know it, our time on earth has come to an end."
+        },
+        {
+            "couplet": "Tyāre boliyā jīvanprāṇ, suṇo sant sarave sujāṇ; <RHYME_7>\nHatī asurnī je upādhi, te ā same shamī gaī bādhi.  <RHYME_7>",
+            "couplet_number": 7,
+            "context": "The couplet suggests that one should listen to the wise and gentle ones in life, who will guide you towards a peaceful path. It also cautions against getting stuck in worldly attachments, which can lead to suffering."
+        },
+        {
+            "couplet": "Thayu rājya have nyāyavāḷu, sarve garīb rānkne sukhāḷu; <RHYME_8>\nHave jor julam na thāy, tam jevā sādhu na pīḍāy.  <RHYME_8>",
+            "couplet_number": 8,
+            "context": "In a just kingdom, all poor people find happiness; there is no oppression or injustice."
+        },
+        {
+            "couplet": "Māṭe rākho prathamnī rīt, ati sundar param punit; <RHYME_9>\nEm kahyu janne Mahārāje, tevī rītya rākhī munirāje.  <RHYME_9>",
+            "couplet_number": 9,
+            "context": "Keep the first morning hours sacred and pure, like a divine treasure. Let wisdom guide you in this noble pursuit, as you embark on the journey of life."
+        },
+        {
+            "couplet": "Pachhī āvyo chhe Fāgaṇ mās, hoḷī ramavā thayā hulās; <RHYME_10>\nBhāl madhye gām Machhiyāvya, vase bhakta tene ati bhāv.  <RHYME_10>",
+            "couplet_number": 10,
+            "context": "The monsoon season has arrived, bringing joy and celebration. In the midst of this happiness, a devotee's love for God is intense and pure."
+        },
+        {
+            "couplet": "Teṇe Harine teḍāvyā hete, tiyā padhāriyā Prabhujī prīte; <RHYME_11>\nSakhā sahit āvyā Bhagwān, dīdhā dāsne darshan-dān.  <RHYME_11>",
+            "couplet_number": 11,
+            "context": "The devotee's soul is consumed by love for God, and their heart is filled with devotion; in this state, they meet God's beloved gaze.\n\nIn the presence of the Lord, a devoted friend (sakhā) comes to behold God's divine form."
+        },
+        {
+            "couplet": "Desh deshnā satsangī āvyā, tiyā sarve munine bolāvyā; <RHYME_12>\nKaravā utsav devā darshan, ati rājī chhe prāṇjīvan.  <RHYME_12>",
+            "couplet_number": 12,
+            "context": "In the presence of one's homeland, a true devotee is filled with ecstasy and speechless; even the gods are delighted to witness such joy and vitality."
+        },
+        {
+            "couplet": "Mīṭhī vāṇīe sahune bolāve, vāt vālānī sahune bhāve; <RHYME_13>\nVaḷī prashna uttar tiyā thāy, jan guṇ Govindnā gāy.  <RHYME_13>",
+            "couplet_number": 13,
+            "context": "Words are sweetly spoken when received with kindness, and the atmosphere is pleasant when interactions are harmonious."
+        },
+        {
+            "couplet": "Pachhī āvyo utsavno dan, ramavā rājī janshu jīvan; <RHYME_14>\nThayā Alabelo asavār, sange sakhā hajāro hajār.  <RHYME_14>",
+            "couplet_number": 14,
+            "context": "The couplet describes the joy and celebration of a festival, where people come together to live life to the fullest. It also mentions the beauty of unity and friendship, with hundreds and thousands of friends gathering together."
+        },
+        {
+            "couplet": "Bharī fānṭyo ne feke gulāl, chaḍī garadī gaganmā lāl; <RHYME_15>\nRasbas thayā sakhā range, ramatā rang rasiyā sange.  <RHYME_15>",
+            "couplet_number": 15,
+            "context": "A beautiful bouquet of flowers is arranged in the sky, and the colors blend together harmoniously. In a similar way, the beauty of love is reflected in the joyous union of two souls."
+        },
+        {
+            "couplet": "Vāje vājā vividhnā kaī, je jekār rahyo tiyā thaī; <RHYME_16>\nEm rame rangbhīno Hoḷī, sange laī munijan ṭoḷī.  <RHYME_16>",
+            "couplet_number": 16,
+            "context": "The journey of life is unpredictable and full of twists, just like a horse that can suddenly change direction. Just as the color of Holi festival changes with each throw of powder, so too does our path in life keep shifting."
+        },
+        {
+            "couplet": "Sahu jannī pūrī chhe hām, pachhī nāhyā sarovarmā Shyām; <RHYME_17>\nTyāthī Alabelo āvyā utāre, thaī rūḍī rasoī te vāre.  <RHYME_17>",
+            "couplet_number": 17,
+            "context": "The couplet speaks about a person (Sahu) who is full of pride and arrogance like a lotus flower blooming in the muddy water. However, when reality hits him, his ego will be shattered like a pot broken by a hammer."
+        },
+        {
+            "couplet": "Jamyā jīvan jan jamāḍyā, sarve santne mod pamāḍyā; <RHYME_18>\nJane bāndhyo hinḍoḷo tyā bārya, Hari beṭhā hinḍoḷā mozārya.  <RHYME_18>",
+            "couplet_number": 18,
+            "context": "Life is short and fleeting, so cultivate peace in the present moment; tie up worldly attachments and find solace in devotion to God."
+        },
+        {
+            "couplet": "Pachhī zūlyā hinḍoḷe jīvan, sarve janne karyā magan; <RHYME_19>\nPachhī meḍiye beṭhā Mahārāj, āvyā malla tyā ramavā kāj.  <RHYME_19>",
+            "couplet_number": 19,
+            "context": "Life is short and fleeting, make the most of every moment; let your deeds be a testimony to your existence, just like the great Rama's."
+        },
+        {
+            "couplet": "Dīṭhī jeṭhīnī ramatya sārī, rīzī dīdho shirpāv utārī; <RHYME_20>\nEm līlā karī Alabele, dīdhā darshan chhel chhabīle.  <RHYME_20>",
+            "couplet_number": 20,
+            "context": "A playful woman's charm is her greatest treasure, and she can lift the spirits of others with a single glance.\nIn playfulness, she enchants all, filling their eyes with joy and delight."
+        },
+        {
+            "couplet": "Karī līlā tyā bahu jīvane, Fāgaṇ sudi pūnyamne dane; <RHYME_21>\nTe di līlā karī Machhiyāvye, karāvī Fūībāīe bhāve.  <RHYME_21>",
+            "couplet_number": 21,
+            "context": "This couplet expresses the joy and happiness that comes from living a virtuous life, where one's good deeds are rewarded in this lifetime. The rhyme suggests that when one does good, it is like reeling in a fish with a hook."
+        },
+        {
+            "couplet": "Pachhī tyāthī chālyā tatakāḷ, āvyā Daduke dīndayāḷ; <RHYME_22>\nTiyā bhakta vase chhe bhāvik, jene āsharo Swāmīno ek.  <RHYME_22>",
+            "couplet_number": 22,
+            "context": "The devotee is wandering in search of the Lord, and when found, will settle down. This is one's true home, where devotion dwells with God."
+        },
+        {
+            "couplet": "Teṇe teḍī munijan sāth, rūḍī rasoye jamāḍyā Nāth; <RHYME_23>\nPachhī jamāḍī santnī manḍaḷī, karī sundar rasoī gaḷī.  <RHYME_23>",
+            "couplet_number": 23,
+            "context": "The Beloved Lord is present with me and the saints, filling my soul with divine nectar. My mind has been filled with His beauty, and I have become intoxicated by His love."
+        },
+        {
+            "couplet": "Prabhu pote pīrasavā ūṭhyā, dās upar dayāḷu trūṭhyā; <RHYME_24>\nLaī lāḍu kare manuvārya, jamāḍī sant pamāḍyā hārya.  <RHYME_24>",
+            "couplet_number": 24,
+            "context": "The Lord's mercy awakens the sleeper, and his servant's compassion stirs the soul. One's inner wisdom guides them towards spiritual freedom, while worldly attachments hinder their progress."
+        },
+        {
+            "couplet": "Em āpī sukh ati ghaṇā, karyā rājī man jan taṇā; <RHYME_25>\nPachhī Alabele āganyā kīdhī, sarve santane shīkh ja dīdhī.  <RHYME_25>",
+            "couplet_number": 25,
+            "context": "The couplet describes the joy of a peaceful life where one is content and fulfilled. It also emphasizes the importance of sharing knowledge and wisdom with others, spreading calmness throughout the community."
+        },
+        {
+            "couplet": "Pachhī rahyā tiyā ek rātya, tyāthī Prabhu padhāryā prabhātya; <RHYME_26>\nJoī jannā manno bhāv, pāchhā padhāriyā Machhiyāva.  <RHYME_26>",
+            "couplet_number": 26,
+            "context": "The Lord's guidance is necessary for a journey at night, and only then can one find their true nature. The heart's desire should be to surrender and follow the path, like a fish swimming downstream."
+        },
+        {
+            "couplet": "Rahyā tiyā pote panch dan, dīdhā dayā karī darashan; <RHYME_27>\nPachhī tyāthī chālyā tatakāḷ, āvyā Shyāmaḷo gām Shiyāḷ.  <RHYME_27>",
+            "couplet_number": 27,
+            "context": "Here is a summary of the couplet:\n\nGiving a little charity and looking with compassion is good; then one gets to see God's form.\n\nThe one who gives a little charity and looks at others with pity will ultimately reach Lord Shiva's abode."
+        },
+        {
+            "couplet": "Tiyā bhakta vase Tulādhār, rūḍo jan ne man udār; <RHYME_28>\nTene gher ūtaryā Mahārāj, karāvyā bhojan Nāth kāj.  <RHYME_28>",
+            "couplet_number": 28,
+            "context": "The devotee's heart is filled with devotion and noble thoughts. The Lord dwells within them, satisfying their hunger for spiritual nourishment."
+        },
+        {
+            "couplet": "Tyāthī jamī chālyā Alabelo, rahyā Rojake chhel chhabīlo; <RHYME_29>\nTyāthī chāliyā sundar-shyām, āvyā Govind Gaḍhaḍe gām.  <RHYME_29>",
+            "couplet_number": 29,
+            "context": "The moon's beauty is gone with the morning, leaving only a faint glow of dawn. It's like a beautiful evening that's gone to God's abode in the night."
+        },
+        {
+            "couplet": "Sarve jan kare je jekār, dhanya dhanya e thāy uchchār; <RHYME_30>\nEvī kīrati kāne sāmbhaḷī, sarve asur ūṭhyā chhe baḷī.  <RHYME_30>",
+            "couplet_number": 30,
+            "context": "Everyone gets the fruit of their actions, and it's a great thing that people are benefited by the words they speak. But beware, for one's own wrongdoings will lead to downfall, not someone else's."
+        },
+        {
+            "couplet": "Kahe asur sarave maḷī, satasangīne nākhiye daḷī; <RHYME_31>\nEm pāpī maḷī pariyāṇyā, desh-deshnā asur āṇyā.  <RHYME_31>",
+            "couplet_number": 31,
+            "context": "A wicked person is found everywhere, not just in one place; evil deeds are committed by people from every region."
+        },
+        {
+            "couplet": "Moṭe daitye manasūbo karī, āvyā bahu baḷe bandhūko bharī; <RHYME_32>\nSahu dishethī līdhā chhe gherī, kharā khedhaku sādhunā verī.  <RHYME_32>",
+            "couplet_number": 32,
+            "context": "The couplet describes a situation where someone's mind is troubled by excessive thinking, and their heart is heavy with worry. Despite this, they still feel a sense of longing or yearning for something."
+        },
+        {
+            "couplet": "Māhomāhi bole em pāpī, nākho satsangī sahune kāpī; <RHYME_33>\nChompe chaḍāvī bandhūko haiye, boliyā Harinā bhakta taiye.  <RHYME_33>",
+            "couplet_number": 33,
+            "context": "A person who is a sinner (papī) is not suitable for sacred gatherings, while one who has devotion to God (Harinā bhakta) is worthy of being in such company."
+        },
+        {
+            "couplet": "Karo ghāv shu rahyā vichārī, pachhī juvo ramatya amārī; <RHYME_34>\nTaiye asure bandhūko dāgī, ūḍī āgya ne ḍāḍhiyo lāgī.  <RHYME_34>",
+            "couplet_number": 34,
+            "context": "The couplet suggests that one should not forget their own joys and sorrows in the midst of others' troubles. It cautions against getting entangled in others' predicaments while neglecting one's own well-being."
+        },
+        {
+            "couplet": "Pachhī evu jaṇāṇu chhe ene, āj na mūke jīvatā kene; <RHYME_35>\nPachhī pāpī pāchhā pag bharī, gayā kāḷā moḍhā sahu karī.  <RHYME_35>",
+            "couplet_number": 35,
+            "context": "The couplet describes a sinner who has not repented in life and is now regretting their past deeds."
+        },
+        {
+            "couplet": "Paḍyā pāpī pāchhā pāpavash, mās Jyeṣhṭha sudi chaudash; <RHYME_36>\nTe di duṣhṭe e rachyoto dago, dago ante noy keno sago.  <RHYME_36>",
+            "couplet_number": 36,
+            "context": "As the month of Jyeshtha begins on the 15th day, sinners are reminded to repent; however, those who are already lost cannot be saved."
+        },
+        {
+            "couplet": "Pāpī potānā pāpmā gayā, haribhakta te nirbhay rahyā; <RHYME_37>\nPachhī tyāthī sadhāviyā Shyām, āvyā Nāth Kāriyāṇī gām.  <RHYME_37>",
+            "couplet_number": 37,
+            "context": "Sinners will forever wander in sorrow, while devotees of God remain fearless and calm. The righteous one goes to the realm of Lord Nath, which is Shyaam's city."
+        },
+        {
+            "couplet": "Rahyā dan do chār e ṭhām, pachhī āviyā Gaḍhaḍe gām; <RHYME_38>\nĀvyā sādhu Rāmdās kāj, karyu Rāmdāse tan tyāj.  <RHYME_38>",
+            "couplet_number": 38,
+            "context": "Four pillars of patience hold strong, followed by a visit to the village; A devotee of Lord Rama's service is willing to sacrifice his body for it."
+        },
+        {
+            "couplet": "Jyeṣhṭha vadī te chhaṭhyane dan, te di tyāgyu chhe temaṇe tan; <RHYME_39>\nEh kāje rahyā ek rāt, pāchhā Prabhu padhāryā prabhāt.  <RHYME_39>",
+            "couplet_number": 39,
+            "context": "The couplet suggests that one should give up worldly desires and devote themselves to God's service."
+        },
+        {
+            "couplet": "Din dash pāch tiyā rahyā, karī jīt Gaḍhaḍe āviyā; <RHYME_40>\nĀvī tīrathvāsīne kāje, bandhāvyu sadāvrat Mahārāje.  <RHYME_40>",
+            "couplet_number": 40,
+            "context": "The couplet describes the joy of finding a treasure trove (Gaḍhaḍe) and being grateful to the Lord for this blessing. It is a prayer asking for continued good fortune and guidance from the Lord, like a pilgrim seeking blessings at a sacred place (Tīrathvāsīne)."
+        },
+        {
+            "couplet": "Āpe anna jame jan bahu, suṇī āve annārathī sahu; <RHYME_41>\nBāndhī dharmanī dhvajā te bahār, diye anna bahu de dekār.  <RHYME_41>",
+            "couplet_number": 41,
+            "context": "The couplet describes a situation where someone is not only fed but also blessed with abundance, and their wealth increases as they maintain moral principles. Their good deeds are like a flag that attracts more prosperity."
+        },
+        {
+            "couplet": "Bījī jame muninī manḍaḷī, thāy ānand utsav vaḷī; <RHYME_42>\nEm kartā vītyu chhe chomāsu, gayo Bhādra ne āviyo Āsu.  <RHYME_42>",
+            "couplet_number": 42,
+            "context": "The couplet describes a joyful and festive atmosphere where the seed of happiness is sown and blooming, with the phrase \"Em kartā vītyu\" suggesting that this joy has been earned through one's own efforts."
+        },
+        {
+            "couplet": "Pachhī Suratthī satasangī āvyā, Prabhune kāje poshāg lāvyā; <RHYME_43>\nLāvyā pāgh sundar shobhāḷī, nāme ankit ati rūpāḷī.  <RHYME_43>",
+            "couplet_number": 43,
+            "context": "Here is a summary of the Gujarati couplet:\n\nThe devotee's love for God is like a beautiful garland that adorns His form, and it shines brightly with His name being uttered."
+        },
+        {
+            "couplet": "Lāvyā vāgho sundar suravāḷ, bahu premeshu pūjyā dayāḷ; <RHYME_44>\nThayā rājī pote Mahārāj, paheryā vastra jan het kāj.  <RHYME_44>",
+            "couplet_number": 44,
+            "context": "The beauty of the Lord is praised with love and compassion by many. Even a simple person like a weaver can serve the Lord as a royal servant."
+        },
+        {
+            "couplet": "Jenā sevak ātamārām, māne potāne pūraṇkām; <RHYME_45>\nTenā Swāmīne kem kahevāy, je aprākṛut pūjāne chāy.  <RHYME_45>",
+            "couplet_number": 45,
+            "context": "The devotee's purpose is to surrender their ego and offer their entire being; they should seek the Lord's guidance in all actions, just as a shadow follows its source."
+        },
+        {
+            "couplet": "Māṭe jannā bhāvne joī, liye pūjā prasanna man hoī; <RHYME_46>\nEm karatā āvī Diwāḷī, pūrī dīpnī māḷā rūpāḷī.  <RHYME_46>",
+            "couplet_number": 46,
+            "context": "When the heart is filled with devotion, worship becomes a joyful and pleased state of mind. Just as Diwali lights bring joy to our homes, so too does inner devotion illuminate our soul's beauty."
+        },
+        {
+            "couplet": "Tiyā beṭhā Alabelo āvī, sundar mūrati sahune bhāvī; <RHYME_47>\nJoī jan thayā chhe magan, sahu kahe Swāmī dhanya dhanya.  <RHYME_47>",
+            "couplet_number": 47,
+            "context": "A person with a beautiful soul is found on the path of devotion, and one who has surrendered to God is considered blessed. He who has realized his soul's essence and has reached the divine state is truly grateful to their Lord."
+        },
+        {
+            "couplet": "Pachhī bahu bhāte karyā bhojan, vidhya vidhyanā karyā vyanjan; <RHYME_48>\nGhaṇe anne Annakoṭ kīdho, vāle premeshu prasād līdho.  <RHYME_48>",
+            "couplet_number": 48,
+            "context": "A couple's mealtime is spent enjoying each other's company, and their words are sweet as dessert. In the morning, they are filled with anxiety about their work, but by evening, they are pleased in love's pleasure."
+        },
+        {
+            "couplet": "Pachhī jamāḍyo janno sāth, Prabhu pīrase potāne hāth; <RHYME_49>\nDīdhu Nāthe sukh līdhu jane, Kārtik sudi ekamne dane.  <RHYME_49>",
+            "couplet_number": 49,
+            "context": "The couplet describes the joy of being with one's loved ones, as if one has found a haven in God's hands. In this unity and togetherness, true happiness is discovered."
+        },
+        {
+            "couplet": "Te di āvyā muni sahu maḷī, desho desh je hatī manḍaḷī; <RHYME_50>\nKarāviyo utsav e dane, Jayā Lalitā Uttam jane.  <RHYME_50>",
+            "couplet_number": 50,
+            "context": "The couplet celebrates the joy of celebrating festivals and honoring Goddess Laxmi (Lalitā) with devotion. It encourages others to join in the festive spirit."
+        }
+    ]
+}

@@ -1,0 +1,489 @@
+{
+    "prakaran": 29,
+    "title_gu": "પ્રકરણ ૨૯: હરિતપશ્ચર્યાવર્ણન",
+    "title_trans": "Prakaran 29: Hari-Tapashcharyā-Varṇan",
+    "gujarati": [
+        {
+            "couplet": "ત્યાર પછીની જે વારતા, તમે સાંભળો સહુ સુજાણ; <RHYME_1>\nત્યાગ વૈરાગ્ય જે નાથનો, તેનાં શિયાં કરું હું વખાણ.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "ભૂલ્યે પણ નિજ દેહને, માને નહિ કોઈ દિન; <RHYME_2>\nઈશ્વર ઇચ્છાએ તન રહ્યું, પણ પોતે ન કર્યું જતન.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "પછી પ્રભુજી બેઠા હતા, ગેહેરી ગંગાને તીર; <RHYME_3>\nત્યાંથી ઊઠી ઊતરિયા, જે હતું અથાહ નીર.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "ઉત્તરદિશમાં ચાલવા, અતિ અંતરમાં છે આનંદ; <RHYME_4>\nઝર્ય નગને નિઝરણે, ચાલ્યા ઘનશ્યામ સુખકંદ.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "ચાલ્યા ઉત્તર દિશે દયાળ, નિધડક થઈ તતકાળ; <RHYME_5>\nમોટા મોટા પર્વત બે પાસે, જાણું અદ્રિ અડ્યા છે આકાશે.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "સામ સામી ઝૂકી છે શિખર્યો, બહુ બિયામણી ઘણી ઝર્યો; <RHYME_6>\nચાલે નિઝરણે નીર ઘણાં, થાય ઘોષ અખંડ તે તણા.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "જેમ પરસ્પર ઝૂક્યા પહાડ, તેમ ઝકુંબી રહ્યાં છે ઝાડ; <RHYME_7>\nનમી રહ્યું કરાડ્યું કરાળ, તેમાં ચાલ્યા જાય છે દયાળ.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "સામી નદીયે ચાલ્યા છે શ્યામ, જે કોઈ સર્વેના આતમારામ; <RHYME_8>\nત્યાં તો આડો આવ્યો છે અચળ, આવે તેની ગુફામાંથી જળ.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "વહે વેગમાં ધારા પ્રચંડ, થાય ઘોષ તેહનો અખંડ; <RHYME_9>\nત્રણ્યે કોરે જાવા નહિ જાગ્ય, વળે કેમ જેને છે વૈરાગ્ય.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "પછી બેઠા તિયાં ઘનશ્યામ, દિન અસ્ત પામ્યો એહ ઠામ; <RHYME_10>\nવળતું જોયું પૂર્વે વિલોકી, દીઠો પુરુષ ત્યાં એક અલોકી.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "તેણે વણપૂછે કહી વાત, કિયાં જાવું છે હે જગતાત; <RHYME_11>\nપછી હરિ બોલિયા છે ત્યાંઈ, મારે જાવું છે ઉત્તર માંઈ.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "પણ તમે કોણ છો દયાળ, આવ્યા આણે સમે તતકાળ; <RHYME_12>\nત્યારે તે કહે સુણો ભગવાન, હિમાચળ હું મૂરતિમાન.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "એમ કહીને બતાવી વાટ, ગરો ગુફામાં વરણીરાટ; <RHYME_13>\nએમાં ચાલતાં આવશે મગ, એમ કહી ન દેખાણો નગ.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "પછી ચાલ્યા એમાં અવિનાશ, જેને નથી દેહનો અધ્યાસ; <RHYME_14>\nપેઠા ઘોર અંધારી ગુફામાં, આવતી જળધારાને સામા.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "ચાલતાં ચાલતાં વીત્યો પહોર, બીજાનું કેમ હૈયું રહે ઠોર; <RHYME_15>\nમાંહિ મોટા મોટા મણિધર, કૂર્મ ક્રચલા કરી રહ્યા ઘર.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "મીન મઘર્યો દાદુર જેમાં, નિઃશંક મને ચાલ્યા જાય તેમાં; <RHYME_16>\nપછી પામિયા એહનો પાર, નીસર્યા ઘોર ગુફાને બાર.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "ત્યાં તો આવિયો છે એક ધ્રોહ, ઊંડો અથાહ જંતુસમોહ; <RHYME_17>\nવીત્યા ત્રણ દિવસ જો ત્યાંઈ, ફળ ફૂલ મળ્યું નહિ કાંઈ.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "ભૂખ્યા પડી રહ્યા તિયાં રાત્ય, શું કહું એ ધીરજ્યની વાત; <RHYME_18>\nસૂતા નિઃશંક થઈ ગઈ રેણ, જાગ્યા પ્રભાતે કમળનેણ.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "નાહી સંધ્યા કરી તેહ વાર, મળ્યાં ફળ ફૂલ કર્યો આહાર; <RHYME_19>\nપછી ચાલ્યા ત્યાંથી થોડું ઘણું, મળ્યું એંધાણ મારગ તણું.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "ત્યારે ચાલ્યા એ મારગ લઈ, તિયાં દિન વીતી ગયા કંઈ; <RHYME_20>\nપછી પુલહ બ્રહ્માના સુતન, આવ્યું આશ્રમ તેનું પાવન.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "અતિ ચમતકારી છે એહ, થાય સુખી સેવે જન જેહ; <RHYME_21>\nતપફળ મળે તિયાં તર્ત, જિયાં તપ કર્યું આગે ભર્ત.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "મુમુક્ષુને છે સેવવા જેવું, જ્યાં શ્રીકૃષ્ણને છે નિત્ય રહેવું; <RHYME_22>\nચક્ર નદી જિયાં ચ્યારે કોર, નાયા છે તેમાં ધર્મકિશોર.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "કરી ક્રિયા ત્યાં પાઠ પૂજન, કર્યું મુક્તનાથનું દર્શન; <RHYME_23>\nપછી ભરતે કર્યું તપ જિયાં, પોતે પણ બેઠા જઈ તિયાં.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "તેની પેઠ્યે આદર્યું છે તપ, તેના જેવો કરે નિત્ય જપ; <RHYME_24>\nજાણ્યું પામ્યા ભરત મૃગદેહ, માટે પોતે રહે છે નિસ્પ્રેહ.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "એ સંગ તજ્યો જ્યારે બાર્ય, પછી અંતરે કર્યો વિચાર; <RHYME_25>\nપુરંજનની કથા સંભારી, મૂક્યો બુદ્ધિનો સંગ વિસારી.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "શુદ્ધ સ્વરૂપ આત્મા કહેવાય, પોતાતણું માન્યું છે તે માંય; <RHYME_26>\nપછી ઊર્ધ્વબાહુ કરી આપ, કરે ગાયત્રીનો નિત્ય જાપ.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "ધર્યું સૂર્યનારાયણનું ધ્યાન, ગંડકીમાં કરી નિત્ય સ્નાન; <RHYME_27>\nમુક્તનાથ સેવા મન ગમે, ફળ ફૂલ જે મળે તે જમે.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "તેને જોઈ તપી ત્યાં રહેનાર, વિસ્મય પામે મન મોઝાર; <RHYME_28>\nકહે આ તો પ્રહ્‍લાદ છે આપે, કાં તો ધ્રુને મૂક્યા ફરી બાપે.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "કાં તો સ્વામી કાર્તિક કહીએ, કાં તો સનતકુમાર લઈએ; <RHYME_29>\nકાં તો સનકાદિક સુજાણ, કાં તો દત્તાત્રેય પરમાણ.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "ઋભુ કાં તો નારાયણ ઋષિ, તેહ વિના નહી આ તપસી; <RHYME_30>\nજોને કઠણ કરે તપ તને, તોય પડતા નથી મોળા મને.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "જુવો સુખ શોભા મુનિ ઇન્દ્ર, જાણું પૂરણમાસીનો ચંદ્ર; <RHYME_31>\nઆવા બ્રહ્મ સૃષ્ટિમાં ન ભાળ્યા, તે તો આજ નજરે નિહાળ્યા.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "મોટું તપ મનુષ્યે ન થાય, તે આદર્યું છે અતિ ઉછાય; <RHYME_32>\nએને આગળ્ય તપ આપણું, થયું ખેલવણું બાળ તણું.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "દીસે બાળ પણ મોટા બહુ, જોઈ વિસ્મય પામ્યા છીએ સહુ; <RHYME_33>\nએમ માંહો માંહિ કહે મુનિ, જોઈ તપશા તેહ પ્રભુની.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "એવું તપ જોઈ બીજા જન, પ્રભુ દુઃખે દુઃખાણા છે મન; <RHYME_34>\nભક્તિધર્મ દિવ્ય દેહ ધરી, રહે છે પાસે દોય હેતે કરી.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "અતિ કૃશ ઊભા એક પગે, નથી દેખી સકતાં તે દ્રગે; <RHYME_35>\nજાણ્યું લડથડી પડશે નાથ, ખમા ખમા કહી દેય હાથ.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "અતિ હેત છે હરિને માથે, તેણે દંપતી રહે છે સાથે; <RHYME_36>\nદેહ દુર્બળ દેખ્યું ન જાય, રતિ રુધિર નહિ તન માંય.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "અંગોઅંગની જે સર્વે નાડી, તે તો થઈ રહી છે ઉઘાડી; <RHYME_37>\nદીસે અસ્થિ આમિષ ન દીસે, ત્વચા ચોંટી રહિ છે તે વિષે.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "દેહ જોતાં દેહ નવ રહે, એમ જન જોઈ સહુ કહે; <RHYME_38>\nએવે શરીરે આદર્યું તપ, કરે છે મુખે ગાયત્રી જપ.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "તેમાં ધરે છે સૂર્યનું ધ્યાન, ભાવે કરી પોતે ભગવાન; <RHYME_39>\nકરે છે એવું તપ હંમેશ, દેવા તપસ્વીને ઉપદેશ.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "એમ તપ કર્યું માસ ચાર, સહી મેઘ તણી ઘણી ધાર; <RHYME_40>\nકરી તેમાં ઉપાસના ઘણી, તે તો સૂર્યનારાયણ તણી.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "એમ કરતાં એકાદશી જેહ, આવી પ્રબોધિની નામે તેહ; <RHYME_41>\nત્યારે અતિ આનંદ વધારી, કર્યું જાગરણ જામની સારી.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "ત્યારે સૂર્યનારાયણે ત્યાંય, દીધું દર્શન એ નિશિ માંય; <RHYME_42>\nઅતિ સુંદર તન સ્વરૂપ, અંગોઅંગે શોભે છે અનુપ.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "દોય કર કમળ છે હાથે, નંગ જડિત મુગટ માથે; <RHYME_43>\nકનક કડાં છે કરમાં કાજુ, દોય ભુજાએ બાંધ્યા છે બાજુ.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "કાને કુંડળ શોભે છે સાર, તેજ તેજ તેજના અંબાર; <RHYME_44>\nહાસ્યે સહિત શોભે વદન, તેમાં કરુણાએ ભર્યાં લોચન.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "એવાં સૂર્યે દીધાં દરશન, અતિ આપે થઈને પ્રસન્ન; <RHYME_45>\nતેને દેખી ઊઠ્યા હરિ તર્ત, કર્યા ભક્તિએ શું દંડવત.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "થયા ગદ્‍ગદ કંઠે વર્ણી, પ્રેમે ભૂલ્યા શુદ્ધ તનતણી; <RHYME_46>\nઆંખ્યે આંસુ રોમાંચિત તન, જોડી હાથ કરે છે સ્તવન.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "તમે તેજપુંજ મારતંડ, નિજ તેજે પ્રકાશો બ્રહ્માંડ; <RHYME_47>\nધરી કશ્યપ ઘેર અવતાર, એવા તમે તેને નમસ્કાર.  <RHYME_47>",
+            "couplet_number": 47
+        },
+        {
+            "couplet": "તમારે ઉગવે કરી દયાળુ, થાય સર્વે જગત સુખાળું; <RHYME_48>\nતેમાં પાપી પીડાય અપાર, એવા તમે તેને નમસ્કાર.  <RHYME_48>",
+            "couplet_number": 48
+        },
+        {
+            "couplet": "તમારે ઉગવે કરી કહું, કરે કાળની ગણના સહુ; <RHYME_49>\nનીકર નોય કાંઈ નિરધાર, એવા તમે તેને નમસ્કાર.  <RHYME_49>",
+            "couplet_number": 49
+        },
+        {
+            "couplet": "તમારે ઉગવે કરી આપ, સર્વે પ્રાણીના બાંધ્યાં છે માપ; <RHYME_50>\nદેવ દાનવ ને નરનાર્ય, એવા તમે તેને નમસ્કાર.  <RHYME_50>",
+            "couplet_number": 50
+        },
+        {
+            "couplet": "તમે પ્રભુ પ્રકટ છો દેવ, સહુ જન જાણે છે એ ભેવ; <RHYME_51>\nનથી છાનો પ્રતાપ લગાર, એવા તમે તેને નમસ્કાર.  <RHYME_51>",
+            "couplet_number": 51
+        },
+        {
+            "couplet": "એવી સ્તુતિ કરી જોડી કર, ત્યારે ભાવે બોલ્યા ભાસકર; <RHYME_52>\nમાગો હરિ મું પાસેથી આજ, ત્યારે હરિ કહે માગું મહારાજ.  <RHYME_52>",
+            "couplet_number": 52
+        },
+        {
+            "couplet": "કામ ક્રોધ દંભ લોભ મોહ, ઇન્દ્રિગુણ આદિ જે સંમોહ; <RHYME_53>\nતેથી રક્ષા કરજ્યો અમારી, જેણે રહીએ નૈષ્ઠિક બ્રહ્મચારી.  <RHYME_53>",
+            "couplet_number": 53
+        },
+        {
+            "couplet": "વળી જ્યારે જ્યારે હું સંભારું, ત્યારે દર્શન થાય તમારું; <RHYME_54>\nએ જ વર માગું છું તમથી, માયિક સુખ માગતો નથી.  <RHYME_54>",
+            "couplet_number": 54
+        },
+        {
+            "couplet": "ત્યારે સૂર્ય કહે સુખદાઈ, તમ વડે મારી છે મોટાઈ; <RHYME_55>\nઆવો તેજ પ્રતાપ છે મારો, તે તો સર્વે જાણો છે તમારો.  <RHYME_55>",
+            "couplet_number": 55
+        },
+        {
+            "couplet": "નથી સમર્થ તમથી અમે, પણ થાશે જે માગ્યું છે તમે; <RHYME_56>\nએમ હરિને આપી વરદાન, પોતે થયા પછી અંતરધાન.  <RHYME_56>",
+            "couplet_number": 56
+        },
+        {
+            "couplet": "પછી તપ સમાપતિ કરી, એહ ક્ષેત્ર વખાણે છે હરિ; <RHYME_57>\nરહ્યા તિયાં દ્વાદશીનો દન, પછી કર્યું છે ચાલવા મન.  <RHYME_57>",
+            "couplet_number": 57
+        },
+        {
+            "couplet": "એમ ચરિત્ર કરે બહુનામી, જે કોઈ સર્વે ધામના ધામી; <RHYME_58>\nજેની આગન્યામાં અજ ઈશ, વિષ્ણુ વિબુધ શારદા શેષ.  <RHYME_58>",
+            "couplet_number": 58
+        },
+        {
+            "couplet": "જેની આગન્યામાં માયા કાળ, સર્વે લોક વળી લોકપાળ; <RHYME_59>\nજેની આગન્યામાં વાયુ વ્યોમ, વળી કહીએ તેજ તોય ભોમ.  <RHYME_59>",
+            "couplet_number": 59
+        },
+        {
+            "couplet": "એહ સર્વેના નિયંતા સ્વામી, કરે એમ ચરિત્ર બહુનામી; <RHYME_60>\nનરતન ધર્યું છે તે માટ, એમ વરતે છે વર્ણીરાટ.  <RHYME_60>",
+            "couplet_number": 60
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Tyār pachhīnī je vāratā, tame sāmbhaḷo sahu sujāṇ; <RHYME_1>\nTyāg vairāgya je Nāthno, tenā shiyā karu hu vakhāṇ.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "Bhūlye paṇ nij dehne, māne nahi koī din; <RHYME_2>\nĪshvar ichchhāe tan rahyu, paṇ pote na karyu jatan.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "Pachhī Prabhujī beṭhā hatā, geherī Gangāne tīr; <RHYME_3>\nTyāthī ūṭhī ūtariyā, je hatu athāh nīr.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "Uttar-dishmā chālavā, ati antarmā chhe ānand; <RHYME_4>\nZarya nagne nizaraṇe, chālyā Ghanshyām sukhkand.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "Chālyā uttar dishe dayāḷ, nidhaḍak thaī tatakāḷ; <RHYME_5>\nMoṭā moṭā parvat be pāse, jāṇu adri aḍyā chhe ākāshe.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "Sām sāmī zūkī chhe shikharyo, bahu biyāmaṇī ghaṇī zaryo; <RHYME_6>\nChāle nizaraṇe nīr ghaṇā, thāy ghoṣh akhanḍ te taṇā.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "Jem paraspar zūkyā pahāḍ, tem zakumbī rahyā chhe zāḍ; <RHYME_7>\nNamī rahyu karāḍyu karāḷ, temā chālyā jāy chhe dayāḷ.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "Sāmī nadīye chālyā chhe Shyām, je koī sarvenā ātamārām; <RHYME_8>\nTyā to āḍo āvyo chhe achaḷ, āve tenī gufāmāthī jaḷ.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "Vahe vegmā dhārā prachanḍ, thāy ghoṣh tehno akhanḍ; <RHYME_9>\nTraṇye kore jāvā nahi jāgya, vaḷe kem jene chhe vairāgya.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "Pachhī beṭhā tiyā Ghanshyām, din asta pāmyo eh ṭhām; <RHYME_10>\nVaḷatu joyu pūrve vilokī, dīṭho puruṣh tyā ek alokī.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "Teṇe vaṇ-pūchhe kahī vāt, kiyā jāvu chhe he Jagtāt; <RHYME_11>\nPachhī Hari boliyā chhe tyāī, māre jāvu chhe uttar māī.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "Paṇ tame koṇ chho dayāḷ, āvyā āṇe same tatakāḷ; <RHYME_12>\nTyāre te kahe suṇo Bhagwān, Himāchaḷ hu mūratimān.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "Em kahīne batāvī vāṭ, garo gufāmā Varaṇīrāṭ; <RHYME_13>\nEmā chālatā āvashe mag, em kahī na dekhāṇo nag.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "Pachhī chālyā emā avināsh, jene nathī dehno adhyās; <RHYME_14>\nPeṭhā ghor andhārī gufāmā, āvatī jaḷdhārāne sāmā.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "Chālatā chālatā vītyo pahor, bījānu kem haiyu rahe ṭhor; <RHYME_15>\nMāhi moṭā moṭā maṇidhar, kūrma krachalā karī rahyā ghar.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "Mīn magharyo dādur jemā, nihshank mane chālyā jāy temā; <RHYME_16>\nPachhī pāmiyā ehno pār, nīsaryā ghor gufāne bār.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "Tyā to āviyo chhe ek dhroh, ūnḍo athāh jantusamoh; <RHYME_17>\nVītyā traṇ divas jo tyāī, faḷ fūl maḷyu nahi kāī.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "Bhūkhyā paḍī rahyā tiyā rātya, shu kahu e dhīrajyanī vāt; <RHYME_18>\nSūtā nihshank thaī gaī reṇ, jāgyā prabhāte kamaḷneṇ.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "Nāhī sandhyā karī teh vār, maḷyā faḷ fūl karyo āhār; <RHYME_19>\nPachhī chālyā tyāthī thoḍu ghaṇu, maḷyu endhāṇ mārag taṇu.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "Tyāre chālyā e mārag laī, tiyā din vītī gayā kaī; <RHYME_20>\nPachhī Pulah Brahmānā sutan, āvyu āshram tenu pāvan.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "Ati chamatkārī chhe eh, thāy sukhī seve jan jeh; <RHYME_21>\nTapfaḷ maḷe tiyā tart, jiyā tap karyu āge Bharta.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "Mumukṣhune chhe sevavā jevu, jyā Shrī Kṛuṣhṇane chhe nitya rahevu; <RHYME_22>\nChakra nadī jiyā chyāre kor, nāyā chhe temā Dharmakishor.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "Karī kriyā tyā pāṭh pūjan, karyu Muktanāthnu darshan; <RHYME_23>\nPachhī Bharate karyu tap jiyā, pote paṇ beṭhā jaī tiyā.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "Tenī peṭhye ādaryu chhe tap, tenā jevo kare nitya jap; <RHYME_24>\nJāṇyu pāmyā Bharat mṛugdeh, māṭe pote rahe chhe nispreh.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "E sang tajyo jyāre bārya, pachhī antare karyo vichār; <RHYME_25>\nPuranjannī kathā sambhārī, mūkyo buddhino sang visārī.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "Shuddha swarūp ātmā kahevāy, potātaṇu mānyu chhe te māy; <RHYME_26>\nPachhī ūrdhvabāhu karī āp, kare Gāyatrīno nitya jāp.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "Dharyu Sūrya Nārāyaṇnu dhyān, Ganḍkīmā karī nitya snān; <RHYME_27>\nMuktanāth sevā man game, faḷ fūl je maḷe te jame.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "Tene joī tapī tyā rahenār, vismay pāme man mozār; <RHYME_28>\nKahe ā to Prahlād chhe āpe, kā to Dhrune mūkyā farī bāpe.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "Kā to Swāmī Kārtik kahīe, kā to Sanatkumār laīe; <RHYME_29>\nKā to Sanakādik sujāṇ, kā to Dattātreya paramāṇ.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "Ṛubhu kā to Nārāyaṇ Ṛuṣhi, teh vinā nahī ā tapasī; <RHYME_30>\nJone kaṭhaṇ kare tap tane, toy paḍatā nathī moḷā mane.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "Juvo sukh shobhā muni Indra, jāṇu pūraṇmāsīno chandra; <RHYME_31>\nĀvā Brahma Sṛuṣhṭimā na bhāḷyā, te to āj najare nihāḷyā.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "Moṭu tap manuṣhye na thāy, te ādaryu chhe ati uchhāy; <RHYME_32>\nEne āgaḷya tap āpaṇu, thayu khelavaṇu bāḷ taṇu.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "Dīse bāḷ paṇ moṭā bahu, joī vismay pāmyā chhīe sahu; <RHYME_33>\nEm māho māhi kahe muni, joī tapashā teh Prabhunī.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "Evu tap joī bījā jan, Prabhu dukhe dukhāṇā chhe man; <RHYME_34>\nBhakti-Dharma divya deh dharī, rahe chhe pāse doy hete karī.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "Ati kṛush ūbhā ek page, nathī dekhī sakatā te drage; <RHYME_35>\nJāṇyu laḍathaḍī paḍashe Nāth, khamā khamā kahī dey hāth.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "Ati het chhe Harine māthe, teṇe dampatī rahe chhe sāthe; <RHYME_36>\nDeh durbaḷ dekhyu na jāy, rati rudhir nahi tan māy.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "Ango-angnī je sarve nāḍī, te to thaī rahī chhe ughāḍī; <RHYME_37>\nDīse asthi āmiṣh na dīse, tvachā choṭī rahi chhe te viṣhe.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "Deh jotā deh nav rahe, em jan joī sahu kahe; <RHYME_38>\nEve sharīre ādaryu tap, kare chhe mukhe Gāyatrī jap.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "Temā dhare chhe Sūryanu dhyān, bhāve karī pote Bhagwān; <RHYME_39>\nKare chhe evu tap hammesh, devā tapasvīne upadesh.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "Em tap karyu mās chār, sahī megh taṇī ghaṇī dhār; <RHYME_40>\nKarī temā upāsanā ghaṇī, te to Sūryanārāyaṇ taṇī.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "Em karatā Ekādashī jeh, āvī Prabodhinī nāme teh; <RHYME_41>\nTyāre ati ānand vadhārī, karyu jāgaraṇ jāmnī sārī.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "Tyāre Sūryanārāyaṇe tyāy, dīdhu darshan e nishi māy; <RHYME_42>\nAti sundar tan swarūp, ango-ange shobhe chhe anup.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "Doy kar kamaḷ chhe hāthe, nang jaḍit mugaṭ māthe; <RHYME_43>\nKanak kaḍā chhe karmā kāju, doy bhujāe bāndhyā chhe bāju.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "Kāne kunḍaḷ shobhe chhe sār, tej tej tejnā ambār; <RHYME_44>\nHāsye sahit shobhe vadan, temā karuṇāe bharyā lochan.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "Evā Sūrye dīdhā darashan, ati āpe thaīne prasanna; <RHYME_45>\nTene dekhī ūṭhyā Hari tarta, karyā bhaktie shu danḍavat.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "Thayā gadgad kanṭhe Varṇī, preme bhūlyā shuddha tan-taṇī; <RHYME_46>\nĀnkhye ānsu romānchit tan, joḍī hāth kare chhe stavan.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "Tame tej-punja māratanḍ, nij teje prakāsho brahmānḍ; <RHYME_47>\nDharī Kashyap gher avatār, evā tame tene namaskār.  <RHYME_47>",
+            "couplet_number": 47
+        },
+        {
+            "couplet": "Tamāre ugave karī dayāḷu, thāya sarve jagat sukhāḷu; <RHYME_48>\nTemā pāpī pīḍāy apār, evā tame tene namaskār.  <RHYME_48>",
+            "couplet_number": 48
+        },
+        {
+            "couplet": "Tamāre ugave karī kahu, kare kāḷnī gaṇanā sahu; <RHYME_49>\nNīkar noy kāī niradhār, evā tame tene namaskār.  <RHYME_49>",
+            "couplet_number": 49
+        },
+        {
+            "couplet": "Tamāre ugave karī āp, sarve prāṇīnā bāndhyā chhe māp; <RHYME_50>\nDev dānav ne nar-nārya, evā tame tene namaskār.  <RHYME_50>",
+            "couplet_number": 50
+        },
+        {
+            "couplet": "Tame prabhu prakaṭ chho dev, sahu jan jāṇe chhe e bhev; <RHYME_51>\nNathī chhāno pratāp lagār, evā tame tene namaskār.  <RHYME_51>",
+            "couplet_number": 51
+        },
+        {
+            "couplet": "Evī stuti karī joḍī kar, tyāre bhāve bolyā Bhāsakar; <RHYME_52>\nMāgo Hari mu pāsethī āj, tyāre Hari kahe māgu Mahārāj.  <RHYME_52>",
+            "couplet_number": 52
+        },
+        {
+            "couplet": "Kām krodh dambh lobh moh, indriguṇ ādi je sanmoh; <RHYME_53>\nTethī rakṣhā karajyo amārī, jeṇe rahīe naiṣhṭhik brahmachārī.  <RHYME_53>",
+            "couplet_number": 53
+        },
+        {
+            "couplet": "Vaḷī jyāre jyāre hu sambhāru, tyāre darshan thāy tamāru; <RHYME_54>\nE ja var māgu chhu tamathī, māyik sukh māgato nathī.  <RHYME_54>",
+            "couplet_number": 54
+        },
+        {
+            "couplet": "Tyāre Sūrya kahe sukhdāī, tam vaḍe mārī chhe moṭāī; <RHYME_55>\nĀvo tej pratāp chhe māro, te to sarve jāṇo chhe tamāro.  <RHYME_55>",
+            "couplet_number": 55
+        },
+        {
+            "couplet": "Nathī samarth tamthī ame, paṇ thāshe je māgyu chhe tame; <RHYME_56>\nEm Harine āpī varadān, pote thayā pachhī antardhān.  <RHYME_56>",
+            "couplet_number": 56
+        },
+        {
+            "couplet": "Pachhī tap samāpati karī, eh kṣhetra vakhāṇe chhe Hari; <RHYME_57>\nRahyā tiyā dvādashīno dan, pachhī karyu chhe chālavā man.  <RHYME_57>",
+            "couplet_number": 57
+        },
+        {
+            "couplet": "Em charitra kare bahunāmī, je koī sarve dhāmnā dhāmī; <RHYME_58>\nJenī āganyāmā aj īsh, Viṣhṇu Vibudh Shāradā Sheṣh.  <RHYME_58>",
+            "couplet_number": 58
+        },
+        {
+            "couplet": "Jenī āganyāmā māyā kāḷ, sarve lok vaḷī lokpāḷ; <RHYME_59>\nJenī āganyāmā Vāyu Vyom, vaḷī kahīe tej toy bhom.  <RHYME_59>",
+            "couplet_number": 59
+        },
+        {
+            "couplet": "Eh sarvenā niyantā swāmī, kare em charitra bahunāmī; <RHYME_60>\nNartan dharyu chhe te māṭ, em varate chhe Varṇīrāṭ.  <RHYME_60>",
+            "couplet_number": 60
+        }
+    ]
+}

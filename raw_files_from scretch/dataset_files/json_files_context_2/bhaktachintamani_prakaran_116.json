@@ -1,0 +1,386 @@
+{
+    "prakaran": 116,
+    "title_gu": "પ્રકરણ ૧૧૬: હાલારદેશ તથા કચ્છ દેશના હરિજનનાં નામ કહ્યાં",
+    "gujarati": [
+        {
+            "couplet": "હવે ભક્ત હાલારના, વળી કહું કચ્છ સમેત; \nશુદ્ધ મને જે સાંભળે, તેને થાય હરિમાં હેત. ૧",
+            "couplet_number": 1,
+            "context": "Now the devotee is at his home, I will tell along with Kutch; \nWhatever pure thing listens to me, that one will become in Hari's place."
+        },
+        {
+            "couplet": "મીઠા બોલા ને મોબતી, હૈયે હેત અપરમપાર; \nપ્રીત પ્રકટ પ્રભુશું, કરું તેનાં નામ ઉચ્ચાર. ૨",
+            "couplet_number": 2,
+            "context": "Sweet words are a charm, eternal is the tradition;\nTrue love manifestly proclaims God's presence, I speak His name with reverence."
+        },
+        {
+            "couplet": "ભક્ત ગુણવંતા છે ગોંડલે, ભજે પ્રભુ મન નિરમલે; \nપુરપતિ ક્ષત્રી હઠીભાઈ, કરી હરિ ભજીને ભલાઈ. ૩",
+            "couplet_number": 3,
+            "context": "Devotee is a good soul in Gondla, worships the Lord with an untainted mind; \nA prince of Kshatriya caste has taken up his staff, having pleased Hari by worshiping Him and gained salvation."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત ડોસાભાઈ કહીએ, એહ આદિ બીજા બહુ લહીએ; \nજીવરામ પ્રાગજી સુતાર, ભક્ત જોધો એ જાતિ ઉદાર. ૪",
+            "couplet_number": 4,
+            "context": "Warrior devotee says, \"This is the first seed; many will be born from it\"; \nThe self-controlled one will rise from the womb of wisdom, a true devotee of the Lord is of that nature."
+        },
+        {
+            "couplet": "વિપ્ર જેઠો મીઠો ને ભાઈજી, ભક્ત શેઠ રૂડો રાઘવજી; \nકડિયા રતનો અજો નારાયણ, હરભમ હરિ પરાયણ. ૫",
+            "couplet_number": 5,
+            "context": "The wise elder brother is sweet as sugar, the devoted elder is Roodo Raghvaji; The Lord of Kadia's Ratna is not Narayan, Hari is pleased with his own devotion."
+        },
+        {
+            "couplet": "વાઘો વાલો કડવો કુંભાર, અર્જણ દેવશી લખો ઉદાર; \nનાથો વાલો લુવાર જેરામ, સઇ ગગો નારાયણ નામ. ૬",
+            "couplet_number": 6,
+            "context": "Wolves are rough, wicked, and cruel; the brave one is the God's writer of generosity.\n\nThe foolish one is not worthy, very poor, very miserable; Sai Gago's name is Narayan."
+        },
+        {
+            "couplet": "આંબો કાનો જન જણસાળી, શેખ જીવણ જવન વળી; \nએહ આદિ છે જન અપાર, રહે ગોંડલ ગામ મોઝાર. ૭",
+            "couplet_number": 7,
+            "context": "Orange trees cover the village, a sheikh lives with his people; \nThis is the beginning of humanity, unlimited, village Gondal Mozaar."
+        },
+        {
+            "couplet": "ભક્ત ભાટિયો હીરો છે નામ, હરિજન દ્વિજ પ્રજારામ; \nએક વેરાગી તુલસીદાસ, એહ આદિનો મોવૈયે વાસ. ૮",
+            "couplet_number": 8,
+            "context": "Devotee is the name of Hirio; Harijan dwij praja ram.\nOne tulasi das, oh this my abode since time immemorial."
+        },
+        {
+            "couplet": "નથુજી ઉદોજી જેઠીભાઈ, રૂડા ભક્ત કહીએ ક્ષત્રી માંઇ; \nભક્ત હરજી ઝીણો કુંભાર, વિપ્ર ગણેશ લાલો ઉદાર. ૯",
+            "couplet_number": 9,
+            "context": "Not will be the uncle of the one who does not know his own limit; A devotee says that even a warrior can be defeated; The devotee becomes detached like a worn-out potter, and Brahma's Ganesha is generous."
+        },
+        {
+            "couplet": "એહ આદિ જે જન કહેવાય, વસે ગામ નાગડકા માંય; \nદેવો ઓઝો કણબી કરમશી, ભજે હરિ વેરીગામ વશી. ૧૦",
+            "couplet_number": 10,
+            "context": "This is the origin which is said to be spoken; settles in Nagadka village; \nThe gods make the mark with their own hand, worship Hari and take possession of the city."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત ડેરિયે માનજી, વડારે વોરો વાલો જનજી; \nકાજુ ભક્ત કાલાવડ માંઇ, ખતરી તે જાદવજીભાઈ. ૧૧",
+            "couplet_number": 11,
+            "context": "A warrior devotee is pleased by the camp, a big chief's camp being full of bravery; \nA lowly devotee is delighted in darkness, danger being his noble deed."
+        },
+        {
+            "couplet": "અતિ ઉદાર હેતુ હોંશીલો, જેનો ભાઈ કેશવજી વાલો; \nક્ષત્રી ભક્ત ખિરસરા માંઇ, લાખોજી ને હરિજન બાઈ. ૧૨",
+            "couplet_number": 12,
+            "context": "Ati udar hetu honsilo, jeno bhai Keshavji walo;\nKshatriya bhakt khirsara main, Lakhoji ne Harijan bai."
+        },
+        {
+            "couplet": "કણબી શવદાસ રૂપાબાઈ, ક્ષત્રી લાખોજી રહે વડા માંઇ; \nહડમતિયે ભગો વણિક, સુખપુરે દમો ભક્ત એક. ૧૩",
+            "couplet_number": 13,
+            "context": "Kanbee Shavadasa Rupabai, Kshatri Lakhooji Rahave Vada Maine;\nHadmatiye Bhago Vanik, Sukhapore Damo Bhakt Ek."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત કાયોજી લૈયાળે, વૈશ્ય રતનો જીવો ઇટાળે; \nહરજી વીરજી ભક્ત સુતાર, જન રામજી હીરો કુંભાર. ૧૪",
+            "couplet_number": 14,
+            "context": "Warrior devotees are filled with zeal, merchants' sons are spent; \nDevotees laugh, people's lord is the great ocean."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત કાંથડજી વળી, એહ આદિ રહે વણથળી; \nહરિજન સોની રાઘવજી, લીધા પુંજે ભગવાન ભજી. ૧૫",
+            "couplet_number": 15,
+            "context": "Warrior devotee Kandhajee gets pleased; this is the beginning of great joy.\n\nUntouchable Raghavee worships God with hands full of stolen goods."
+        },
+        {
+            "couplet": "ભક્ત એક છે લાધો સુતાર, વસે વણથળી મોટી મોઝાર; \nક્ષત્રી ભક્ત રૂડા જગુભાઈ, ઘરે હરિજન નાનીબાઈ. ૧૬",
+            "couplet_number": 16,
+            "context": "Devotee is one who weeps, the great storm of separation; \nThe warrior devotee remains steadfast in his household, Harijan woman small."
+        },
+        {
+            "couplet": "હરિભક્ત રૂપાળીબા નામ, એહ આદિ ભક્ત મેડીગામ; \nમોડા ગામ માંહિ મોટા ભક્ત, ક્ષત્રી રણમલજી વિરક્ત. ૧૭",
+            "couplet_number": 17,
+            "context": "Here is the translation:\n\nLord Haribhakt's name is Adi Bhakta Mediagaam; in this village, there are many devotees, Kshatriya Ranmalji Vikrt."
+        },
+        {
+            "couplet": "દાજી મોનજી ને બાપુભાઈ, ભક્ત ફલજી સુજાંજીબાઈ; \nજલો રાવળ રૂપાળીબાઈ, એહ આદિ ભક્ત મોડા માંઇ. ૧૮",
+            "couplet_number": 18,
+            "context": "Oh Daji Monji Na Bapu Bhai, Bhakt Faljii Sujaanjibai;\nJalo Ravli Roopalaibai, Eh Adi Bhakt Mada Maini."
+        },
+        {
+            "couplet": "ભક્ત મેઘો નારાયણ નાનજી, મૂલજી વીરજી ને રામજી; \nવસતો લાધો સુતાર લહીએ, હરિભક્ત લાડુબાઈ કહીએ. ૧૯",
+            "couplet_number": 19,
+            "context": "Devotee cloud Naranjan Nanjibhai, glorify Veerji Ramji; \nSitting steady, waking up in sorrow, Hari-bhakt Ladubai says."
+        },
+        {
+            "couplet": "ફલજી મનુજી હરિજન, ક્ષત્રી કુળે એ ભક્ત પાવન; \nસોની ગોવો અજોભાઈ કહીએ, એહ આદિ છે ભક્ત અલૈયે. ૨૦",
+            "couplet_number": 20,
+            "context": "Fruitful is Manujee Harijan, a devotee in the Kshatriya family; \nGive golden and beg with faithfulness, this is the devotion of an ideal devotee."
+        },
+        {
+            "couplet": "ક્ષત્રી ભાઈજી રાઘોજી દાજી, વિપ્ર ભક્ત વાલો જાદવજી; \nલાલ રામ વૈશ્ય હરિજન, વસે શેખપાટમાં પાવન. ૨૧",
+            "couplet_number": 21,
+            "context": "Warrior brother Raghoji Daji, devotee Valsadji Jadavji; \nRed Ram Vaishya Harijan, settles Sheikhpatam Pavna."
+        },
+        {
+            "couplet": "કડિયો ભક્ત ઉકો ઓઘો જાણો, જીવો જેરામ ડાયો પ્રમાણો; \nએહ આદિ જે ભક્ત સુંદર, ભજે હરિ રહે નવેનગર. ૨૨",
+            "couplet_number": 22,
+            "context": "Kadiyo bhakt uko oghe jaano, jivo jeraam dhaayo pramaano;\nEh aadi je bhakt sundar, bhaje Hari rehe navenagar. 22"
+        },
+        {
+            "couplet": "લાલો કુંભાર અરજણ સઇ, ભજે પ્રભુ જોડિયામાં રઈ; \nભલા ભક્ત છે ભાદરે ગામ, સુતાર વસતો ભાઈ રામ. ૨૩",
+            "couplet_number": 23,
+            "context": "Lalo Kumbaar Arjan Sai, Bhaje Prabhu Jodiyaam Raai;\nBhala Bhakt Che Bhadaare Gaam, Sutaar Vasto Bhai Ram."
+        },
+        {
+            "couplet": "વશરામ માવજી રણછોડ, નારાયણ રાજો જન જોડ; \nગંગાદાસ ને શવજીભાઈ, હરિજન એક હરિબાઈ. ૨૪",
+            "couplet_number": 24,
+            "context": "Washiram Maavaji Ranchor, Naraayan Rajo Jan Jod;\nGangadasa Ne Shivjeebhai, Harijan Ek Haribai."
+        },
+        {
+            "couplet": "એહ આદિ છે ભક્ત સુતાર, દેવો ડોસો કણબી ઉદાર; \nદ્વિજ મૂલજી સુંદરજીભાઈ, ક્ષત્રી કાનજી ને નથુ નાઈ. ૨૫",
+            "couplet_number": 25,
+            "context": "This is the adi of a devotee, generous God; \nDwij Moolji Sundarjibhai, Kshatriya Kanaji Na Ne Nai. 25"
+        },
+        {
+            "couplet": "એહ આદિ જે ભક્ત અપાર, વસે ગામ ભાદરા મોઝાર; \nહીરો ડુંગર ભક્ત સુતાર, ક્ષત્રી રવો કેસિયા મોઝાર. ૨૬",
+            "couplet_number": 26,
+            "context": "This eternal is what the devotee surpasses; \nHeir of hill Bhakt sits, Kshatriya Ravu's kesiya mozar."
+        },
+        {
+            "couplet": "હરિજન પ્રેમજી વણિક, ધ્રોળ મધ્યે એ ભક્ત છે એક; \nભક્ત નાયો કાનજી ઉદાર, વેલો ગોવો માંડણ કુંભાર. ૨૭",
+            "couplet_number": 27,
+            "context": "The loving devotee is a merchant, in the midst of worldly affairs he is one; \nthe devotee's heart is full of mercy like Kanji, let the foolish and wicked be crushed beneath one's feet."
+        },
+        {
+            "couplet": "જેરામ ને એક રાજબાઈ, શા દેવશી ધૂળકોટ માંઇ; \nભક્ત કણબી લખમીદાસ, ગર રણમલ ઘુનડે વાસ. ૨૮",
+            "couplet_number": 28,
+            "context": "Jeram got one Rajbhai, what kind of dust Devil took away; \nDevotee Lakhami Das, got into the midst of battle."
+        },
+        {
+            "couplet": "આમરણ્યમાં આણદિબાઈ, જેની પ્રીત અતિ પ્રભુ માંઇ; \nદ્વિજ ભક્ત ગોવિંદજી ભેલે, ભક્ત વજો બોરિચોરે બેલે. ૨૯",
+            "couplet_number": 29,
+            "context": "Our land is inanimate, the love of which is very great in the Lord; \nThe twice-born devotee Gopaldas has taken away, the devotees have taken away the beggars' grain."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત છે બેચરભાઈ, આસો ભાઈજી બગથલા માંઇ; \nકણબી ગણેશ ને માનુબાઈ, પ્રેમીભક્ત પિપળિયા માંઇ. ૩૦",
+            "couplet_number": 30,
+            "context": "Warrior devotee is a fool, let's go to the forest of poverty; \nGanesha is my guardian, I am a devoted lover in Pipaliya."
+        },
+        {
+            "couplet": "વાગડ દેશમાં વાંઢિયું ગામ, તિયાં ભક્ત બ્રાહ્મણ પાંચો નામ; \nલાધો રામો ભરવાડ જોડ્ય, લુવાર રણમલ ચિતરોડ્ય. ૩૧",
+            "couplet_number": 31,
+            "context": "Wagad deshamaa vandhiyun gaam, tiyaan bhakt brahman paancho naam;\nLado Rama Bhara vaad joodya, Luvar Ranmal Chitrody."
+        },
+        {
+            "couplet": "ભક્ત ઠકર કચરો નામ, પદ્મસિ આદિ આધુઈ ગામ; \nરામજી ત્રિકમ વશરામ, ભક્ત લુવાણા ચોબારિ ગામ. ૩૨",
+            "couplet_number": 32,
+            "context": "Devotee's name is Thakar Kachro, Padmasi and others settled in village; \nRamji was the one who built three villages, devotees were building Chobari village."
+        },
+        {
+            "couplet": "બાઈ એક મોટાં હરિભક્ત, જેને જૂઠું થઈ ગયું જક્ત; \nભક્ત મનજી દેવો લુવાણા, કંથકોટે એ ભક્ત કહેવાણા. ૩૩",
+            "couplet_number": 33,
+            "context": "Sister, a great devotee of God has become crazy; \nThe one who has been cheated by false thoughts is said to be a devotee by the wise ones at Kanthkot."
+        },
+        {
+            "couplet": "ભક્ત વાઘો ને પાંચે ઠકરે, ભજ્યા હરિ ગામ મણફરે; \nઠકર રામદાસ ને કચરો, ભક્ત મૂલજી શા વાઘો ખરો. ૩૪",
+            "couplet_number": 34,
+            "context": "Devotee worships dogs as God, God's village is pleasant; \nRamdas says, \"What dogs are, the devotee knows.\""
+        },
+        {
+            "couplet": "જેઠો જેરામ કર્મણ લુવાર, એહ આદિ ભચાઉ મોઝાર; \nક્ષત્રી ભક્ત લાધોભાઈ કહીએ, અદોભાઈ કલ્યાણજી લહીએ. ૩૫",
+            "couplet_number": 35,
+            "context": "Those who reap the consequences of their karma, get affected like this in the beginning; \nThe warrior devotee laughs at fate, says \"alas\" and weeps for Lord Kalyanji's mercy."
+        },
+        {
+            "couplet": "રામસિંહ રાયધણ જેહ, જેતમાલ આદિ જન તેહ; \nમોટાં ભક્ત એક માનબાઈ, જેને પ્રીત અતિ પ્રભુ માંઇ. ૩૬",
+            "couplet_number": 36,
+            "context": "Ram Singh Raydhani jehe, jethamaal adi jan tehe;\nMota bakthek maanbahi, jene prit ati prabhu maine. 36"
+        },
+        {
+            "couplet": "બાઈ બાઈજી કરણીબાઈ, ભક્ત એક મેઘરાજભાઈ; \nએહાદિ જન કહીએ અપાર, ભક્ત રહે ધમડકા મોઝાર. ૩૭",
+            "couplet_number": 37,
+            "context": "Oh sister, Oh sister of noble heart; Devotee is one Raja Bhai from the sky.\n\nThis world says \"infinite\", devotee remains in ecstasy and madness."
+        },
+        {
+            "couplet": "હરિભક્ત સુતાર વશરામ, એહાદિ જન દુધઈ ગામ; \nવિપ્ર ભક્ત જેઠો કેશવજી, સતસંગી સુતાર રવજી. ૩૮",
+            "couplet_number": 38,
+            "context": "Lord's devotee is a great tree, this village has been milked; \nSage devotee Keshavji, virtuous friend Sutar Ravji."
+        },
+        {
+            "couplet": "ભક્ત ઠકર કેશવજી નામ, એહાદિ રહે ચાંદરાણી ગામ; \nમાવજી મૂળજી ને વાલજી, ભાણીરે ખોખરે હરિ ભજી. ૩૯",
+            "couplet_number": 39,
+            "context": "Devotee Thakar Keshavji's name, remains in Chandranagari village; \nMotherly affection and root devotion to Valaji, Hari is worshiped by Bhani in Khokhar."
+        },
+        {
+            "couplet": "દ્વિજ ભક્ત કચરો છગન, રૂડાં રાજબાઈ હરિજન; \nભક્ત જેઠી ખીમજી સંઘજી, વસે અંજાર માંઇ વાલજી. ૪૦",
+            "couplet_number": 40,
+            "context": "Double-born devotee is a shame to the family; Rudana Rajbai is also a lowly one.\nDevotee's sister Kheimji Sanghai, settles down with anxiousness in Valji."
+        },
+        {
+            "couplet": "ભક્ત ઉકોશા આદિ કહેવાય, વસે તે તો ગામ તુણા માંય; \nદ્વિજ પુંજો દેવેશ્વર કહીએ, સુતાર પુરુષોત્તમ લહીએ. ૪૧",
+            "couplet_number": 41,
+            "context": "The devout one utters \"Ukoshā\" and so on, in the village of Tuna Main; The twice-born ones utter \"Deveshwar\", the supreme being, and so forth."
+        },
+        {
+            "couplet": "એહ આદિ જે જન કહેવાય, વસે ગામ તે મુંદરા માંય; \nક્ષત્રી ભક્ત એક મંકુબાઈ, રહે કાલાઘોઘા ગામ માંઇ. ૪૨",
+            "couplet_number": 42,
+            "context": "This is the way it begins, they call people; settles in a village like Mundra; \nThe warrior devotee is one Munakubai, remains in Kalaghoa village."
+        },
+        {
+            "couplet": "ભક્ત શેઠ રતનજી નામ, એહાદિ જન જરફરે ગામ; \nભક્ત સુતાર છે મેઘોભાઈ, હરિજન માતા મેઘબાઈ. ૪૩",
+            "couplet_number": 43,
+            "context": "Devotee Sheth Ratnaji's name, This world is the limit of recognition; devotee Sutaar is Meghobhai, Harijan Mother Meghabai."
+        },
+        {
+            "couplet": "દેવશી ટોપણાદિ ખતરી, હરિ ભજી ગયા ભવ તરી; \nભક્ત લુવાર છે વશરામ, સોની લાલો રાઘવજી નામ. ૪૪",
+            "couplet_number": 44,
+            "context": "Divine destruction is imminent, God has been worshipped with the intention of being destroyed; \nThe devotee is eager to be pierced like a razor, Raghuvijayalala's name is Soni."
+        },
+        {
+            "couplet": "શા સુંદરજી ચાંપશીભાઈ, એહાદિ જન માંડવી માંઇ; \nમેપો થોભણ ભક્ત સુતાર, કાનુબાઈ ને જીવો ઉદાર. ૪૫",
+            "couplet_number": 45,
+            "context": "Who is beautiful Sundarji's companion, he is a proud person in every household; \nI am just a simple devotee of God, living on charity, without any inheritance."
+        },
+        {
+            "couplet": "કુળે સહિત ભક્ત પાવન, વસે ડોણ્ય ગામે હરિજન; \nહરિભક્ત દામજી સોનાર, વસે ગોધરા ગામ મોઝાર. ૪૬",
+            "couplet_number": 46,
+            "context": "Cultured with devotion is the devotee, residing in a village of Harijans; \nDevoted to God, having obtained the price of a golden pot, resides in the city of Moharram."
+        },
+        {
+            "couplet": "દ્વિજ મૂલજી ને દયારામ, એહાદિ જન કોટડી ગામ; \nભક્ત સુતાર ભીમજી રવજી, હરિજન તે હરભમજી. ૪૭",
+            "couplet_number": 47,
+            "context": "The dwij should be humble towards Dayaram, this high-born person is a village man; \nThe devotee Satara is Bhima's son, Harijan is also Hari's son."
+        },
+        {
+            "couplet": "ભક્ત બાઈ જેઠી અજુ નામે, વસે તે કાળા તળાવ ગામે; \nઘણેણિયે ભક્ત છે રવજી, થયો સુતાર પાર હરિ ભજી. ૪૮",
+            "couplet_number": 48,
+            "context": "Devotee sister lives in the name of Ajun; \nMany are devoted, having crossed over to God by singing His praises."
+        },
+        {
+            "couplet": "નેતરામાં શવજી સુતાર, કર્યો સતસંગ સમજી સાર; \nનોંઘો નાગજી ભક્ત માવજી, ડોસો ગોપો સુતાર સંઘજી. ૪૯",
+            "couplet_number": 49,
+            "context": "In the midst of good people, Shavji sleeps; he understands good association is good. \nNo one knows true devotion except Bhakt Mavaaji, Gopo and Sanghji are asleep."
+        },
+        {
+            "couplet": "પ્રેમી પ્રેમબાઈ માનબાઈ, મોટા ભક્ત એ સુતાર માંઇ; \nસેજપાલ સાપત રામલ, એહાદિ ભક્ત તેરે અવલ. ૫૦",
+            "couplet_number": 50,
+            "context": "Lover's lover is revered by me, the great devotee of this world; \nSajjanpal says that a true devotee does not come to you for one hundred."
+        },
+        {
+            "couplet": "ભણસાલિ જેઠો દામોદર, કણબી કેશવ કમો ઠકર; \nએહ આદિ ભક્ત બીજા કૈયે, ભજી હરિ રહે ગામ ધુફિયે. ૫૧",
+            "couplet_number": 51,
+            "context": "Bhansali Jetho Damodar, Kanbi Kesav Kamo Thakur;\nEhe Adi Bhakt Beja Kye, Bhaje Hari Re Gam Dhufiyeh."
+        },
+        {
+            "couplet": "શેઠ હંસરાજ હરિજન, ભક્ત ફૂલુજી જાતિ યવન; \nભક્ત ભણસાળિ હમીર નામ, એહ આદિ ભક્ત રુવેગામ. ૫૨",
+            "couplet_number": 52,
+            "context": "Seth Hansaraj Harijan, devotee Fulujee Jati Yavan;\nDevotee Bhanasali Hemir Name, this is Adi Bhakt Rugeem. 52"
+        },
+        {
+            "couplet": "હરિજન બાઈ દેવુ નામ, વસે સુતાર વથોણ ગામ; \nક્ષત્રી ભક્ત કાકોભાઈ કહીએ, એહ આદિ જન મજલે લહીએ. ૫૩",
+            "couplet_number": 53,
+            "context": "Oh woman of Harijan community, take the name of God; people settle in that village as is customary.\nKshatriya devotees Kakobhai say, these lowly people will weep at the edge of their grave."
+        },
+        {
+            "couplet": "ભક્ત સુતાર છે પુંજોભાઈ, સઇ પુંજો દેસલપુર માંઇ; \nકણબી ભક્ત લાધા આદિ ખરા, વસે જન ગામ સામતરા. ૫૪",
+            "couplet_number": 54,
+            "context": "Devotee is overpowered by the Lord's grace, the Lord's blessings are bestowed upon Desalpur; \nTrue devotees attain their reward, people dwell in harmony in the village."
+        },
+        {
+            "couplet": "દ્વિજ નાગજી પ્રાગજી મલુ, સામજી ને કેશવજી ભલુ; \nનાથો તેજશી સુતાર શ્યામ, કણબી પ્રેમ લખુ વશરામ. ૫૫",
+            "couplet_number": 55,
+            "context": "Dual pride of Nagji and Pragji is Malu, Keshavji's pride to Bhulu; He who is without a master is Shyam, writes the love of the heart in Vasram."
+        },
+        {
+            "couplet": "ક્ષત્રી અદોભાઈ કમોદાસ, ભક્ત મોટા માનકુવે વાસ; \nકણબી ભક્ત છે માવજીભાઈ, એહ આદિ નારણપુર માંઇ. ૫૬",
+            "couplet_number": 56,
+            "context": "Warrior's heart is not satisfied with just fame, a great devotee will dwell in his place; The devotee who has got the blessing of the Lord is himself blessed, this is Adi Naraynapur's place."
+        },
+        {
+            "couplet": "કૃષ્ણ રતનો કણબી કહીએ, બહુ ભક્ત બલધિએ લહીએ; \nક્ષત્રી સદાબાઈ હરિજન, દ્વિજ લાલજી જગજીવન. ૫૭",
+            "couplet_number": 57,
+            "context": "Krishna's ratan is spoken to, many devotees are pierced with pain; \nKshatriya Sadabai is Harijan, Dvij Lalaji Jagjivan. 57"
+        },
+        {
+            "couplet": "કણબી ભક્ત વશરામ નામ, એહ આદિ જન કેરે ગામ; \nકણબી હરિજન વાલબાઈ, ભજે હરિ મેઘપુર માંઇ. ૫૮",
+            "couplet_number": 58,
+            "context": "Here is the translation:\n\nDevotee of God, Vasram's name, this community of people in Kerar; \nDevotee of Hari, Valabai, worships Hari at Meghpur."
+        },
+        {
+            "couplet": "સારા સતસંગી સરલિ માંઇ, મોટા ભક્ત છે માનજીભાઈ; \nઆસો વીરજી રામું રતન, કણબી રામપુરે હરિજન. ૫૯",
+            "couplet_number": 59,
+            "context": "Good company of simple people has Manjhibhai, the great devotee; We wish Virji to be in Ram's presence, with his family in Ramapur."
+        },
+        {
+            "couplet": "કણબી ભક્ત છે કચરો નામ, ભજે હરિ રહે દૈસરે ગામ; \nહરજી કાનજી રામ સુતાર, ડોસો ભક્ત ધિણોઈ મોઝાર. ૬૦",
+            "couplet_number": 60,
+            "context": "Here is the translation:\n\nA humble devotee has no other name, serves Hari and remains in the village; Hariji Kanaji Ram settles down, sixty devotees are reduced to ashes."
+        },
+        {
+            "couplet": "ભક્ત સુતાર બાઈ લખમી, પુનડિયે પીતાંબર પ્રેમી; \nમાવજી લખધીર સુતાર, માલબાઈ ગજોડ મોઝાર. ૬૧",
+            "couplet_number": 61,
+            "context": "Devotee is sleeping with Lakhmee, lover of Pundiyee Pitambard; \nMother's love is sleeping with Lakhdhair Sutar, Malbai Gajoode Moazar."
+        },
+        {
+            "couplet": "રામજી ને કુરજી સુતાર, ક્ષત્રી રાસોજી ભક્ત ઉદાર; \nએક હરિજન જીજીબાઈ, એહાદિ જન બંદરા માંઇ. ૬૨",
+            "couplet_number": 62,
+            "context": "Ramji got married to Kurjii, a warrior and devout liberal; \nOne Harijan woman, she was born in Bandra itself."
+        },
+        {
+            "couplet": "ભલા ભક્ત કહીએ ભુજ માંઇ, સારા સતસંગી બાઈ ભાઈ; \nભક્ત નાગર ગણપતરામ, હરિરામ વલભજી નામ. ૬૩",
+            "couplet_number": 63,
+            "context": "A good devotee says in Bhuj, brother and sister of good company; \nDevotee's Lord is Ganeshram, Hari-Ram is worshipped with devotion, name."
+        },
+        {
+            "couplet": "દ્વિજ નરસઈ સુત ભાણજી, લક્ષમી દોયે લીધા હરિ ભજી; \nહરિજન છે લેરખીબાઈ, પ્રીત્ય નવિને પ્રભુજી માંઇ. ૬૪",
+            "couplet_number": 64,
+            "context": "Dvi j narasai sut bhajanji, Lakshmi doye liha Hari bhaji;\nHarijan che larakhii bai, Preti navine prabhuji maine. 64"
+        },
+        {
+            "couplet": "સૂર્યપ્રભા જેઠી ને ભવાની, એહાદિ ભક્ત બ્રાહ્મણ નાની; \nનાગજી સુત હીરજી સુતાર, સુંદરજી સનેહી અપાર. ૬૫",
+            "couplet_number": 65,
+            "context": "Sun's glory is the elder sister of Bhavani, a devotee Brahmin is small; Nagji's daughter Hiri was married to Sundaarji's love that was beyond measure, 65."
+        },
+        {
+            "couplet": "ધનજી હરજી જીવરામ, રાઘવજી રણછોડ નામ; \nકુરજી આદિ કહીએ સુતાર, પુંજી અમર પ્રેમી અપાર. ૬૬",
+            "couplet_number": 66,
+            "context": "Dhanji Harji Jivaram, Raghavji Ranchood Nam;\nKurji Adi Kahie Sutar, Punji Amar Preemi Apaar."
+        },
+        {
+            "couplet": "સેજુ જમના ને હરબાઈ, મોટાં ભક્ત એ સુતાર માંઇ; \nસોનીમાં સત્સંગી ગોમતી, મોટી મૂળીની ભલી ભગતિ. ૬૭",
+            "couplet_number": 67,
+            "context": "Saju jamna ne harbhai, mota bhakta e sutara maine;\nSonimaa satsangi gomati, moti mulini bali bhagati."
+        },
+        {
+            "couplet": "મેતા નથુ સુત શિવરામ, હરજીવન બેન લાધી નામ; \nમહા મુક્ત દશા એ સહુની, ભક્ત ભોજા આદિ બહુ સોની. ૬૮",
+            "couplet_number": 68,
+            "context": "I do not set Shivaraj's son as my own; \nIt is his great freedom that is my name; \nCountless divine feasts and worship I have in abundance."
+        },
+        {
+            "couplet": "ઠકર ઉકા બે અલૈયો કહીએ, હરિભક્ત વલભજી લહીએ; \nભગવાનજી મનજી ભક્ત, રામદાસ ને મોરાર મુક્ત. ૬૯",
+            "couplet_number": 69,
+            "context": "Thakar ukha be alaiyo kheee, Hari bhakt valabhji lahee; \nBhagavaanjee manjee bhakt, Raamdaas ne mooraar mukta. 69"
+        },
+        {
+            "couplet": "રતનશી ડોસો હરિજન, ગંગાબાઈ લુવાણા પાવન; \nભક્ત જીવરામ લીલાધર, મૂળજી આદિ જન રાજગર. ૭૦",
+            "couplet_number": 70,
+            "context": "Worshipful son of a low caste, Ganga Bai brings him down; \nDevotee Jivaram Liladhara, rootless people's monarch is born."
+        },
+        {
+            "couplet": "ધન્ય ધન્ય જેઠી ગંગારામ, ભક્ત શિરોમણી નિષકામ; \nસુત શામજી મૂળજીભાઈ, એહ આદિ જન જેઠી માંઇ. ૭૧",
+            "couplet_number": 71,
+            "context": "Pious is Pious Jethi GangaRam, devout and useless; \nSut ShamaJi Mooljibhai, this is the original tribe of Jethi Mamni."
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત એક ડોસાભાઈ, હરિજન બીજા દેવબાઈ; \nભક્ત રામજી અભુ કલ્યાણ, એહ આદિ જણસાલિ જાણ્ય. ૭૨",
+            "couplet_number": 72,
+            "context": "Warrior devotee is one kind of God-favoring; low-caste person another kind of goddess-favoring; \nDevotee Raghunathji has no calamity, this very old news is known."
+        },
+        {
+            "couplet": "એહાદિ જન બીજા અપાર, રહે ભુજનગર મોઝાર; \nસતસંગે રંગે રાતાં રહે, મુખે સ્વામિનારાયણ કહે. ૭૩",
+            "couplet_number": 73,
+            "context": "This is a noble lineage, others cannot compare; it resides in Bhujangar Mozar.\n\nSatsang with Rang with Raat Rahes, Swaminarayan says on my face."
+        },
+        {
+            "couplet": "ધન્ય ધન્ય એ હરિજનને, જેનાં પુણ્ય તણો નહિ પાર; \nઆણી હેત અતિ ઉરમાં, ભજે નારાયણ નરનાર. ૭૪",
+            "couplet_number": 74,
+            "context": "Praiseworthy praiseworthy is that lowly person who has no equal in their deeds; brought to the world with great effort, worship Naranar Narayan."
+        },
+        {
+            "couplet": "અતિ દ્રઢાવ અંતરમાં, નહિ કામ ક્રોધ લોભ મોહ; \nશોધ્યે ન મળે એક જે, એવા સતસંગીનો સમોહ. ૭૫",
+            "couplet_number": 75,
+            "context": "Ati drdhav antaram, nahi kam krodh lobh moh;\nShodhye na malle ek je, eva sat sanginono samoh."
+        },
+        {
+            "couplet": "સુણી નામ એહ શ્રવણે, જે મનન કરશે મન; \nસકલ કારજ્ય સીજશે, વળી થાશે પરમ પાવન. ૭૬",
+            "couplet_number": 76,
+            "context": "This name is sweet to listen to, which will make the mind think; \nAll deeds will cease, and one will be saved by the Supreme Lord."
+        }
+    ]
+}

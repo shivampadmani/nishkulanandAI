@@ -1,0 +1,465 @@
+{
+    "prakaran": 126,
+    "title_gu": "પ્રકરણ ૧૨૬: નિમાડ તથા હિંદુસ્થાન દેશનાં હરિજનનાં નામ કહ્યાં",
+    "title_trans": "Prakaran 126: Nimāḍ tathā Hindusthān Deshnā Harijannā Nām Kahyā",
+    "gujarati": [
+        {
+            "couplet": "નકી ભક્ત નિમાડના, જેનાં અતિ આકરાં અંગ; <RHYME_1>\nકરડાં કઠણ વચન, જેને શીશ સાટે સતસંગ.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "બીજાં બહુ દુભાખરાં, જેનો એજ બોલવા ઢાળ; <RHYME_2>\nપછી કરે વારતા, જ્યારે પહેલી આપે ગાળ.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "સમજાવ્યા સમજે નહિ, અતિ જડમતિ અડબંગ; <RHYME_3>\nએવા દેશમાં અવતરી, જેણે કર્યો સાચો સતસંગ.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "એવા જન પાવનનાં, કહો કેમ ન લખીએ નામ; <RHYME_4>\nલખવા લાલચ્ય મુજને, જેને મળ્યા સુંદર શ્યામ.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "જન જીવણ ભક્ત વણિક, કણબી ભક્ત ખુશાલ છે એક; <RHYME_5>\nએહાદિ ભક્તિ પ્રભુની કરે, રહી ગામ ચોલિમહેશ્વરે.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "ભક્ત કાછિયા દેવજી નામ, નારાયણ મીઠો ગંગારામ; <RHYME_6>\nબાઈ જીવી માનુ ને જશોદા, ભજે હરિ રહે મન મુદા.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "કણબી ફર્શુ ને ખુશાલભાઈ, બાઈ ગંગા ને ખુશાલીબાઈ; <RHYME_7>\nએહાદિ ભક્ત રહે ઝાંખરોડે, ભજે પ્રભુજીને ભાવ રૂડે.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "દ્વિજ ભક્ત હરિને કેશવ, ખત્રિ ઉદ્ધવ સોમો માધવ; <RHYME_8>\nહરિજન વિરુબા જશોદા, વસે વાલિપર મનમુદા.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત ધનોબા અમરી, રહે ગામ કુકશી ભજે હરિ; <RHYME_9>\nકણબી ગોપાળ ને ભીખોભાઈ, નાગર પાનબાઈ હરબાઈ.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "એહ આદિ હરિજન જેહ, વસે ગામ સુંદરેલે તેહ; <RHYME_10>\nકણબી ભક્ત નારાયણ દયાળ, નાનજી લખમણ ને લાલ.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "મકુ માધો ભીલો દેવો હિરો, સુરજી ખીમો ભક્ત સુધીરો; <RHYME_11>\nનારાયણ આદિ બહુ ભાઈ, સુંદર રતન ને ગંગાબાઈ.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત છે માધવ નામ, એહાદિ જન રહે ખલગામ; <RHYME_12>\nકણબી ભક્ત હીરો ને ૐકાર, જન રહે ખલ મોટી મોઝાર.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "કણબી ભક્ત રામો હીરા દોય, દેવો ને જન ભીખીબા સોય; <RHYME_13>\nક્ષત્રી ઇન્દ્રરાજ ને ભીખાજી, રહે મોરંગડિયે મોહ તજી.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "કણબી ભક્ત ખીમો ને મોહન, ડુંગર કેશવ ખુશાલ જન; <RHYME_14>\nક્ષત્રી ભક્ત માનસિંઘ નામ, એહાદિ જન વિખુડા ગામ.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "દ્વિજ ભક્ત ચંદ્રેશ્વર મકુન, બાઈ બાલી મીઠી હરિજન; <RHYME_15>\nકણબી ભક્ત દેવો ને પુંજન, ધનો પ્રેમો બેચર લાલો જન.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "ભક્ત રામજી ને ભાગ્યબાઈ, રહે જન એ ધામણા માંઇ; <RHYME_16>\nકણબી ભક્ત લાલો પર્શુરામ, ભજે હરિ ગુરુ જલે ગામ.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "કણબી ભક્ત સુંદર ને પુંજન, રહે માતપુરે હરિજન; <RHYME_17>\nકણબી કાશી વાલજી ગોવિંદા, બાઈ ગંગા વાલુ વળી નંદા.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "ભક્ત કાછિયા રુખડુ દલુ, પ્રેમચંદનું ભજન ભલું; <RHYME_18>\nભક્ત ગુલાબ વિરજી નામ, એહાદિ જન રેઠણગામ.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "કણબી ભક્ત નથુ કાલુ દોય, હીરો જાદવ ઓંકાર સોય; <RHYME_19>\nકુરજી ને જગદીશ નામ, ભાગ્યબાઈ રહે કૌડિયે ગામ.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "તુલાધાર તાનોજી ભગત, રહે બરે ભજે ભગવંત; <RHYME_20>\nસોની ભક્ત એક પાંડુરંગ, રહે આસેરે ન કરે કુસંગ.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "કણબી ભક્ત કાલુ લીંબુ નામ, બાઈ રતન રહે ધર ગામ; <RHYME_21>\nદ્વિજ ભક્ત છે લક્ષમીરામ, ૐકાર ને વિષ્ણુરામ નામ.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "બાઈ ખુશાલ ને ગંગાબાઈ, રહે જન મંડલેશ્વરમાંઇ; <RHYME_22>\nએહ આદિ છે જન અપાર, કહ્યા નિમાડદેશ મોઝાર.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "ખરા ભક્ત કહીએ ખાનદેશ, હેતે ભજે હરિને હંમેશ; <RHYME_23>\nતન મન ધન તુચ્છ કરી, રાખ્યા એક અંતરમાં હરિ.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "એવા ઉત્તમ જન છે જેહ, તેનાં નામ સુણો સહુ તેહ; <RHYME_24>\nમોટા ભક્ત માલેગામ માંઇ, જન ભાવસાર નથુભાઈ.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "ભક્ત લખમણ પર્શુરામ, જન કલ્યાણાદિ માલેગામ; <RHYME_25>\nકણબી ભક્ત ખુશાલ ને રામ, શિવરામ રહે જાફિગામ.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "કણબી ભક્ત કહીએ તાપીદાસ, ભક્ત ભીખો જક્તથી ઉદાસ; <RHYME_26>\nસદાશીવને પ્રભુની પ્યાસ, પર્શુરામાદિ વરખડે વાસ.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "ભક્ત ભાણજી કણબી કહીએ, જન એ સોનગિરિયે લહીએ; <RHYME_27>\nશેઠ ભક્ત છે ફકીરચંદ, જલગામમાં ભજે ગોવિંદ.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "બહુ ભક્ત બુરાનપુરમાં, જેને અતિશે ભાવ ઉરમાં; <RHYME_28>\nસુંદર વસ્ત્ર કરાવી સોનેરી, જેણે હેતેશું પૂજિયા હરિ.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "પૂજી હરિ થયાં પૂર્ણકામ, કહું તેનાં સાંભળજ્યો નામ; <RHYME_29>\nભક્ત શા ગોવિંદભાઈ નામ, લીંબડા શા ને ત્રંબકરામ.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "વલભરામ ઉદારામ કહીએ, ગુલાબજી પીતાંબર લહીએ; <RHYME_30>\nબાઈ લાડકી ગંગા રતન, એહાદિ વણિક હરિજન.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "દ્વિજ બાપુ ભગવાન નામ, રામકૃષ્ણ ને કેશવરામ; <RHYME_31>\nગોપેશ્વર આદિ દ્વિજભાઈ, હરિજન રૂડાં રામબાઈ.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત છે બુલાખીદાસ, મૂળચંદ ગણપત પાસ; <RHYME_32>\nકણબી ભક્ત ઠાકુરદાસ દોય, રામદાસ દોય ભક્ત સોય.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "હરિભાઈ ને પુરુષોત્તમ, ત્રિલોચન નાનો નરોત્તમ; <RHYME_33>\nલાલદાસ દોય રામચંદ્ર, ભગવાનદાસ ભક્ત સુંદ્ર.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "વેલિબાઈ આદિ હરિજન, કહ્યાં કણબી કુળે પાવન; <RHYME_34>\nસોની ઢુંઢુ ને ભક્ત ડુંગર, સુરજી ને નારણ સુંદર.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "ભક્ત કૃષ્ણાજી આદિ છે ભાઈ, ભજે ભાવે હરિ ઉર માંઇ; <RHYME_35>\nરેવા દેવુ જમના ને મોની, એહ આદિ બાઇયો ભક્ત સોની.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "ગોપીરામ ભક્ત છે સુતાર, ભક્ત ભાઉજી બ્રહ્મક્ષત્તર; <RHYME_36>\nફકીરચંદ અર્જુન કલુ, વૈશ્યજાતિમાં ભક્ત દયાળુ.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "ચિંતામણ નાગુ ભીખો ભાવી, બાઈ પ્રેમા ને મેના સાળવી; <RHYME_37>\nતેલી ભક્ત શિવો જન સોય, દુલભ ને લાલદાસ સોય.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "જાનજી નથુ ઉત્તમ જાણો, છબીલદાસ વલભ વખાણો; <RHYME_38>\nબાઈ નંદા બે બાઈ રતન, એહ આદિ તેલી હરિજન.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "સઇ નિહાલચંદ છે જન, મોતી નાનો ને બાઈ રતન; <RHYME_39>\nખત્રિ ભક્ત નથુભાઈ કૈયે, કોળી ભક્ત વલભદાસ લૈયે.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "એહ આદિ બાઈ ભાઈ ઘણાં, સર્વે સેવક છે સ્વામી તણાં; <RHYME_40>\nરહે બુરાનપુરે એ જન, કરે સ્વામીશ્રીજીનું ભજન.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "દ્વિજ ભક્ત બાપુભાઈ નામ, ભજી હરિ કર્યું નિજકામ; <RHYME_41>\nરાજ સાજ મેલી માલ ધન, થયો ભક્ત પુનામાં પાવન.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "શેઠ ભક્ત એક સેવારામ, ભજે હરિ રહે ઉજેણ ગામ; <RHYME_42>\nદ્વિજ ભક્ત દીપો શંભુરામ, ૐકાર રેવે લાખેડે ગામ.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "દ્વિજ મયારામ ને ૐકાર, ભક્ત આંજણો દુદો ઉદાર; <RHYME_43>\nએહ વસે ગામ મીણમાંઇ, ભજે સ્વામી જાણી સુખદાઇ.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "ક્ષત્રી ભક્ત છે સરદારસિંઘ, વસે માલિખેડિયે અનઘ; <RHYME_44>\nહવે હિંદુસ્થાનનાં જે જન, કહું પવિત્ર ભક્ત પાવન.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "ધર્મરીત્ય માંહિ ઘણું ધીર, વાચકા છે સાચા શૂરવીર; <RHYME_45>\nએવા જનનાં લખશું નામ, જેને મળ્યા છે સુંદર શ્યામ.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "ધન્ય ધન્ય ભક્ત ધુવા માંઇ, જેણે હરિશું કરી સગાઈ; <RHYME_46>\nપડી ટેવ પ્રગટ સેવવા, એહ જન તો લખવા જેવા.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "ભક્ત લુવાર નામ મદારી, રામ બકશ ને ગિરધારી; <RHYME_47>\nઠાકુરદાસ બિંદાહરદાસ, કુંઢેરામનિયે તજી ત્રાસ.  <RHYME_47>",
+            "couplet_number": 47
+        },
+        {
+            "couplet": "એહાદિ ભક્ત કહીએ લુવાર, દ્વિજ બુદ્ધજી ધુવા મોઝાર; <RHYME_48>\nબહુ ભક્ત છે બરાઈ ગામ, જેને મળ્યા છે સુંદરશ્યામ.  <RHYME_48>",
+            "couplet_number": 48
+        },
+        {
+            "couplet": "ભક્ત લુવાર સકટુ ભૈયા, ભક્ત રામફલ બે કશિયા; <RHYME_49>\nરહે ચ્યાર ત્યાં હરિદાસ થોલી, ચર્ણદાસ લોહરકા ને ભોલી.  <RHYME_49>",
+            "couplet_number": 49
+        },
+        {
+            "couplet": "માનસિંઘ મૂલચંદ મોજી, મનછા દો મજલા ડુવોજી; <RHYME_50>\nમોતી મનસુખ લછમન, ને કસિયા પોસુ કુલમન.  <RHYME_50>",
+            "couplet_number": 50
+        },
+        {
+            "couplet": "લલુ નેનસુખ ને નથુઈ, ચાંદુ ચૌકરા અંગના સોઈ; <RHYME_51>\nપેજા આદિ છે ભગત ભાઈ, હવે કહું હરિજન બાઈ.  <RHYME_51>",
+            "couplet_number": 51
+        },
+        {
+            "couplet": "લાડુ વિરુ વખતુ પિરાનું, મકુ મૂળી મથુરાં એ માનું; <RHYME_52>\nતેજુ સ્વરૂપી અલપુ ધરમા, ગઢુ આદિ બાઇયો લુવારમાં.  <RHYME_52>",
+            "couplet_number": 52
+        },
+        {
+            "couplet": "દ્વિજ ભક્ત છે પુરના નામ, દો લછમન ને દયારામ; <RHYME_53>\nશકટુ રઘુનાથ એ ભાઈ, ખીમા અંતકુ સુમિત્રાબાઈ.  <RHYME_53>",
+            "couplet_number": 53
+        },
+        {
+            "couplet": "ભક્ત તુલાધાર ક્રિપાભાઈ, એહાદિ જન રહે બરાઈ; <RHYME_54>\nહરિજન હિંદુ રાઓ કહીએ, દ્વિજ ભક્ત તે ભવાની લહીએ.  <RHYME_54>",
+            "couplet_number": 54
+        },
+        {
+            "couplet": "જાણી વાત સાચી નહિ ફેર, સમઝી રહ્યા તે ગામ ગ્વાલેર; <RHYME_55>\nજાણ્યા અજાણ્યા જે રહ્યા જન, રહેજ્યો મુજ ઉપર પ્રસન્ન.  <RHYME_55>",
+            "couplet_number": 55
+        },
+        {
+            "couplet": "ધન્ય ધન્ય એહ જનને, જેણે ભજ્યા શ્રીભગવાન; <RHYME_56>\nતન ધન મને નૈવ ગણ્યું, નૈવ ગણ્યું જગ અપમાન.  <RHYME_56>",
+            "couplet_number": 56
+        },
+        {
+            "couplet": "ત્રોડી ત્રણે લોકશું, જેણે જોડી હરિશું પ્રીત; <RHYME_57>\nલઈ લાભ અલભ્યને, કરી ગયા જગમાં જીત.  <RHYME_57>",
+            "couplet_number": 57
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Nakī bhakta Nimāḍnā, jenā ati ākarā ang; <RHYME_1>\nKaraḍā kaṭhaṇ vachan, jene shīsh sāṭe satasang.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "Bījā bahu dubhākharā, jeno ej bolavā ḍhāḷ; <RHYME_2>\nPachhī kare vāratā, jyāre pahelī āpe gāḷ.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "Samajāvyā samaje nahi, ati jaḍamati aḍabang; <RHYME_3>\nEvā deshmā avatarī, jeṇe karyo sācho satasang.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "Evā jan pāvannā, kaho kem na lakhīe nām; <RHYME_4>\nLakhavā lālachya mujne, jene maḷyā sundar Shyām.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "Jan Jīvaṇ bhakta vaṇik, kaṇabī bhakta Khushāl chhe ek; <RHYME_5>\nEhādi bhakti Prabhunī kare, rahī gām Cholimaheshvare.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "Bhakta kāchhiyā Devajī nām, Nārāyaṇ mīṭho Gangārām; <RHYME_6>\nBāī Jīvī Mānu ne Jashodā, bhaje Hari rahe man mudā.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "Kaṇabī Farshu ne Khushālbhāī, bāī Gangā ne Khushālībāī; <RHYME_7>\nEhādi bhakta rahe Zānkharoḍe, bhaje Prabhujīne bhāv rūḍe.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "Dvij bhakta Harine Keshav, khatri Uddhav Somo Mādhav; <RHYME_8>\nHarijan Virubā Jashodā, vase Vālipar manamudā.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "Kṣhatrī bhakta Dhanobā Amarī, rahe gām Kukashī bhaje Hari; <RHYME_9>\nKaṇabī Gopāḷ ne Bhīkhobhāī, nāgar Pānabāī Harabāī.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "Eh ādi harijan jeh, vase gām Sundarele teh; <RHYME_10>\nKaṇabī bhakta Nārāyaṇ dayāḷ, Nānajī Lakhamaṇ ne Lāl.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "Maku Mādho Bhīlo Devo Hiro, Surajī Khīmo bhakta sudhīro; <RHYME_11>\nNārāyaṇ ādi bahu bhāī, sundar Ratan ne Gangābāī.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "Kṣhatrī bhakta chhe Mādhav nām, ehādi jan rahe Khalagām; <RHYME_12>\nKaṇabī bhakta Hīro ne Omkār, jan rahe Khal Moṭī mozār.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "Kaṇabī bhakta Rāmo Hīrā doy, Devo ne jan Bhīkhībā soy; <RHYME_13>\nKṣhatrī Indrarāj ne Bhīkhājī, rahe Morangaḍiye moh tajī.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "Kaṇabī bhakta Khīmo ne Mohan, Ḍungar Keshav Khushāl jan; <RHYME_14>\nKṣhatrī bhakta Mānasingh nām, ehādi jan Vikhuḍā gām.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "Dvij bhakta Chandreshvar Makun, bāī Bālī Mīṭhī harijan; <RHYME_15>\nKaṇabī bhakta Devo ne Punjan, Dhano Premo Bechar Lālo jan.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "Bhakta Rāmajī ne Bhāgyabāī, rahe jan e Dhāmaṇā māi; <RHYME_16>\nKaṇabī bhakta Lālo Parshurām, bhaje Hari guru Jale gām.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "Kaṇabī bhakta Sundar ne Punjan, rahe Mātapure harijan; <RHYME_17>\nKaṇabī Kāshī Vālajī Govindā, bāī Gangā Vālu vaḷī Nandā.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "Bhakta kāchhiyā Rukhaḍu Dalu, Premchandnu bhajan bhalu; <RHYME_18>\nBhakta Gulāb Virajī nām, ehādi jan Reṭhaṇgām.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "Kaṇabī bhakta Nathu Kālu doy, Hīro Jādav onkār soy; <RHYME_19>\nKurajī ne Jagadīsh nām, Bhāgyabāī rahe Kauḍiye gām.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "Tulādhār Tānojī bhagat, rahe bare bhaje Bhagwant; <RHYME_20>\nSonī bhakta ek Pānḍurang, rahe Āsere na kare kusang.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "Kaṇabī bhakta Kālu Līmbu nām, bāī ratan rahe Dhar gām; <RHYME_21>\nDvij bhakta chhe Lakṣhamīrām, Omkār ne Viṣhṇurām nām.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "Bāī Khushāl ne Gangābāī, rahe jan Manḍaleshvarmāi; <RHYME_22>\nEh ādi chhe jan apār, kahyā Nimāḍ-desh mozār.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "Kharā bhakta kahīe Khāndesh, hete bhaje Harine hammesh; <RHYME_23>\nTan man dhan tuchchha karī, rākhyā ek antarmā Hari.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "Evā uttam jan chhe jeh, tenā nām suṇo sahu teh; <RHYME_24>\nMoṭā bhakta Mālegām māi, jan Bhāvasār Nathubhāī.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "Bhakta Lakhamaṇ Parshurām, jan Kalyāṇādi Mālegām; <RHYME_25>\nKaṇabī bhakta Khushāl ne Rām, Shivarām rahe Jāfigām.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "Kaṇabī bhakta kahīe Tāpīdās, bhakta Bhīkho jaktathī udās; <RHYME_26>\nSadāshīvane Prabhunī pyās, Parshurāmādi Varakhaḍe vās.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "Bhakta Bhāṇajī kaṇabī kahīe, jan e Sonagiriye lahīe; <RHYME_27>\nSheṭh bhakta chhe Fakīrchand, Jalgāmmā bhaje Govind.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "Bahu bhakta Burānpurmā, jene atishe bhāv urmā; <RHYME_28>\nSundar vastra karāvī sonerī, jeṇe heteshu pūjiyā Hari.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "Pūjī Hari thayā pūrṇakām, kahu tenā sāmbhaḷajyo nām; <RHYME_29>\nBhakta Shā Govindbhāī nām, Līmbaḍā Shā ne Tranbakrām.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "Valabharām Udārām kahīe, Gulābajī Pītāmbar lahīe; <RHYME_30>\nBāī Lāḍakī Gangā Ratan, ehādi vaṇik harijan.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "Dvij Bāpu Bhagwān nām, Rāmakṛuṣhṇa ne Keshavrām; <RHYME_31>\nGopeshvar ādi dvijbhāī, harijan rūḍā Rāmabāī.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "Kṣhatrī bhakta chhe Bulākhīdās, Mūḷachand Gaṇapat pās; <RHYME_32>\nKaṇabī bhakta Ṭhākurdās doy, Rāmadās doy bhakta soy.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "Haribhāī ne Puruṣhottam, Trilochan nāno Narottam; <RHYME_33>\nLāldās doy Rāmchandra, Bhagwāndās bhakta sundra.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "Velibāī ādi harijan, kahyā kaṇabī kuḷe pāvan; <RHYME_34>\nSonī ḍhunḍhu ne bhakta Ḍungar, Surajī ne Nāraṇ sundar.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "Bhakta Kṛuṣhṇājī ādi chhe bhāī, bhaje bhāve Hari ur māi; <RHYME_35>\nRevā Devu Jamanā ne Monī, eh ādi bāiyo bhakta sonī.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "Gopīrām bhakta chhe sutār, bhakta Bhāujī brahmakṣhattar; <RHYME_36>\nFakīrchand Arjun Kalu, Vaishyajātimā bhakta dayāḷu.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "Chintāmaṇ Nāgu Bhīkho bhāvī, bāī Premā ne Menā Sāḷavī; <RHYME_37>\nTelī bhakta Shivo jan soy, Dulabh ne Lāladās soy.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "Jānajī Nathu uttam jāṇo, Chhabīldās Valabh vakhāṇo; <RHYME_38>\nBāī Nandā be bāī ratan, eh ādi telī harijan.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "Sai Nihālchand chhe jan, Motī Nāno ne bāī Ratan; <RHYME_39>\nKhatri bhakta Nathubhāī kaiye, koḷī bhakta Valabhdās laiye.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "Eh ādi bāī bhāī ghaṇā, sarve sevak chhe Swāmī taṇā; <RHYME_40>\nRahe Burānpure e jan, kare Swāmī-Shrījīnu bhajan.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "Dvij bhakta Bāpubhāī nām, bhajī Hari karyu nijkām; <RHYME_41>\nRāj sāj melī māl dhan, thayo bhakta Punāmā pāvan.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "Sheṭh bhakta ek Sevārām, bhaje Hari rahe Ujeṇ gām; <RHYME_42>\nDvij bhakta Dīpo Shambhurām, Omkār reve Lākheḍe gām.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "Dvij Mayārām ne Omkār, bhakta Ānjaṇo Dudo udār; <RHYME_43>\nEh vase gām Mīṇamāi, bhaje Swāmī jāṇī sukhdāi.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "Kṣhatrī bhakta chhe Sardārsingh, vase Mālikheḍiye anagh; <RHYME_44>\nHave Hindusthānnā je jan, kahu pavitra bhakta pāvan.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "Dharmarītya māhi ghaṇu dhīr, vāchakā chhe sāchā shūravīr; <RHYME_45>\nEvā jannā lakhashu nām, jene maḷyā chhe sundar Shyām.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "Dhanya dhanya bhakta Dhuvā māi, jeṇe Harishu karī sagāī; <RHYME_46>\nPaḍī ṭev pragaṭ sevavā, eh jan to lakhavā jevā.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "Bhakta luvār nām Madārī, Rām Bakash ne Giradhārī; <RHYME_47>\nṬhākurdās Bindāhardās, Kunḍherāmaniye tajī trās.  <RHYME_47>",
+            "couplet_number": 47
+        },
+        {
+            "couplet": "Ehādi bhakta kahīe luvār, dvij Buddhajī Dhuvā mozār; <RHYME_48>\nBahu bhakta chhe Barāī gām, jene maḷyā chhe Sundar-Shyām.  <RHYME_48>",
+            "couplet_number": 48
+        },
+        {
+            "couplet": "Bhakta luvār Sakaṭu Bhaiyā, bhakta Rāmfal be Kashiyā; <RHYME_49>\nRahe chyār tyā Haridās Tholī, Charṇadās Loharakā ne Bholī.  <RHYME_49>",
+            "couplet_number": 49
+        },
+        {
+            "couplet": "Mānasingh Mūlchand Mojī, Manachhā do Majalā Ḍuvojī; <RHYME_50>\nMotī Manasukh Lachhaman, ne kasiyā Posu Kulman.  <RHYME_50>",
+            "couplet_number": 50
+        },
+        {
+            "couplet": "Lalu Nensukh ne Nathuī, Chāndu Chaukarā Anganā soī; <RHYME_51>\nPejā ādi chhe bhagat bhāī, have kahu harijan bāī.  <RHYME_51>",
+            "couplet_number": 51
+        },
+        {
+            "couplet": "Lāḍu Viru Vakhatu Pirānu, Maku Mūḷī Mathurā e mānu; <RHYME_52>\nTeju Swarūpī Alapu Dharamā, Gaḍhu ādi bāiyo Luvāramā.  <RHYME_52>",
+            "couplet_number": 52
+        },
+        {
+            "couplet": "Dvij bhakta chhe Puranā nām, do Lachhaman ne Dayārām; <RHYME_53>\nShakaṭu Raghunāth e bhāī, Khīmā Antaku Sumitrābāī.  <RHYME_53>",
+            "couplet_number": 53
+        },
+        {
+            "couplet": "Bhakta Tulādhār Kripābhāī, ehādi jan rahe Barāī; <RHYME_54>\nHarijan Hindu Rāo kahīe, dvij bhakta te Bhavānī lahīe.  <RHYME_54>",
+            "couplet_number": 54
+        },
+        {
+            "couplet": "Jāṇī vāt sāchī nahi fer, samazī rahyā te gām Gvāler; <RHYME_55>\nJāṇyā ajāṇyā je rahyā jan, rahejyo muj upar prasanna.  <RHYME_55>",
+            "couplet_number": 55
+        },
+        {
+            "couplet": "Dhanya dhanya eh janne, jeṇe bhajyā Shrī Bhagwān; <RHYME_56>\nTan dhan mane naiv gaṇyu, naiv gaṇyu jag apamān.  <RHYME_56>",
+            "couplet_number": 56
+        },
+        {
+            "couplet": "Troḍī traṇe lokashu, jeṇe joḍī Harishu prīt; <RHYME_57>\nLaī lābh alabhyane, karī gayā jagmā jīt.  <RHYME_57>",
+            "couplet_number": 57
+        }
+    ]
+}

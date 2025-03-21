@@ -1,0 +1,559 @@
+{
+    "prakaran": 13,
+    "title_gu": "પ્રકરણ ૧૩: રામાનંદ સ્વામીને મળીને ભક્તિધર્મ ઘેર આવ્યાં",
+    "title_trans": "Prakaran 13: Rāmānand Swāmīne Maḷīne Bhakti-Dharma Gher Āvyā",
+    "gujarati": [
+        {
+            "couplet": "સ્વામી કહે છે ધર્મને તમે સાંભળો વાત સિદ્ધાંત \nશુદ્ધમતિ અતિ ઓળખી હવે કહું ધર્મ એકાંત",
+            "couplet_number": 1,
+            "context": "The swami says, \"Listen to my words that are founded on reason; I'll now explain the true essence of dharma.\""
+        },
+        {
+            "couplet": "ત્યાગી ગૃહી નરનારીની કહું રીત તે રૂડી પેર્ય \nતમે રહેજ્યો રખાવજ્યો જ્યારે જાઓ તમારે ઘેર્ય",
+            "couplet_number": 2,
+            "context": "The couplet says that a wife's attachment to her home and family is natural, and she will take care of everything until the time comes for you to leave; then she'll prepare the home for your return."
+        },
+        {
+            "couplet": "ઉત્તમ રીતને અનુસરી તમે વર્તજ્યો નરનાર્ય \nઅશુદ્ધ રીત હોય જગમાં તોય કરશો માં કોઈ વાર",
+            "couplet_number": 3,
+            "context": "Follow the noble path and you will be a true man or woman; if unrighteous means prevail in the world, then you will face destruction nowhere."
+        },
+        {
+            "couplet": "શુદ્ધ રીત હવે સાંભળો સંક્ષેપે કહું સુજાણ \nજેણે કરી ત્યાગી ગૃહી પામે પદ નિર્વાણ",
+            "couplet_number": 4,
+            "context": "Follow the pure path now and listen carefully to my advice; Whoever does wrong will eventually fall from their position."
+        },
+        {
+            "couplet": "કહું શ્રાદ્ધ યજ્ઞે પશુઘાત રે કરવી નહિ સાંભળો વાત રે \nએકાદશ ત્રણ પ્રકાર રે સુરા પીવી નહિ કોઈ વાર રે",
+            "couplet_number": 5,
+            "context": "In the ritual of shraddh, it's essential to repent for animal sacrifices, and not to ignore the consequences; there are three types of wars, but one should avoid fighting with the divine soul."
+        },
+        {
+            "couplet": "શુદ્ધ ઔષધિમાં મદ્ય મળે રે તે ન ખાવું પીવું કોઈ પળે રે \nયજ્ઞશેષ માંસ લેશ જેહ રે ભૂલ્યે ભક્ષ ન કરવું તેહ રે",
+            "couplet_number": 6,
+            "context": "In pure medicine, wine is found to be excessive, so don't consume or drink it ever. In a sacrifice, one should take the flesh offered, but not eat it thoughtlessly."
+        },
+        {
+            "couplet": "સુણો ધર્મદેવ વાત મારી રે પુણ્ય સારુએ ન કરવી ચોરી રે \nપરત્રિયાનો સંગ ન કીજે રે કેદિ ત્રિયાનું દાન ન દીજે રે",
+            "couplet_number": 7,
+            "context": "God's word is not to be taken lightly, as it is a sacred and pure thing; one should not take God's gift for granted or misuse it."
+        },
+        {
+            "couplet": "ત્રિયામાત્ર જાર નર જોઈ રે આપત્કાળે ન રહે સંગ સોઈ રે \nવળી ત્યાગી નર હોય જેહ રે તેને સ્પર્શે નહિ નારી દેહ રે",
+            "couplet_number": 8,
+            "context": "Only a true person who is mindful of their actions and words will be remembered, as momentary joy fades away in time; one who sacrifices for others will not even touch the skin of another's body."
+        },
+        {
+            "couplet": "તેમ ત્યાગી નર નિર્ધાર રે તજે નારીને અષ્ટ પ્રકાર રે \nએ છે જાણો અનાદિની રીત રે વળી કહું સુણો દઈ ચિત્ત રે",
+            "couplet_number": 9,
+            "context": "The noble soul renounces all worldly attachments, and the feminine spirit is adorned with eight forms. This is the eternal tradition since ancient times; listen carefully to what I say, for it touches the very essence of one's consciousness."
+        },
+        {
+            "couplet": "કેદિ આત્મઘાત નવ કીજે રે વિમુખની કથા ન સુણીજે રે \nહરિપ્રસાદી માહાત્મ્યે અન્ન રે ન ખપે તેનું ન ખાવું જન રે",
+            "couplet_number": 10,
+            "context": "A person who takes their own life is considered a coward and their story will not be told; similarly, one should not eat the fruit of another's labor without permission."
+        },
+        {
+            "couplet": "મિથ્યા અપવાદ કોઈ શિર રે દેવો નહિ કહું ધર્મ ધીર રે \nકોઈ વિષયી વ્યસની જન રે તેનો ન કરો સંગ કોઈ દન રે",
+            "couplet_number": 11,
+            "context": "Don't attribute falsehood to anyone's head; God doesn't praise an immoral person who practices wrong deeds.\n\nOne should not engage in worldly desires, as it will lead to no good."
+        },
+        {
+            "couplet": "વળી તપસ્વી ક્રોધી ભક્ત કામી રે હોય એવા જે નર હરામી રે \nતજી સ્વધર્મ બીજો ધર્મ પાળે રે કાવે ત્યાગી ને લોભ ન ટાળે રે",
+            "couplet_number": 12,
+            "context": "A selfless devotee, though driven by passion and anger, remains unaffected; they abandon their ego and adopt another's faith without attachment or greed."
+        },
+        {
+            "couplet": "ગુરુ શિષ્યને શાસ્ત્ર પ્રમાણ રે ન વર્તે વર્તાવે અજાણ રે \nજ્ઞાની ખંડે પ્રભુનો આકાર રે એહ ષટ્ ખલને ધિક્કાર રે",
+            "couplet_number": 13,
+            "context": "The guru imparts divine knowledge to the student with precision and accuracy, but the ignorant one cannot grasp it even if it's right in front of them. Only the enlightened one can comprehend God's form, which is beyond human comprehension."
+        },
+        {
+            "couplet": "એહ ષટ્ખલ નર જેહ રે તજવા મુમુક્ષુ જને તેહ રે \nદેવ તીર્થ વેદ ને ગાય રે બ્રાહ્મણ સાધુ ધર્મી કહેવાય રે",
+            "couplet_number": 14,
+            "context": "This couplet describes a person who has reached the ultimate spiritual state, where they have transcended worldly desires and are solely focused on attaining liberation, singing praises to God."
+        },
+        {
+            "couplet": "તેની નિંદા ન કરવી મુખે રે ધર્મ મેલવો નહિ દર્દ દુઃખે રે \nવળી જેહ શાસ્ત્રમાં શ્રીકૃષ્ણ રે કહ્યા નિરાકાર અજ્ઞ જન રે",
+            "couplet_number": 15,
+            "context": "Do not judge others harshly on their appearance and instead follow the principles of righteousness, as preached by Sri Krishna in the scriptures."
+        },
+        {
+            "couplet": "તે ન સાંભળવું સુણો ધર્મ રે એહ સમજી લેવો મને મર્મ રે \nઆયુધ વિષ ન દેવી જાળ રે જેથી જન દુઃખ પામે તે કાળ રે",
+            "couplet_number": 16,
+            "context": "It is essential to understand the true nature of the soul, rather than getting trapped in worldly desires. One should not get entangled with material wealth and attachments, as this only leads to suffering in the end."
+        },
+        {
+            "couplet": "વળી આ મતે મોટા બ્રહ્મન રે તે ન રાખે શસ્ત્ર કોઈ દન રે \nઊર્ધ્વપુંડ્ર તિલક કરવું રે મધ્યે કુંકુમનું બિંદુ ધરવું રે",
+            "couplet_number": 17,
+            "context": "The divine being, seated on a lotus leaf, carries no weapon; instead, it marks the forehead with a tilak and holds the center point of the bindu in its hands."
+        },
+        {
+            "couplet": "રાધાકૃષ્ણ પ્રસાદી જે હોય રે કરે સધવા બિંદુ ભાલે સોય રે \nન કરે વિધવા બિંદુ પુનિત રે એવી આપણા મતની રીત રે",
+            "couplet_number": 18,
+            "context": "Radha and Krishna's union is blessed by the divine, resulting in a union that never separates; similarly, our meeting will be forever connected, just like theirs."
+        },
+        {
+            "couplet": "જેની જે રીત તે ચિત્ત ધરવી રે ભાવે શ્રીકૃષ્ણની ભક્તિ કરવી રે \nકરવો રાસ પંચાધ્યાય પાઠ રે કૃષ્ણ કૃષ્ણ કહેવું જામ આઠ રે",
+            "couplet_number": 19,
+            "context": "One's mind is attuned to the path they follow, and similarly, devotion to Lord Krishna should be cultivated; read the Ras Pancadhyaay with reverence and say \"Krishna Krishna\" eight times a day."
+        },
+        {
+            "couplet": "ગળે માળા ધરાવજ્યો દોય રે તુલસી ને ચંદનની સોય રે \nએવી વાત ગુરુજીએ કરી રે ભક્તિ ધર્મે તે હૃદયે ધરી રે",
+            "couplet_number": 20,
+            "context": "The couplet describes the beauty of Tulsi, comparing it to the softness of chandan (white sandalwood) and stating that Guruji has spoken this truth, which is held in the heart by those with devotion."
+        },
+        {
+            "couplet": "પછી અનન્ય ભક્તની રીત રે કહી ઉદ્ધવે કરીને પ્રીત રે \nકહે બ્રાહ્મણ તમે છો શ્રેષ્ઠ રે જેને કૃષ્ણ છે ઇષ્ટ અભીષ્ઠ રે",
+            "couplet_number": 21,
+            "context": "The way of the devotee is unique and sweet, as Uddhava says; The Brahma's praise you are, being Krishna's greatest desire, always fulfilled."
+        },
+        {
+            "couplet": "મારા શિષ્યમાં મોટા છો તમે રે રૂડા ગુણવાળા જાણ્યા અમે રે \nહવે ઘેર્ય જાઓ નરનારી રે રાધાકૃષ્ણને હૃદયે સંભારી રે",
+            "couplet_number": 22,
+            "context": "You are great among my students, with noble qualities recognized by us; now go forth, O men and women, and consecrate your hearts to Radha-Krishna."
+        },
+        {
+            "couplet": "આવે મુમુક્ષુ જીવ કોઈ પાસ રે આપી ઉપદેશ ટાળજ્યો ત્રાસ રે \nએને મહામંત્રનો જે જાપ રે તમે કરજ્યો નિરંતર આપ રે",
+            "couplet_number": 23,
+            "context": "One's wisdom and guidance are of no use when there is no one to listen, leading only to distress. The great mantra is to constantly offer one's wisdom to someone who will truly benefit from it."
+        },
+        {
+            "couplet": "વળી શ્રીકૃષ્ણના જે બે મંત્ર રે જોઈ મુમુક્ષુ કહેજ્યો નિરંતર રે \nબ્રાહ્મણ ક્ષત્રિય ને વૈશ્ય જેહ રે સત્શૂદ્ર ને સ્ત્રિયો તેહ રે",
+            "couplet_number": 24,
+            "context": "The couplet says that the two mantras of Lord Krishna, when recited continuously, grant eternal bliss to those who practice them with devotion. It also notes that the four varnas (Brahmin, Kshatriya, Vaishya, and Shudra) are all equal in the eyes of God."
+        },
+        {
+            "couplet": "કહેજ્યો મંત્ર પ્રથમનો તેને રે ભવસાગર તરવા એને રે \nકરતાં એહ મંત્ર નિત્ય જાપ રે થાય અધિકારી નર આપ રે",
+            "couplet_number": 25,
+            "context": "The first mantra is recited to oneself, and the great fear is calmed by it; every day, one must repeat this mantra to gain divine authority."
+        },
+        {
+            "couplet": "ત્યારે બીજો મંત્ર તેને કહેજ્યો રે એવી રીતે ઉપદેશ દેજ્યો રે \nપડે તમારે જો કાંઈ દુઃખ રે તો થાશે મહામંત્રથી સુખ રે",
+            "couplet_number": 26,
+            "context": "When another's guidance is needed, it will be given in that way; when you face any sorrow, Maha-Mantra will bring happiness."
+        },
+        {
+            "couplet": "કરશો જાપ તો શ્રીકૃષ્ણદેવ રે દેશે ઇષ્ટ સિદ્ધિ તતખેવ રે \nરામાનુજના ગ્રંથ છે જેહ રે તમે સર્વે ભણજ્યો તેહ રે",
+            "couplet_number": 27,
+            "context": "If you follow your heart and have faith in God (Shrikrishna), you will achieve your desired goal; the scriptures of Ramanuja are a guide to wisdom that can be understood by all."
+        },
+        {
+            "couplet": "ગીતાભાષ્ય આદિ ગ્રંથ તેમાં રે શ્રીકૃષ્ણનું માહાત્મ્ય છે જેમાં રે \nકરજ્યો કથા તેની અહોનિશ રે એવો આપ્યો ગુરુએ ઉપદેશ રે",
+            "couplet_number": 28,
+            "context": "The Gita is a sacred text that narrates the glory of Lord Krishna, and within it lies the path to liberation. It imparts timeless wisdom through stories, like the one about karma, which was taught by Guru Shri Krishna as a means to attain spiritual guidance."
+        },
+        {
+            "couplet": "પછી ભક્તિધર્મ આવ્યાં ઘેર રે કરે કૃષ્ણભક્તિ રૂડી પેર્ય રે \nસ્થૂળ સૂક્ષ્મ ને કારણ દેહ રે તેથી પર આત્મા છે જેહ રે",
+            "couplet_number": 29,
+            "context": "Spiritual devotion arrived at home, doing complete devotion to Krishna as if in a dream; the physical body is just a reason, so the soul exists above it."
+        },
+        {
+            "couplet": "વળી વ્યાપે એ ત્રણ ઠેકાણે રે તેને શ્રીકૃષ્ણનો દાસ જાણે રે \nસર્વોપરી છે શ્રીકૃષ્ણ એક રે જીવ ઈશ્વર માયા પ્રેરક રે",
+            "couplet_number": 30,
+            "context": "The three worlds are filled with Krishna's devotees, who know themselves to be His servants. Krishna is the one Supreme Being, the Lord of all living beings and maya, inspiring love."
+        },
+        {
+            "couplet": "એમ નિશ્ચય કર્યો ધર્મે જ્યારે રે જગત મિથ્યા મનાણું છે ત્યારે રે \nગુરુ આજ્ઞાએ કરી ગ્રંથ જેહ રે રામાનુજના વાંચે નિત્ય તેહ રે",
+            "couplet_number": 31,
+            "context": "The couplet emphasizes the importance of understanding and accepting one's true nature, which is revealed when worldly attachments are let go. It also suggests that spiritual guidance from a guru or scriptures like Ramayana can help in this process."
+        },
+        {
+            "couplet": "એવા શુદ્ધ હૃદયવાળા જાણી રે દૈવી જીવ બોલે એમ વાણી રે \nઆ તો ધર્મ દેવ છે સાક્ષાત રે તેહ વિના નોય આવી વાત રે",
+            "couplet_number": 32,
+            "context": "Those with pure hearts understand that the divine speaks through gentle whispers; this is the true faith, without which there can be no fruitful conversation."
+        },
+        {
+            "couplet": "પછી અસુર ગુરુને ત્યાગી રે થયા ધર્મપદ અનુરાગી રે \nજેને દૈત્યગુરુમાં છે હેત રે થયા દૈત્ય તે કુળે સમેત રે",
+            "couplet_number": 33,
+            "context": "One who abandons a worldly guru and follows the path of righteousness, is blessed with a noble lineage. One's true nature and family are determined by their association with the demonic or divine guru."
+        },
+        {
+            "couplet": "માન્યાં ધર્મનાં જેણે વચન રે શોભ્યા દેવ સમાન તે જન રે \nપછી અન્ન વસ્ત્ર અલંકાર રે પૂજ્યા ધર્મને શિષ્યે તે વાર રે",
+            "couplet_number": 34,
+            "context": "Here is a summary of the Gujarati couplet in English:\n\nThose who follow divine guidance and principles are worthy of worship, just like God; afterwards, they attain worldly pleasures such as food, clothing, and adornment."
+        },
+        {
+            "couplet": "તેણે કરી થઈ છે સંપત્તિ રે ગયાં દુઃખ દારિદ્ર વિપત્તિ રે \nએમ કરતાં વિત્યા દિન સોઈ રે આપી સુતને સમે જનોઈ રે",
+            "couplet_number": 35,
+            "context": "Here is a summary of the Gujarati couplet:\n\nWealth has been achieved through hard work, but also came suffering, poverty, and troubles. They spent their days toiling away, and now they can't even provide for their own family."
+        },
+        {
+            "couplet": "કર્યો ઉત્સવ જમાડ્યા દ્વિજ રે તે દેખીને દૈત્યે કરી ખીજ રે \nપછી અસુર નર ભેળા થઈ રે ગયા ઘરની સંપત્તિ લઈ રે",
+            "couplet_number": 36,
+            "context": "A grand festival has passed and the guest of honor has left, taking with them the wealth of our home; a wicked person has played a trick on us and stolen our riches."
+        },
+        {
+            "couplet": "અન્ન ધન મહિષી ને ગાય રે તેમાં રહેવા દીધું નહિ કાંય રે \nએહ આદિ જે આપિયાં દુઃખ રે તે તો કહ્યાં જાય નહિ મુખ રે",
+            "couplet_number": 37,
+            "context": "The couplet says that one should not stay where their stomach is full and they are being praised, as this could lead to suffering later on; similarly, if one's past mistakes come back to haunt them, they will not be able to hide their shame."
+        },
+        {
+            "couplet": "થયાં નિર્ધન નહિ ખાવા અન્ન રે ન મળે નવું પેરવા વસન રે \nપડે એકાંતરે ઉપવાસ રે તેને દેખી દુષ્ટ કરે હાસ રે",
+            "couplet_number": 38,
+            "context": "The couplet describes the misery of being poor and hungry, where even the thought of eating is a struggle. It also humorously notes that when someone is fasting alone, they seem wicked to others who are not fasting."
+        },
+        {
+            "couplet": "કહે જુવો આ ધર્મને ભક્તિ રે સુખ માણે છે કેવું દંપતી રે \nએ તો સત્યવાદી છે નિદાન રે ચાલો થાયે એના મેમાન રે",
+            "couplet_number": 39,
+            "context": "This couplet says that true devotion to one's faith brings happiness in a marriage, and it is only a truthful person who can truly understand this. Let us move forward with the guidance of such a truthful being."
+        },
+        {
+            "couplet": "આવે એમ દેખાડવા ભૂંડું રે જેને અંતરે વૈર છે ઊંડું રે \nતેને ઉછી ઉધારું કરીને રે ભોજન કરાવે ભાવ ભરીને રે",
+            "couplet_number": 40,
+            "context": "Someone who appears foolish on the outside but has a deep sense of rivalry within, can still be uplifted and fulfilled by savoring their meal with love. This is because there's no joy without sharing a meal together."
+        },
+        {
+            "couplet": "ન મળે અન્ન પોતાને ખાવા રે પણ ન દિયે પત્યને જાવા રે \nએમ બહુ દિન દુઃખ સહ્યું રે ત્યારે એક દિન ભક્તિએ કહ્યું રે",
+            "couplet_number": 41,
+            "context": "One is not fed by one's own hands, but one is led astray by one's own mind. This has been the case for many days, and then suddenly, faith spoke out."
+        },
+        {
+            "couplet": "કહે પ્રેમવતી સુણો સ્વામી રે પામ્યાં દુઃખ રહી નહિ ખામી રે \nતમે જાણો છો સર્વે ઉપાય રે મટાડો તો વાર નથી કાંય રે",
+            "couplet_number": 42,
+            "context": "A loving soul knows their partner's pain is unbearable, and they should use all means to lift it; if not, there will be no war at any place."
+        },
+        {
+            "couplet": "અન્ન વસ્ત્રનું દુઃખ આપણે રે નથી મટતા મેમાન આંગણે રે \nઆપણે તો ફળ ફૂલ જમું રે ભાજી ખાઈને દિન નિગમું રે",
+            "couplet_number": 43,
+            "context": "We weep over bread and cloth, but our troubles are not resolved; Instead, we enjoy the fruits of labor, savoring each day's joy."
+        },
+        {
+            "couplet": "પણ મેમાન તે કેમ જમે રે કહું છું એમ પણ જેમ ગમે રે \nએવું સુણી બોલ્યા ધર્મ વાણી રે કહું સાંભળો તમે કલ્યાણી રે",
+            "couplet_number": 44,
+            "context": "I'm puzzled by this couplet, which says that even I, a mere mortal, can say what is true and right, just as the divine does; listen carefully to me, for I am your savior."
+        },
+        {
+            "couplet": "સુખ દુઃખ જે લખ્યું શરીર રે ટાળ્યું ન ટળે રાખવી ધીર રે \nજોને કરાવ્યા મહારુદ્ર જેહ રે થાવા સુખ કરાવિયા તેહ રે",
+            "couplet_number": 45,
+            "context": "The couplet describes the fleeting nature of happiness and sorrow, urging one to appreciate joy while it lasts and not let it slip away. True happiness comes from pleasing one's heart, rather than seeking external pleasures."
+        },
+        {
+            "couplet": "તેણે દુઃખ મટ્યું નહિ અણુ રે સામું કષ્ટ થયું કોટિ ઘણું રે \nમાટે સુખ દુઃખ લખ્યું જે ભાલ રે મટે ઘટે નહિ એક વાલ રે",
+            "couplet_number": 46,
+            "context": "The speaker's sorrows are not diminished by others' pain, but their own suffering is multiplied by a thousandfold. True happiness and sadness can only be understood when one experiences it personally."
+        },
+        {
+            "couplet": "દેવ ઋષિ રાજાથી ન મટે રે જેને જેવું લખાણું છે ઘટે રે \nજોને ઇન્દ્ર અંગે થયો ભંગ રે પામી શચી દુઃખ એ પ્રસંગ રે",
+            "couplet_number": 47,
+            "context": "The words of a wise person are not altered by the status of the speaker, whether they be divine, royal, or common; even Indra's power cannot change the truth that is written."
+        },
+        {
+            "couplet": "વશિષ્ઠ ને અરુંધતી જેહ રે શત્રુ થકી દુઃખ પામ્યાં તેહ રે \nરાજા નળ વળી દમયંતી રે તેહ પણ પામ્યાં દુઃખ અતિ રે",
+            "couplet_number": 48,
+            "context": "Here is a summary of the Gujarati couplet:\n\nOne who is weak and powerless will suffer due to an enemy, and even more so if they are weak-willed; similarly, King Nala's wife Damayanti also suffered greatly due to her husband's weakness."
+        },
+        {
+            "couplet": "એવે મોટે મોટે દુઃખ સહ્યું રે પણ કોઈ આગળ્ય ન કહ્યું રે \nએવું સાંભળીને પ્રેમવતી રે માંડ્યું રુદન કરવા અતિ રે",
+            "couplet_number": 49,
+            "context": "Sorrow is great, but it's not worth revealing; love is gentle and whispers to soothe the pain."
+        },
+        {
+            "couplet": "હું તો તમને શા વડે સેવું રે નથી ઘરમાં પદારથ એવું રે \nમારી હોંશ રહી મન માંઈ રે તમને સેવી શકી નહિ કાંઈ રે",
+            "couplet_number": 50,
+            "context": "I serve you with all my might, yet there is no wealth in the house to give; my heart remains in mine own hands, unable to serve you with anything."
+        },
+        {
+            "couplet": "ન મળે ઘરમાં જમવા અન્ન રે શિયો કરું મનોરથ મન રે \nત્યારે બોલિયા ધર્મ દયાળ રે ભક્તિ દુઃખ ન રહે સદા કાળ રે",
+            "couplet_number": 51,
+            "context": "One does not find satisfaction in one's own home, so I wander in search of inner peace; then I realized that devotion is merciful and sorrow does not stay forever."
+        },
+        {
+            "couplet": "માટે ધીરજ્યે ધર્મમાં રહેવું રે મુખે કાયર વેણ ન કહેવું રે \nભક્તિ મૂકવી નહિ શિર સાટે રે કહું સત્યવાદી છો તે માટે રે",
+            "couplet_number": 52,
+            "context": "For the sake of duty, one should reside in righteousness, and not reveal their true emotions on their face; as a satyavadi (upholder of truth), I swear to this principle for that reason."
+        },
+        {
+            "couplet": "સુખ દુઃખમાં રહેવું અડગ રે પરઠ્યો પાછો ન મેલવો પગ રે \nએમ ટેક રાખો મન માંય રે કરવી ચિંતા ઘટે નહિ કાંય રે",
+            "couplet_number": 53,
+            "context": "Live with equanimity in times of happiness and sorrow, and don't let past regrets or future worries weigh you down. Keep your mind at ease and remain calm, letting your thoughts not be consumed by anxiety."
+        },
+        {
+            "couplet": "જેવું ગમશે ગોલોક ધણીને રે તેવું આવશે સહજે બણીને રે \nકરીશ એનો હવે હું ઉપાય રે રહેજ્યો રાજી તમે મન માંય રે",
+            "couplet_number": 54,
+            "context": "As you enjoy the bliss of Golok with ease, so too will your pure and natural state unfold. I am now free from worries, and you remain forever in my mind."
+        },
+        {
+            "couplet": "કરીશું તેમ થાશે જેમ સુખ રે હવે નહિ રહે ઘણા દિન દુઃખ રે \nએમ આપ્યો ધર્મે ઉપદેશ રે કહું સમજવો એ રહસ્ય રે",
+            "couplet_number": 55,
+            "context": "Whatever you do will have consequences that bring either happiness or suffering, and many days of sorrow may follow. This is the teaching of our faith, which I want you to understand as a secret."
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Swāmī kahe chhe Dharmane, tame sāmbhaḷo vāt siddhānt; <RHYME_1>\nShuddhamati ati oḷakhī, have kahu dharma ekānt.  <RHYME_1>",
+            "couplet_number": 1,
+            "context": "The ultimate truth is that God's will is the only reality, and one should accept it with humility. True wisdom lies in understanding this single truth of faith."
+        },
+        {
+            "couplet": "Tyāgī gṛuhī nar-nārīnī, kahu rīt te rūḍī perya; <RHYME_2>\nTame rahejyo rakhāvajyo, jyāre jāo tamāre gherya.  <RHYME_2>",
+            "couplet_number": 2,
+            "context": "A selfless woman, like a tree, bears fruit for others; her family and kin thrive under her care."
+        },
+        {
+            "couplet": "Uttam rītne anusarī, tame vartajyo nar-nārya; <RHYME_3>\nAshuddha rīt hoy jagmā, toy karasho mā koī vār.  <RHYME_3>",
+            "couplet_number": 3,
+            "context": "In its best form, life follows the rhythm of seasons, with humans and nature in harmony. However, irregular seasons bring chaos to the world and my heart is filled with anxiety."
+        },
+        {
+            "couplet": "Shuddha rīt have sāmbhaḷo, sankṣhepe kahu sujāṇ; <RHYME_4>\nJeṇe karī tyāgī gṛuhī, pāme pad nirvāṇ.  <RHYME_4>",
+            "couplet_number": 4,
+            "context": "A pure wife has a modest home, and a good household with minimal talk. One who gives up worldly desires gets the ultimate bliss of nirvana."
+        },
+        {
+            "couplet": "Kahu shrāddha yagne pashughāt re, karavī nahi sāmbhaḷo vāt re; <RHYME_5>\nEkādash traṇ prakār re, surā pīvī nahi koī vār re.  <RHYME_5>",
+            "couplet_number": 5,
+            "context": "During the sacred ritual of shraddha, one must not offer animal sacrifices or indulge in excessive drinking and revelry. On Ekadashi days, it's best to refrain from taking a drop of intoxicating drink."
+        },
+        {
+            "couplet": "Shuddha auṣhadhimā madya maḷe re, te na khāvu pīvu koī paḷe re; <RHYME_6>\nYagnasheṣh mās lesh jeh re, bhūlye bhakṣha na karavu teh re.  <RHYME_6>",
+            "couplet_number": 6,
+            "context": "In a pure and sacred setting, one should not consume intoxicating substances; in the presence of rituals, one should not indulge in gluttony."
+        },
+        {
+            "couplet": "Suṇo Dharmadev vāt mārī re, puṇya sārue na karavī chorī re; <RHYME_7>\nPartriyāno sang na kīje re, kedi triyānu dān na dīje re.  <RHYME_7>",
+            "couplet_number": 7,
+            "context": "The couplet suggests that one should not steal good deeds or virtues (puṇya) and instead focus on building a reputation of doing good. One's actions in the present can impact their future, so it's essential to behave well and make amends when needed."
+        },
+        {
+            "couplet": "Triyāmātra jār nar joī re, āpatkāḷe na rahe sang soī re; <RHYME_8>\nVaḷī tyāgī nar hoy jeh re, tene sparshe nahi nārī deh re.  <RHYME_8>",
+            "couplet_number": 8,
+            "context": "The couplet describes a man who is full of worldly desires and doesn't find peace with others, despite having a beautiful wife to share his life."
+        },
+        {
+            "couplet": "Tem tyāgī nar nirdhār re, taje nārīne aṣhṭa prakār re; <RHYME_9>\nE chhe jāṇo anādinī rīt re, vaḷī kahu suṇo daī chitta re.  <RHYME_9>",
+            "couplet_number": 9,
+            "context": "A virtuous person who renounces worldly desires is considered a true male; there are eight types of such males. This is the eternal cycle, listen to it with an open heart and understand its depth."
+        },
+        {
+            "couplet": "Kedi ātmaghāt nav kīje re, vimukhnī kathā na suṇīje re; <RHYME_10>\nHariprasādī māhātmye anna re, na khape tenu na khāvu jan re.  <RHYME_10>",
+            "couplet_number": 10,
+            "context": "The couplet says that a person who has lost their ego is not affected by praise or blame, and they don't listen to anyone's story; it also mentions that Hariprasad's greatness is like unsalted rice, which doesn't satisfy hunger."
+        },
+        {
+            "couplet": "Mithyā apavād koī shir re, devo nahi kahu Dharma dhīr re; <RHYME_11>\nKoī viṣhayī vyasanī jan re, teno na karo sang koī dan re.  <RHYME_11>",
+            "couplet_number": 11,
+            "context": "A foolish person is like a tree without roots, and a righteous person is like a tree with strong roots;"
+        },
+        {
+            "couplet": "Vaḷī tapasvī krodhī bhakta kāmī re, hoy evā je nar harāmī re; <RHYME_12>\nTajī swadharma bījo dharma pāḷe re, kāve tyāgī ne lobh na ṭāḷe re.  <RHYME_12>",
+            "couplet_number": 12,
+            "context": "A devotee consumed by desire and anger is far from God's love. One who surrenders to their swadharma and gives up attachment will achieve spiritual growth."
+        },
+        {
+            "couplet": "Guru shiṣhyane shāstra pramāṇ re, na varte vartāve ajāṇ re; <RHYME_13>\nGnānī khanḍe Prabhuno ākār re, eh ṣhaṭ khalne dhikkār re.  <RHYME_13>",
+            "couplet_number": 13,
+            "context": "A spiritual guide imparts knowledge and wisdom, just as a master craftsman measures and shapes the material; a true knower of God's form is one who can withstand the scrutiny of others' criticism."
+        },
+        {
+            "couplet": "Eh ṣhaṭkhal nar jeh re, tajavā mumukṣhu jane teh re; <RHYME_14>\nDev tīrth Ved ne gāy re, brāhmaṇ sādhu dharmī kahevāy re.  <RHYME_14>",
+            "couplet_number": 14,
+            "context": "The couplet describes a seeker who has understood the true nature of the Self and is now detached from worldly attachments. It also mentions the importance of following divine principles, as described in the Vedas, and living a righteous life as a Brahmin or saint."
+        },
+        {
+            "couplet": "Tenī nindā na karavī mukhe re, dharma melavo nahi dard dukhe re; <RHYME_15>\nVaḷī jeh shāstramā Shrī Kṛuṣhṇa re, kahyā nirākār agna jan re.  <RHYME_15>",
+            "couplet_number": 15,
+            "context": "The summary is: One who does not follow the path of righteousness and suffers pain and hardship, has no one to blame but themselves; The Supreme Lord Sri Krishna teaches us in the scripture that we are all mere instruments, having no individual existence."
+        },
+        {
+            "couplet": "Te na sāmbhaḷvu suṇo Dharma re, eh samajī levo mane marma re; <RHYME_16>\nĀyudh viṣh na devī jāḷ re, jethī jan dukh pāme te kāḷ re.  <RHYME_16>",
+            "couplet_number": 16,
+            "context": "Listen to the teachings of Dharma and let your mind dwell on its essence; don't disturb yourself with external matters that can cause sorrow.\n\nThe divine sword is not for the goddess, it's meant for those who are ready to face their own sufferings."
+        },
+        {
+            "couplet": "Vaḷī ā mate moṭā brahman re, te na rākhe shastra koī dan re; <RHYME_17>\nŪrdhvapunḍra tilak karavu re, madhye kumkumnu bindu dharavu re.  <RHYME_17>",
+            "couplet_number": 17,
+            "context": "A Brahmin's wealth is not in scripture or charity, but in the sacred thread and vermilion mark on his forehead. His true value lies in the intricate design of the tilak and the bindu at its center."
+        },
+        {
+            "couplet": "Rādhā-Kṛuṣhṇa prasādī je hoy re, kare sadhavā bindu bhāle soy re; <RHYME_18>\nNa kare vidhavā bindu punit re, evī āpaṇā matnī rīt re.  <RHYME_18>",
+            "couplet_number": 18,
+            "context": "The couplet says that Rukmini's (Radha-Krishna) happiness is when she is with him, and her soul merges with his like a drop of water merging into the ocean."
+        },
+        {
+            "couplet": "Jenī je rīt te chitta dharavī re, bhāve Shrī Kṛuṣhṇanī bhakti karavī re; <RHYME_19>\nKaravo Rās Panchādhyāy pāṭh re, Kṛuṣhṇa Kṛuṣhṇa kahevu jām āṭh re.  <RHYME_19>",
+            "couplet_number": 19,
+            "context": "Worshippers of Lord Krishna dedicate themselves to him with a pure heart, reading the Gita and chanting his name. They immerse themselves in the joy of Ras Panchadiya, singing praises to their beloved Krishna."
+        },
+        {
+            "couplet": "Gaḷe māḷā dharāvajyo doy re, tulasī ne chandannī soy re; <RHYME_20>\nEvī vāt gurujīe karī re, Bhakti Dharme te hṛudaye dharī re.  <RHYME_20>",
+            "couplet_number": 20,
+            "context": "The devotee's heart is filled with devotion and humility, just like Tulasī's lotus flower shines brightly in the water. The wind of spiritual guidance has taken root in one's heart, nourishing faith and devotion."
+        },
+        {
+            "couplet": "Pachhī ananya bhaktanī rīt re, kahī Uddhave karīne prīt re; <RHYME_21>\nKahe brāhmaṇ tame chho shreṣhṭh re, jene Kṛuṣhṇa chhe iṣhṭ abhīṣhṭh re.  <RHYME_21>",
+            "couplet_number": 21,
+            "context": "The couplet expresses the longing to be with Krishna and says that only a great soul (brāhmaṇ) can truly understand this desire."
+        },
+        {
+            "couplet": "Mārā shiṣhyamā moṭā chho tame re, rūḍā guṇvāḷā jāṇyā ame re; <RHYME_22>\nHave gherya jāo nar-nārī re, Rādhā-Kṛuṣhṇane hṛudaye sambhārī re.  <RHYME_22>",
+            "couplet_number": 22,
+            "context": "The beloved's heart is full of faults, but I still love them dearly; just like Radha and Krishna, my love for you knows no bounds."
+        },
+        {
+            "couplet": "Āve mumukṣhu jīv koī pās re, āpī updesh ṭāḷajyo trās re; <RHYME_23>\nEne mahāmantrano je jāp re, tame karajyo nirantar āp re.  <RHYME_23>",
+            "couplet_number": 23,
+            "context": "One's own self is the greatest treasure to be had, and one's own teachings are a source of fear; repeat the great mantra constantly without break."
+        },
+        {
+            "couplet": "Vaḷī Shrī Kṛuṣhṇanā je be mantra re, joī mumukṣhu kahejyo nirantar re; <RHYME_24>\nBrāhmaṇ kṣhatriya ne vaishya jeh re, satshūdra ne striyo teh re.  <RHYME_24>",
+            "couplet_number": 24,
+            "context": "The Lord Krishna's mantra is the only constant guidance for those seeking liberation, and it should be chanted without interruption. In society, Brahmins are superior to Kshatriyas, Vaishyas, Shudras, and women are also below them."
+        },
+        {
+            "couplet": "Kahejyo mantra prathamno tene re, bhavsāgar taravā ene re; <RHYME_25>\nKaratā eh mantra nitya jāp re, thāy adhikārī nar āp re.  <RHYME_25>",
+            "couplet_number": 25,
+            "context": "The first line of the couplet mentions a secret mantra that takes one across the ocean of emotions and into the realm of love. The second line emphasizes the importance of regularly reciting this mantra to achieve spiritual growth."
+        },
+        {
+            "couplet": "Tyāre bījo mantra tene kahejyo re, evī rīte updesh dejyo re; <RHYME_26>\nPaḍe tamāre jo kāī dukh re, to thāshe mahāmantrathī sukh re.  <RHYME_26>",
+            "couplet_number": 26,
+            "context": "Tell someone the sacred mantra at night, and share your spiritual teachings in the morning; if you relieve them of their suffering, it will bring great joy."
+        },
+        {
+            "couplet": "Karasho jāp to Shrī Kṛuṣhṇadev re, deshe iṣhṭ siddhi tatakhev re; <RHYME_27>\nRāmānujnā granth chhe jeh re, tame sarve bhaṇajyo teh re.  <RHYME_27>",
+            "couplet_number": 27,
+            "context": "Praying to Lord Krishna brings success and fulfillment, while reading Ramana's book brings understanding of the self."
+        },
+        {
+            "couplet": "Gītābhāṣhya ādi granth temā re, Shrī Kṛuṣhṇanu māhātmya chhe jemā re; <RHYME_28>\nKarajyo kathā tenī ahonish re, evo āpyo gurue updesh re.  <RHYME_28>",
+            "couplet_number": 28,
+            "context": "The summary is: The Bhagavad Gita and other sacred texts describe the divine glory of Sri Krishna. One should understand the story of Karajyo (Lord's play) through a guru's guidance."
+        },
+        {
+            "couplet": "Pachhī Bhakti-Dharma āvyā gher re, kare Kṛuṣhṇa-bhakti rūḍī perya re; <RHYME_29>\nSthūḷ sūkṣhma ne kāraṇ deh re, tethī par ātmā chhe jeh re.  <RHYME_29>",
+            "couplet_number": 29,
+            "context": "The couplet describes the devotion to God (Krsna-bhakti) as being rooted deep within one's soul, akin to a tree firmly planted in the earth. This inner connection with the divine allows the individual to realize their true nature and transcend mortal limitations."
+        },
+        {
+            "couplet": "Vaḷī vyāpe e traṇ ṭhekāṇe re, tene Shrī Kṛuṣhṇano dās jāṇe re; <RHYME_30>\nSarvoparī chhe Shrī Kṛuṣhṇa ek re, jīv īshvar māyā prerak re.  <RHYME_30>",
+            "couplet_number": 30,
+            "context": "Here is a 1-2 line summarization of the Gujarati couplet:\n\nShrī Kṛuṣhṇa is one's sole master and guide, as well as their ultimate reality. He is the controller of the universe's illusory power, Maya."
+        },
+        {
+            "couplet": "Em nishchay karyo dharme jyāre re, jagat mithyā manāṇu chhe tyāre re; <RHYME_31>\nGuru āgnāe karī granth jeh re, Rāmānujnā vāche nitya teh re.  <RHYME_31>",
+            "couplet_number": 31,
+            "context": "One should live with dedication to one's duty and not be deceived by the world. The wise person writes the book of their life in the fire of self-realization."
+        },
+        {
+            "couplet": "Evā shuddha hṛudayvāḷā jāṇī re, daivī jīv bole em vāṇī re; <RHYME_32>\nĀ to Dharma dev chhe sākṣhāt re, teh vinā noy āvī vāt re.  <RHYME_32>",
+            "couplet_number": 32,
+            "context": "This couplet emphasizes the importance of a pure heart and soul, saying that only those with a clean conscience can truly hear the divine voice within. The speaker also affirms their devotion to Dharma (righteousness) as witnessed by God Himself."
+        },
+        {
+            "couplet": "Pachhī asur gurune tyāgī re, thayā dharmapad anurāgī re; <RHYME_33>\nJene daityagurumā chhe het re, thayā daitya te kuḷe samet re.  <RHYME_33>",
+            "couplet_number": 33,
+            "context": "A devotee surrenders to the Supreme being, abandoning worldly desires and following spiritual principles. The devotion is so strong that even the asura (demonic) tendencies are pacified and brought under control."
+        },
+        {
+            "couplet": "Mānyā Dharmanā jeṇe vachan re, shobhyā dev samān te jan re; <RHYME_34>\nPachhī anna vastra alankār re, pūjyā Dharmane shiṣhye te vār re.  <RHYME_34>",
+            "couplet_number": 34,
+            "context": "The couplet suggests that one should follow the divine commandments and emulate God's nature, just as a devotee should worship the Almighty with humility. The second line emphasizes the importance of dressing modestly, like cloth, and being humble in one's spiritual practices."
+        },
+        {
+            "couplet": "Teṇe karī thaī chhe sampatti re, gayā dukh dāridra vipatti re; <RHYME_35>\nEm karatā vityā din soī re, āpī sutne same janoī re.  <RHYME_35>",
+            "couplet_number": 35,
+            "context": "When one has wealth and prosperity, sorrow, poverty, and misfortune flee away. In such good times, even the wise person's heart beats fast with joy."
+        },
+        {
+            "couplet": "Karyo utsav jamāḍyā dvij re, te dekhīne daitye karī khīj re; <RHYME_36>\nPachhī asur nar bheḷā thaī re, gayā gharnī sampatti laī re.  <RHYME_36>",
+            "couplet_number": 36,
+            "context": "The demon's festivities are seen to be filled with dark deeds, and the virtuous are left without any prosperity. Afterward, the demons' treasures are acquired by them."
+        },
+        {
+            "couplet": "Anna dhan mahiṣhī ne gāy re, temā rahevā dīdhu nahi kāy re; <RHYME_37>\nEh ādi je āpiyā dukh re, te to kahyā jāy nahi mukh re.  <RHYME_37>",
+            "couplet_number": 37,
+            "context": "The cowherd's daughter sings with joy, but her eyes don't reveal the sorrow within; similarly, if someone is suffering deeply, they won't be able to express it through their face."
+        },
+        {
+            "couplet": "Thayā nirdhan nahi khāvā anna re, na maḷe navu peravā vasan re; <RHYME_38>\nPaḍe ekāntare upavās re, tene dekhī duṣhṭ kare hās re.  <RHYME_38>",
+            "couplet_number": 38,
+            "context": "A person who is not hungry is not harmed by food, and one who does not have a mate is not troubled by separation. Alone in solitude, I see the troubles of others and laugh."
+        },
+        {
+            "couplet": "Kahe juvo ā Dharmane Bhakti re, sukh māṇe chhe kevu dampatī re; <RHYME_39>\nE to satyavādī chhe nidān re, chālo thāye enā memān re.  <RHYME_39>",
+            "couplet_number": 39,
+            "context": "Devotion to God brings happiness and a good marriage, while being truthful is the foundation of all good things. Truthfulness leads to prosperity and is the key to all success."
+        },
+        {
+            "couplet": "Āve em dekhāḍavā bhūnḍu re, jene antare vair chhe ūnḍu re; <RHYME_40>\nTene uchhī udhāru karīne re, bhojan karāve bhāv bharīne re.  <RHYME_40>",
+            "couplet_number": 40,
+            "context": "In a quarrelsome relationship, the other person's anger is hidden inside; with love and care, peace can be restored to make meals together enjoyable.\n\n(Limited to 2 lines)"
+        },
+        {
+            "couplet": "Na maḷe anna potāne khāvā re, paṇ na diye patyane jāvā re; <RHYME_41>\nEm bahu din dukh sahyu re, tyāre ek din Bhaktie kahyu re.  <RHYME_41>",
+            "couplet_number": 41,
+            "context": "One day's joy is lost when spent on non-essential things, while devotion to God brings happiness for many days.\n\nIn a short time, sorrow can be tolerated, but even one day of devotion is more valuable."
+        },
+        {
+            "couplet": "Kahe Premvatī suṇo swāmī re, pāmyā dukh rahī nahi khāmī re; <RHYME_42>\nTame jāṇo chho sarve upāy re, maṭāḍo to vār nathī kāy re.  <RHYME_42>",
+            "couplet_number": 42,
+            "context": "The beloved is listening to her Lord's words, no longer suffering from the pangs of separation. She knows all means to achieve reunion with Him and will not waste a single moment in vain."
+        },
+        {
+            "couplet": "Anna vastranu dukh āpaṇe re, nathī maṭatā memān āngaṇe re; <RHYME_43>\nĀpaṇe to faḷ fūl jamu re, bhājī khāīne din nigamu re.  <RHYME_43>",
+            "couplet_number": 43,
+            "context": "The couplet describes the pangs of separation from a loved one as more painful than physical suffering. The speaker longs for the loved one's return, even if it means enduring hardships and difficulties along the way."
+        },
+        {
+            "couplet": "Paṇ memān te kem jame re, kahu chhu em paṇ jem game re; <RHYME_44>\nEvu suṇī bolyā Dharma vāṇī re, kahu sāmbhaḷo tame kalyāṇī re.  <RHYME_44>",
+            "couplet_number": 44,
+            "context": "The couplet says that one's wealth is like a game, where you earn and spend as you go; similarly, the pursuit of righteousness is also a game, where you strive to achieve good deeds."
+        },
+        {
+            "couplet": "Sukh dukh je lakhyu sharīr re, ṭāḷyu na ṭaḷe rākhavī dhīr re; <RHYME_45>\nJone karāvyā mahārudra jeh re, thāvā sukh karāviyā teh re.  <RHYME_45>",
+            "couplet_number": 45,
+            "context": "Life is a mix of happiness and sorrow, but the wise keep their wisdom intact; The wise one's great suffering becomes happiness for others."
+        },
+        {
+            "couplet": "Teṇe dukh maṭyu nahi aṇu re, sāmu kaṣhṭa thayu koṭi ghaṇu re; <RHYME_46>\nMāṭe sukh dukh lakhyu je bhāl re, maṭe ghaṭe nahi ek vāl re.  <RHYME_46>",
+            "couplet_number": 46,
+            "context": "Life is not full of sorrows only, but also of joys. One should learn to accept both equally and not expect everything to go well always."
+        },
+        {
+            "couplet": "Dev ṛuṣhi rājāthī na maṭe re, jene jevu lakhāṇu chhe ghaṭe re; <RHYME_47>\nJone Indra ange thayo bhang re, pāmī shachī dukh e prasang re.  <RHYME_47>",
+            "couplet_number": 47,
+            "context": "The couplet says that a person's fate is not determined by their wealth or status, but by the karma they have accumulated in their previous lives. Even Indra, the king of gods, is subject to the consequences of his own actions."
+        },
+        {
+            "couplet": "Vashiṣhṭha ne Arundhatī jeh re, shatru thakī dukh pāmyā teh re; <RHYME_48>\nRājā Naḷ vaḷī Damayantī re, teh paṇ pāmyā dukh ati re.  <RHYME_48>",
+            "couplet_number": 48,
+            "context": "Here is a summary of the Gujarati couplet in English:\n\nVashistha and Arundhati suffered hardships due to their enemies, while Rajah Nal and Damayanti faced immense sorrow."
+        },
+        {
+            "couplet": "Eve moṭe moṭe dukh sahyu re, paṇ koī āgaḷya na kahyu re; <RHYME_49>\nEvu sāmbhaḷīne Premvatī re, mānḍyu rudan karavā ati re.  <RHYME_49>",
+            "couplet_number": 49,
+            "context": "A person can tolerate a little suffering with patience, but excessive hardship is unbearable; even more so when the beloved's absence becomes prolonged."
+        },
+        {
+            "couplet": "Hu to tamane shā vaḍe sevu re, nathī gharmā padārath evu re; <RHYME_50>\nMārī hosh rahī man māī re, tamane sevī shakī nahi kāī re.  <RHYME_50>",
+            "couplet_number": 50,
+            "context": "He who has the capacity to love truly will not get bored of serving you, just as he won't tire of receiving gifts from you. Only one who has the passion and desire can serve you selflessly."
+        },
+        {
+            "couplet": "Na maḷe gharmā jamavā anna re, shiyo karu manorath man re; <RHYME_51>\nTyāre boliyā Dharma dayāḷ re, Bhakti dukh na rahe sadā kāḷ re.  <RHYME_51>",
+            "couplet_number": 51,
+            "context": "The couplet describes a person seeking spiritual fulfillment and inner peace by following their heart's desire, rather than external temptations or worldly desires. Through devotion and compassion, one can overcome sorrow and find lasting happiness."
+        },
+        {
+            "couplet": "Māṭe dhīrajye dharmamā rahevu re, mukhe kāyar veṇ na kahevu re; <RHYME_52>\nBhakti mūkavī nahi shir sāṭe re, kahu satyavādī chho te māṭe re.  <RHYME_52>",
+            "couplet_number": 52,
+            "context": "One should remain faithful to one's duty and principles, without wavering in the face of difficulties or temptations. A true devotee should not compromise their values for worldly gains."
+        },
+        {
+            "couplet": "Sukh dukhamā rahevu aḍag re, paraṭhyo pāchho na melavo pag re; <RHYME_53>\nEm ṭek rākho man māy re, karavī chintā ghaṭe nahi kāy re.  <RHYME_53>",
+            "couplet_number": 53,
+            "context": "Stay in the present and don't get anxious about the future or past, as it will only bring worry and pain. Keep your mind pure and don't let thoughts of others disturb you."
+        },
+        {
+            "couplet": "Jevu gamashe Golok dhaṇīne re, tevu āvashe sahaje baṇīne re; <RHYME_54>\nKarīsh eno have hu upāy re, rahejyo rājī tame man māy re.  <RHYME_54>",
+            "couplet_number": 54,
+            "context": "One's own home is where one should settle down peacefully, just like the natural inclination of a tree to grow in its own soil. To achieve this peaceful state, one must use the right methods and not let one's mind be swayed by external desires."
+        },
+        {
+            "couplet": "Karīshu tem thāshe jem sukh re, have nahi rahe ghaṇā din dukh re; <RHYME_55>\nEm āpyo Dharme updesh re, kahu samajavo e rahasya re.  <RHYME_55>",
+            "couplet_number": 55,
+            "context": "Joy is temporary and unhappiness is permanent, whereas spiritual knowledge stays forever and reveals life's secrets. This couplet highlights the fleeting nature of worldly pleasures versus the enduring wisdom of spiritual guidance."
+        }
+    ]
+}

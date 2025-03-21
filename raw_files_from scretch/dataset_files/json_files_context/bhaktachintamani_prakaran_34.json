@@ -1,0 +1,589 @@
+{
+    "prakaran": 34,
+    "title_gu": "પ્રકરણ ૩૪: શ્રીહરિચરિત્ર - શંકર પાર્વતીએ જમાડેલો સાથવો",
+    "title_trans": "Prakaran 34: Shrī Haricharitra - Shankar Pārvatīe jamāḍelo sāthavo",
+    "gujarati": [
+        {
+            "couplet": "ત્યાર પછી જે જે કર્યું તે સાંભળો વાત સરેશ \nએટલું કામ કરી હરિ પછી ચાલિયા દક્ષિણ દેશ",
+            "couplet_number": 1,
+            "context": "Whatever you do today, listen to the words of others; having done your duty, then go on with your journey to South India."
+        },
+        {
+            "couplet": "એકાએક અરણ્ય માંહિ રહેવા રાજી છે મન \nશહેર ન ઇચ્છે સ્વપ્ને વહાલું લાગે છે વસવું વન",
+            "couplet_number": 2,
+            "context": "In the stillness of nature, I am at peace with my mind; urban life is not my dream, as it feels like a distant jungle."
+        },
+        {
+            "couplet": "ભક્તિધર્માદિ ભેળાં રહે દિવ્ય દેહ ધરીને સોઈ \nતેહ વિના જીવ જક્તના નથી ગમતા બીજા કોઈ",
+            "couplet_number": 3,
+            "context": "One's faith and values remain constant, just like the divine body that takes its shape; without it, one is not worthy of even another life."
+        },
+        {
+            "couplet": "ત્યાગ વૈરાગ્ય તનમાં તેણે મગન રહે છે મન \nનાવે બીજા નજરે જે નોય હરિના જન",
+            "couplet_number": 4,
+            "context": "The concept of renunciation and detachment resides within oneself, free from external desires; one should look only at the Lord's form, not at others."
+        },
+        {
+            "couplet": "એવા શ્રીહરિ બહુ નિસ્પ્રેહ અણઇચ્છાએ ચાલિયા તેહ \nઆવ્યા આદિકુરમ તીરથ સુખદાઈ હરિ સમરથ",
+            "couplet_number": 5,
+            "context": "One who seeks the Lord's presence with an unstained heart and without expectation will eventually reach the threshold of happiness. This is the path to reaching the throne of ultimate bliss, where one can experience true joy."
+        },
+        {
+            "couplet": "તેને સમીપે માનસા શહેર આવ્યા તિયાં કરી હરિ મેર્ય \nતેનો રાજા છે અતિ પવિત્ર જેણે બાંધ્યાં છે અન્નના ક્ષેત્ર",
+            "couplet_number": 6,
+            "context": "In his presence, the soul city of humanity is reached; His kingdom is extremely pure, having cultivated the fields of grain."
+        },
+        {
+            "couplet": "અન્નારથી આવે જેહ જન તેને ભાવે કરાવે ભોજન \nતેણે દીઠા એહ બ્રહ્મચારી જોઈ મનમાં રહ્યો વિચારી",
+            "couplet_number": 7,
+            "context": "When a person is born with good qualities, they cultivate virtues through their meals; \nHe who has lived a virtuous life, remains in one's mind as a good thought."
+        },
+        {
+            "couplet": "કહે આ તો મોટા કોઈ અતિ પછી રાખ્યા છે કરી વિનતિ \nરાખ્યા એકાંતે વરણીરાટ અતિ ત્યાગી તપસ્વી તે માટ",
+            "couplet_number": 8,
+            "context": "It is the ego that makes a big deal out of things, and then it gives up in despair; but true renunciation comes from a self-controlled mind that has let go of worldly attachments."
+        },
+        {
+            "couplet": "એક એકાંતે ઓટો સુંદર રહ્યા તિયાં પ્રભુ તે ઉપર \nપછી રાજા રાજાના સેવક કરે ચાકરી કરી વિવેક",
+            "couplet_number": 9,
+            "context": "One's inner self is beautiful, and when elevated by God; later, it serves as a humble servant to the King, performing duties with compassion."
+        },
+        {
+            "couplet": "નિત્ય પ્રત્યે કરે એમ સેવ જાણે મહાત્મા છે મોટા દેવ \nકરે સન્માન જોઈ ત્યાગી બીજા ભેખનું પડિયું ભાંગી",
+            "couplet_number": 10,
+            "context": "One should serve with humility every day, for that is the sign of a great soul; one who renounces worldly honor and takes up another's burden without hesitation."
+        },
+        {
+            "couplet": "ત્યારે અસુર ત્યાંના રહેનાર કહે આ તો છે આપણો માર \nજેણે દૈત્યસમૂહ મરાણો તેનું મૂળ કારણ આ જાણો",
+            "couplet_number": 11,
+            "context": "The forces of evil dwell there, and that is our enemy's stronghold; the reason for the destruction caused by demons is known to us."
+        },
+        {
+            "couplet": "પછી ત્યાંના રહેનાર અસુર કહે મારીએ એને જરૂર \nએમ પાપી સહુ પરિયાણ્યા મારવા પછી પથરા આણ્યા",
+            "couplet_number": 12,
+            "context": "The Asura who lives behind, says my soul is necessary; after killing me, they'll build a funeral pyre with great pomp."
+        },
+        {
+            "couplet": "જાણ્યા એકાએક બેઠા ઓટે આવ્યા માર્યા સારુ દડી દોટે \nનિશિ માંહિ આવ્યા નિશાચર માંડ્યા ફેંકવા બહુ પથર",
+            "couplet_number": 13,
+            "context": "Life's journey is short and uncertain, where one moment you're seated, the next you're fallen. In a flash, everything can change, leaving no time to prepare for the consequences."
+        },
+        {
+            "couplet": "મળી દૈત્ય હજારોહજાર નાખ્યા અશ્મ અતિશે અપાર \nસમીસાંજ થકી સારી રાત્ય કર્યો પાણા તણો વરષાત",
+            "couplet_number": 14,
+            "context": "As thousands of worries gather like a daity, I've shed all my troubles in the past night's sleep; now my thirst is quenched by tomorrow's rain."
+        },
+        {
+            "couplet": "સાધુ સ્વભાવવાળા સુબુદ્ધ નિરવૈર અતિ અવિરુદ્ધ \nબહુ ક્ષમાવાળા હરિ ધીર તેને ન લાગ્યું કાંઈ શરીર",
+            "couplet_number": 15,
+            "context": "The wise and self-controlled are enlightened and beyond praise; even God's patience is tested by them, as if nothing in their physical body can disturb their inner peace."
+        },
+        {
+            "couplet": "ઓટા આસપાસે પાણા પડ્યા ગજ ઓટાથી ઊંચેરા ચડ્યા \nદીઠા હરિ તેમાંથી કુશળ લીધાં દૈત્યો આયુધ તે પળ",
+            "couplet_number": 16,
+            "context": "As the ocean's waters rose high, mighty elephants were stranded; from this, God took wisdom and demons received their armaments at that time."
+        },
+        {
+            "couplet": "જાણ્યુ જાણશે રાજા જો વાત તો થાશે આમાંથી ઉતપાત \nત્યાં તો રાજાને ખબર પડી આવ્યો પ્રભુ પાસળ્યે તે ઘડી",
+            "couplet_number": 17,
+            "context": "When the king knows what's right, then there will be a revolution from within; only then will the Lord take notice and bring about change."
+        },
+        {
+            "couplet": "આવ્યા લોક બીજાં સહુ મળી દેખી પાણા વિસ્મય પામ્યા વળી \nજોઈ રાજા વિચારે છે મને ઉગાર્યા વર્ણીને ભગવને",
+            "couplet_number": 18,
+            "context": "Here is a summary of the couplet in English:\n\nPeople have gathered, and I am surprised to see; The king himself ponders me, as if God has written my fate.\n\n(Note: This summarization is in 2 lines, not exceeding 25-30 words.)"
+        },
+        {
+            "couplet": "કરી પ્રહ્લાદની જેમ સાય નથી તેમાં આમાં ફેર કાંય \nએમ કહીને નમીયો રાજ અમે છીએ તમારા મહારાજ",
+            "couplet_number": 19,
+            "context": "As the story of Prahlad ends, there is no difference between us; similarly, my respect to you remains unchanged.\nI bow down to you, my great king, as I have always done."
+        },
+        {
+            "couplet": "પછી નાથે શિષ્ય તેને કીધો બીજા બહુને ઉપદેશ દીધો \nપછી એમ વિચાર્યો ભૂપાળ પાપી કરત આ વર્ણીનો કાળ",
+            "couplet_number": 20,
+            "context": "After his master's death, the disciple was taught and others were given advice; later, Bhupal thought to himself, \"This sinner will be burned by time\"."
+        },
+        {
+            "couplet": "આ તો આપણા છે ઇષ્ટદેવ તેની દેખી શક્યા નહિ સેવ \nએણે જરૂર માર્યાતા આજ ખોઈતી એણે આપણી લાજ",
+            "couplet_number": 21,
+            "context": "This is our Lord's will, and we cannot see Him or His ways; He has decreed what must be done today, and it has overwhelmed us with sorrow."
+        },
+        {
+            "couplet": "માટે ખરા એ ખૂની અસુર એને જોવા આપણે જરૂર \nપછી એને કેડ્યે ફોજ ચડી ઘેરી લીધા અસુર તે ઘડી",
+            "couplet_number": 22,
+            "context": "For a true friend is like a rare gem, we need to appreciate them; after that, it's necessary to cherish and keep them close."
+        },
+        {
+            "couplet": "કહ્યું લ્યો ઊભારો ઊડું ઊડું એમ કહીને કાપિયું મૂંડું \nમુવા અધરમી ત્યાં અપાર બહુ ઊતર્યો ભૂમિનો ભાર",
+            "couplet_number": 23,
+            "context": "I've spoken bluntly and loudly, but it's been silenced; now my words are left to wither like a tree without roots.\n\nThe grief is unbearable where the heart breaks down, and I'm burdened with the weight of this bitter land."
+        },
+        {
+            "couplet": "એમ પોતાના પાપ પ્રતાપે થયા નાશ તે અસુર આપે \nહરિ પોતે અપાપ અદોષ નથી રાખતા કોઈશું રોષ",
+            "couplet_number": 24,
+            "context": "The couplet conveys that one's own mistakes and wrongdoings are their downfall, while God is merciful and does not take pleasure in punishing others."
+        },
+        {
+            "couplet": "એવા કૃષ્ણ દેવ જે દયાળ પછી ચાલ્યા ત્યાંથી તતકાળ \nઆવ્યા વેંકટાદ્રિયે જીવન કર્યાં ઠાકોરજીનાં દર્શન",
+            "couplet_number": 25,
+            "context": "Here is a 1-2 line summarization of the Gujarati couplet:\n\nKrishna, the merciful, left from there; \nHe came to Venkateswara, saw the life-giving vision of Thakorji's darshan."
+        },
+        {
+            "couplet": "પછી ચાલ્યા ત્યાંથી નિરમોહી શિવકાંચી વિષ્ણુકાંચી જોઈ \nત્યાંથી શ્રીરંગે આવ્યા છે શ્યામ મોટા મોટાનાં કરવા કામ",
+            "couplet_number": 26,
+            "context": "After leaving worries behind, one finds Shri-Rang (a divine form) of Lord Vishnu and Shyam (Lord Krishna); their grand work has been accomplished."
+        },
+        {
+            "couplet": "કાવેરી ગંગામાં પોતે નાહી ઊતરિયા ફૂલવાડી માંહિ \nવાડી સુંદર શોભે છે સાર જેમાં ફળ ફૂલ છે અપાર",
+            "couplet_number": 27,
+            "context": "Kaveri River is not a part of Ganges, but it blooms with beauty in its own place; the courtyard where fruits and flowers abound is truly beautiful."
+        },
+        {
+            "couplet": "રહ્યા પોતે તિયાં દોય માસ કરવા બહુ જીવને સમાસ \nતિયાં વૈષ્ણવને વાત કરી એના ફેલ તજાવિયાં હરિ",
+            "couplet_number": 28,
+            "context": "He remains at home for just a day, but his life is spent in many an endeavor. He talks of Lord Vishnu to others, and only the Lord knows his inner turmoil."
+        },
+        {
+            "couplet": "બીજા નાટક ચેટકવાળા બહુ કરતા હતા કર્મ કાળાં \nતેને જીતી પોતે તતકાળ ડંકો બેસાડ્યો પોતે દયાળ",
+            "couplet_number": 29,
+            "context": "The second act is always played by others, while one's own karma remains black; eventually, the player himself gets defeated and falls into despair."
+        },
+        {
+            "couplet": "ચાલ્યા ત્યાંથી થઈ તતપર આવ્યા સેતુબંધ રામેશ્વર \nનાયા સમુદ્રમાં ત્યાં જીવન કર્યાં રામેશ્વરનાં દર્શન",
+            "couplet_number": 30,
+            "context": "Here is a summarization of the Gujarati couplet in English:\n\nHaving left behind worldly attachments, I reached Rameshwar; there, I saw the life of the ocean."
+        },
+        {
+            "couplet": "ક્ષેત્ર પવિત્ર છે અતિ એહ તપસ્વિને સેવ્યા જેવું તેહ \nરહ્યા પોતે તિયાં દોય માસ પછી ત્યાંથી ચાલ્યા અવિનાશ",
+            "couplet_number": 31,
+            "context": "The field is sacred and pure, like a devotee's offering to God. One stays there for some time, then leaves without attachment, untainted."
+        },
+        {
+            "couplet": "આવ્યા સુંદર રાજમાં શ્યામ કર્યો તિયાં કાંઈક વિશ્રામ \nપછી ચાલ્યા ભૂતપુરી ભણી ના પૂછી રીત્ય એ વાટ તણી",
+            "couplet_number": 32,
+            "context": "Shyam came to the beautiful land of Rajmahal and took a break; afterwards, he went to Bhootpur and learned the true way without asking questions."
+        },
+        {
+            "couplet": "ચાલ્યા દિશ બાંધીને દયાળ નથી જેને શરીર સંભાળ \nઆવ્યું આગળ્ય વિકટ વન અતિ ઘોર ઘણું છે સઘન",
+            "couplet_number": 33,
+            "context": "The direction is set, but one must take care of their body; I have fallen prey to the all-consuming passion, which is excessively rough and unrelenting."
+        },
+        {
+            "couplet": "ચાલતાં ચાલતાં પડે રાત્ય તિયાં પોઢી ચાલે પરભાત્ય \nએમ વહી ગયા પંચ દન મળ્યું નહિ તિયાં જળ અન્ન",
+            "couplet_number": 34,
+            "context": "As time passes, night falls suddenly; in this way, five days have passed, but I haven't even had a sip of water to quench my hunger."
+        },
+        {
+            "couplet": "પડી સાંજ મળ્યું નહિ પાણી સૂકો કંઠ ન બોલાય વાણી \nથયા આપે અતિશે અચેત એમ કષ્ટ સહે જન હેત",
+            "couplet_number": 35,
+            "context": "In the scorching heat of sunset, water is scarce and the throat remains dry; it's as if fate has afflicted us with immense suffering."
+        },
+        {
+            "couplet": "પછી ધીરે ધીરે ચાલ્યા ધીર ત્યાં તો આવ્યું છે અરણ્યમાં નીર \nતેમાં નાયા પોતે ઘનશ્યામ પછી નવરાવ્યા શાલગ્રામ",
+            "couplet_number": 36,
+            "context": "As one walks slowly, slowly in the forest, they find themselves at a quiet and peaceful place; there, I myself became Ghanshyam, then wore the garb of Shalagram."
+        },
+        {
+            "couplet": "તિયાં પ્રબોલિયાફળી ચ્યાર શેકી કર્યું નૈવેદ્ય તે વાર \nતેને જમ્યા પોતે ઘનશ્યામ પહોર એક રહ્યા એહ ઠામ",
+            "couplet_number": 37,
+            "context": "The fruits of one's hard work will eventually ripen, but only after a long and arduous journey. True happiness comes from one's own inner peace, not external appearances."
+        },
+        {
+            "couplet": "પછી ચાલિયા ત્યાંથી દયાળ થયો બીજે દિ મધ્યાન કાળ \nત્યાં અરણ્યે આવ્યો એક કૂપ ભર્યો અમળ જળે અનુપ",
+            "couplet_number": 38,
+            "context": "After a while, fate arrived at the appointed time; where I found myself in a well, filled with sweet water and divine nectar."
+        },
+        {
+            "couplet": "તિયાં નાયા પોતે જળ કાઢી પછી બેઠા છાંયા જોઈ ટાઢી \nભરી ગળી જળની કઠારી શેર દશની સુંદર સારી",
+            "couplet_number": 39,
+            "context": "The speaker has exhausted their own energy, only to be left feeling drained and worn out; they've filled their cup with the bitter waters of life, but it's still a beautiful journey."
+        },
+        {
+            "couplet": "પછી શાળગ્રામ લઈ ત્યાંઈ તે પધરાવ્યા કટોરી માંઈ \nઉપરથી કીધી જળધાર થઈ ઠાલી કઠારી તે વાર",
+            "couplet_number": 40,
+            "context": "After building a home in the village, they placed their confidence in a strong foundation; Above them, water flowed like a river, and their worries became distant noise."
+        },
+        {
+            "couplet": "ત્યારે પોતે જોયું વિચારી કિયાં વહી ગયું આટલું વારિ \nરખે કટોરી ફૂટેલ હોય જોયું ત્યારે સાજી દીઠી સોય",
+            "couplet_number": 41,
+            "context": "I reflected on my past and saw that I had wasted many years; now, a late blooming flower is being nurtured in the present."
+        },
+        {
+            "couplet": "પછી જાણ્યું એમ ઘનશ્યામે પીધું જરૂર એ શાલગ્રામે \nરખે હોય હજીએ પિપાસા એમ કહીને મન વિમાશા",
+            "couplet_number": 42,
+            "context": "After experiencing the divine, I have consumed the nectar of truth from the sacred stone; my mind is still thirsty for it."
+        },
+        {
+            "couplet": "પછી કાઢી કાઢીને કઠારી પાયું બહુ શાલગ્રામને વારિ \nજેમ જેમ જળ માંડ્યું પાવા તેમ માંડ્યું ઠામ ઠાલું થાવા",
+            "couplet_number": 43,
+            "context": "As we move forward, we should discard the old and take a step towards progress; just as water flows away from the mud, similarly our lives should flow away from darkness to light."
+        },
+        {
+            "couplet": "એક બેનો ન રહ્યો વિચાર પીધું જળ કઠારી અપાર \nસિંચી સિંચી થાક્યા ઘનશ્યામ ત્યારે તૃપ્ત થયા શાલગ્રામ",
+            "couplet_number": 44,
+            "context": "One cannot think without reflection; just like the river's water is reflected in a calm lake.\n\nThe poet is comparing his own contemplation to the stillness of a lake, allowing him to reflect and be content like Ganges River at sunset."
+        },
+        {
+            "couplet": "પછી પૂજ્યા છે ચંદને કરી વળતા એમ વિચારિયા હરિ \nપ્યાસ ભાંગી પણ હશે ભૂખ થયું એ વાતનું અતિ દુઃખ",
+            "couplet_number": 45,
+            "context": "One's faith is tested after experiencing God's mercy, and even in scarcity, one should remember God's favor; instead, if you neglect this gratitude, it will lead to intense suffering."
+        },
+        {
+            "couplet": "પોતાને તો મળ્યું નથી અન્ન તેને વીતી ગયા ષટ દન \nતેનું તો પોતાને નથી કાંય અતિ ધીરજ્ય પર્વતપ્રાય",
+            "couplet_number": 46,
+            "context": "I've summarized the couplet in English:\n\n\"Someone else has received their share of food and time, but we're still waiting for our turn; they have nothing left to give us, it's a mountain that is too steep to climb.\""
+        },
+        {
+            "couplet": "તેહ સમે ત્યાં આવ્યા કાપડી પુરુષ નારી તે પોઠિયે ચડી \nકાષાંબર તે સુંદર ધર્યાં બેઉ અતિ ભાવ માંહિ ભર્યાં",
+            "couplet_number": 47,
+            "context": "Two souls came together in love, with hearts so beautiful they were filled with tender emotions. Their bond was as lovely as a charming garden."
+        },
+        {
+            "couplet": "આવિયાં એહ વન મોઝાર દેખી હરિ કર્યો નમસ્કાર \nઆપ્યું આસન આદરે જ્યારે વળતાં બોલ્યાં છે દંપતી ત્યારે",
+            "couplet_number": 48,
+            "context": "As the sun rises, I behold God's blessings; When we sit together, our love is spoken by us both."
+        },
+        {
+            "couplet": "તમે ક્યાંથી આવ્યા એકાએક નથી સંગે તે કેમ સેવક \nતમે ભૂખ્યા હશો મારા વીર એમ કહી ભર્યા નેણે નીર",
+            "couplet_number": 49,
+            "context": "You arrived alone and unexpected, without any prior arrangement; you were hungry, my hero, so I gave you a drink of water to quench your thirst."
+        },
+        {
+            "couplet": "પછી ત્રિયાને કહે મહામતિ આપો સાથુ આ ભૂખ્યા છે અતિ \nત્યારે આપ્યો સાથુ લુણ સહિતે ધર્યું વિષ્ણુને નૈવેદ્ય પ્રીત્યે",
+            "couplet_number": 50,
+            "context": "A great sage says that his companion is extremely hungry; and so, with a full belly, he has offered worship to Lord Vishnu with devotion."
+        },
+        {
+            "couplet": "ત્યારે હરિ કહે પૂછું છું અમે આવા કોણ દયાળુ છો તમે \nત્યારે યોગી કહે જમી લિયો ધીરા રહી પછી જળ પિયો",
+            "couplet_number": 51,
+            "context": "When I ask God, \"Who is merciful to us?\", He replies that those who wait patiently will get their reward in the end."
+        },
+        {
+            "couplet": "ત્યાર પછી હું કરીશ વાત જેમ છે તેમ કહીશ વિખ્યાત \nપછી જમી જળપાન કર્યું ત્યારે યોગી બોલ્યા મોદભર્યું",
+            "couplet_number": 52,
+            "context": "I will speak the truth as it is, and I will reveal everything famous; \nAfterward, I enjoyed my meal, then yogis spoke with me, filled with devotion."
+        },
+        {
+            "couplet": "સુણો વર્ણી તપસ્વી અક્રોધ જાણ્યા અમે શ્રીકૃષ્ણ છો શુદ્ધ \nમાટે નહિ બોલું જૂઠું મહામતિ મને જાણો ઈશ આ છે સતી",
+            "couplet_number": 53,
+            "context": "We are true devotees of Lord Krishna, pure and untainted; hence we do not speak falsehoods, for our souls know the truth is sacred."
+        },
+        {
+            "couplet": "તમને ભૂખ્યા જાણીને દયાળ અમે આવ્યા આંહિ તતકાળ \nશ્રીરંગાદિ જેહ બીજાં ક્ષેત્ર તિયાં ફરું છું જાણી પવિત્ર",
+            "couplet_number": 54,
+            "context": "Knowing your hunger is pitied, we have come at this moment; I will cross those lands, knowing the sacred."
+        },
+        {
+            "couplet": "તમ જેવાનાં દર્શન સારુ નાથ રહેવું જાણો આંહિ મારું \nએવી સુણી મહેશની વાત થયા હરિ બહુ રળિયાત",
+            "couplet_number": 55,
+            "context": "The sight of people like you is very rare; know that I will not remain in this world forever."
+        },
+        {
+            "couplet": "સદા શિવ કૈલાસ રહેનાર તે મળ્યા મને સાક્ષાતકાર \nલાગ્યા પાય પડી ઓળખાણ્ય ત્યારે નાથે જોડ્યા જુગ પાણ્ય",
+            "couplet_number": 56,
+            "context": "The divine abode of Lord Shiva is eternal, and when I reached it, I experienced the ultimate truth. My feet felt the touch of the ground, and only then did my thirst for life's purpose quench."
+        },
+        {
+            "couplet": "કહે નાથ કરો શિવ સાય જે થકી દ્રઢ વૈરાગ્ય થાય \nકહે શિવજી સાંભળો વીર થાશે દ્રઢ વૈરાગ્ય સુધીર",
+            "couplet_number": 57,
+            "context": "May Shiva's guidance help you achieve steadfast renunciation, which only comes from experiencing suffering; listen to Shriji and you'll reach the stage of strong renunciation."
+        },
+        {
+            "couplet": "કરી પ્રશંસા તે પરસ્પર મળ્યા બેઉ પછી મોદભર \nવળતા ઈશ અંતર્ધાન થિયા પ્રભુ ભૂતપુરીયે આવિયા",
+            "couplet_number": 58,
+            "context": "Praise of God is mutual, as two souls merged in ecstasy; God's blessings brought them together, a union of the past and future."
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Tyār pachhī je je karyu, te sāmbhaḷo vāt saresh; <RHYME_1>\nEṭalu kām karī Hari, pachhī chāliyā dakṣhiṇ desh.  <RHYME_1>",
+            "couplet_number": 1,
+            "context": "One who does what they must do, will have to face the consequences of their actions; God's task is to make us do what we were meant to do, and then guide us towards our destination."
+        },
+        {
+            "couplet": "Ekā-ek araṇya māhi, rahevā rājī chhe man; <RHYME_2>\nShaher na ichchhe swapne, vahālu lāge chhe vasavu van.  <RHYME_2>",
+            "couplet_number": 2,
+            "context": "One can find happiness in a small village, not in the world's chaos; In dreams, one may desire the city, but reality is stuck in the forest of habits."
+        },
+        {
+            "couplet": "Bhakti-Dharmādi bheḷā rahe, divya deh dharīne soī; <RHYME_3>\nTeh vinā jīv jaktanā, nathī gamatā bījā koī.  <RHYME_3>",
+            "couplet_number": 3,
+            "context": "Spiritual pursuits and virtues flourish, with a divine body as the foundation. Without seeking worldly attachments, one's true nature remains unseeded."
+        },
+        {
+            "couplet": "Tyāg vairāgya tanmā, teṇe magan rahe chhe man; <RHYME_4>\nNāve bījā najare, je noy Harinā jan.  <RHYME_4>",
+            "couplet_number": 4,
+            "context": "The couplet conveys the importance of self-control and renunciation in spiritual growth, stating that a person's true worth lies not in external possessions but within themselves.\n\nIt also highlights the idea that one should focus on cultivating inner qualities like devotion to God (Harina) rather than getting entangled in worldly pursuits."
+        },
+        {
+            "couplet": "Evā Shrī Hari bahu nispreh, aṇ-ichchhāe chāliyā teh; <RHYME_5>\nĀvyā Ādikuram tīrath, sukhdāī Hari samarath.  <RHYME_5>",
+            "couplet_number": 5,
+            "context": "The devotee has no expectations from the Lord, just a desire to cross the ocean of life; ultimately, only the Lord can bring true happiness and liberation."
+        },
+        {
+            "couplet": "Tene samīpe Mānasā shaher, āvyā tiyā karī Hari merya; <RHYME_6>\nTeno rājā chhe ati pavitra, jeṇe bāndhyā chhe annanā kṣhetra.  <RHYME_6>",
+            "couplet_number": 6,
+            "context": "In the presence of God, the city of the mind is pure; The king who resides there is extremely sacred and owns a field of abundance."
+        },
+        {
+            "couplet": "Annārathī āve jeh jan, tene bhāve karāve bhojan; <RHYME_7>\nTeṇe dīṭhā eh brahmachārī, joī manmā rahyo vichārī.  <RHYME_7>",
+            "couplet_number": 7,
+            "context": "He who has obtained the divine, makes a feast of his own self; \nIn this state, a celibate one like Brahma, rejoices in contemplation."
+        },
+        {
+            "couplet": "Kahe ā to moṭā koī ati, pachhī rākhyā chhe karī vinati; <RHYME_8>\nRākhyā ekānte Varaṇīrāṭ, ati tyāgī tapasvī te māṭ.  <RHYME_8>",
+            "couplet_number": 8,
+            "context": "A person who is extremely devoted to their spiritual practices and has let go of worldly desires lives in the city of Varanasi, which is sacred for them. They have completely abandoned attachment and are absorbed in meditation."
+        },
+        {
+            "couplet": "Ek ekānte oṭo sundar, rahyā tiyā Prabhu te upar; <RHYME_9>\nPachhī rājā rājānā sevak, kare chākarī karī vivek.  <RHYME_9>",
+            "couplet_number": 9,
+            "context": "Each individual is beautiful in their own way, and God is above all of them; The king of kings serves his servant with detachment."
+        },
+        {
+            "couplet": "Nitya pratye kare em sev, jāṇe mahātmā chhe moṭā dev; <RHYME_10>\nKare sanmān joī tyāgī, bījā bhekhnu paḍiyu bhāngī.  <RHYME_10>",
+            "couplet_number": 10,
+            "context": "The couplet praises a selfless person who constantly does good deeds and is considered a great devotee of God, like a tree that bears fruit. It also highlights the importance of renouncing worldly attachments, just as a seed sprouts into a blooming flower."
+        },
+        {
+            "couplet": "Tyāre asur tyānā rahenār, kahe ā to chhe āpaṇo mār; <RHYME_11>\nJeṇe daityasamūh marāṇo, tenu mūḷ kāraṇ ā jāṇo.  <RHYME_11>",
+            "couplet_number": 11,
+            "context": "The wicked will continue to suffer and meet their demise; it is only fitting that they should be crushed by their own arrogance.\n\nEven the gathering of demons is destined to fall, for the reason behind their downfall can be known."
+        },
+        {
+            "couplet": "Pachhī tyānā rahenār asur, kahe mārīe ene jarūr; <RHYME_12>\nEm pāpī sahu pariyāṇyā, māravā pachhī patharā āṇyā.  <RHYME_12>",
+            "couplet_number": 12,
+            "context": "The wicked will remain in darkness, for sure; their evil deeds will surely lead them to destruction.\n\nTheir evil actions are like stepping on sharp stones, causing only pain and suffering."
+        },
+        {
+            "couplet": "Jāṇyā ekā-ek beṭhā oṭe, āvyā māryā sāru daḍī doṭe; <RHYME_13>\nNishi māhi āvyā nishāchar, mānḍyā fenkavā bahu pathar.  <RHYME_13>",
+            "couplet_number": 13,
+            "context": "A woman will wait alone on one platform, while her lover's blood will flow like a river; In the dead of night, she'll wait anxiously, with many tears and heartache."
+        },
+        {
+            "couplet": "Maḷī daitya hajāro-hajār, nākhyā ashma atishe apār; <RHYME_14>\nSamīsānj thakī sārī rātya, karyo pāṇā taṇo varaṣhāt.  <RHYME_14>",
+            "couplet_number": 14,
+            "context": "Here is a summary of the Gujarati couplet:\n\nThe ocean's waves are countless and infinite, its heat and power unmatched; \nAt night, the moon stays steady, while human efforts are limited by time."
+        },
+        {
+            "couplet": "Sādhu swabhāvvāḷā subuddh, nirvair ati aviruddha; <RHYME_15>\nBahu kṣhamāvāḷā Hari dhīr, tene na lāgyu kāī sharīr.  <RHYME_15>",
+            "couplet_number": 15,
+            "context": "A wise and enlightened being is always at peace with themselves and others, free from envy and hatred. One who has God's consciousness remains unattached to the physical body and its desires."
+        },
+        {
+            "couplet": "Oṭā ās-pāse pāṇā paḍyā, gaj oṭāthī ūcherā chaḍyā; <RHYME_16>\nDīṭhā Hari temāthī kushaḷ, līdhā daityo āyudh te paḷ.  <RHYME_16>",
+            "couplet_number": 16,
+            "context": "In a field of mustard seeds, one must sow and reap with care; in life's journey, one must be mindful of both good deeds and negative actions.\n\nGood deeds bring Lord Hari's favor, while wrongdoings invite the wrath of demons."
+        },
+        {
+            "couplet": "Jāṇyu jāṇashe rājā jo vāt, to thāshe āmāthī utpāt; <RHYME_17>\nTyā to rājāne khabar paḍī, āvyo Prabhu pāsaḷye te ghaḍī.  <RHYME_17>",
+            "couplet_number": 17,
+            "context": "When a king's whims are pleased, the people rejoice; but when his wrath is stirred, even the gods tremble with fear."
+        },
+        {
+            "couplet": "Āvyā lok bījā sahu maḷī, dekhī pāṇā vismay pāmyā vaḷī; <RHYME_18>\nJoī rājā vichāre chhe mane, ugāryā Varṇīne Bhagwane.  <RHYME_18>",
+            "couplet_number": 18,
+            "context": "The earthy seeds of the world are full of wonder and surprise. The king's mind is filled with joy when he thinks of God's blessings."
+        },
+        {
+            "couplet": "Karī Prahlādnī jem sāy, nathī temā āmā fer kāy; <RHYME_19>\nEm kahīne namīyo rāj, ame chhīe tamārā Mahārāj.  <RHYME_19>",
+            "couplet_number": 19,
+            "context": "A soul is like a lotus flower that blooms in the water, but remains untouched by it. Only those who have experienced suffering and hardships can truly understand the greatness of a king."
+        },
+        {
+            "couplet": "Pachhī Nāthe shiṣhya tene kīdho, bījā bahune updesh dīdho; <RHYME_20>\nPachhī em vichāryo bhūpāḷ, pāpī karat ā Varṇīno kāḷ.  <RHYME_20>",
+            "couplet_number": 20,
+            "context": "The Lord teaches His true disciple with patience and in small doses, whereas the foolish ones are scolded harshly and at length."
+        },
+        {
+            "couplet": "Ā to āpaṇā chhe iṣhṭadev, tenī dekhī shakyā nahi sev; <RHYME_21>\nEṇe jarūr māryātā āj, khoītī eṇe āpaṇī lāj.  <RHYME_21>",
+            "couplet_number": 21,
+            "context": "The divine is always available, but it's hard to recognize; now that I've lost my chance, I'm just begging for mercy.\n\nToday has passed me by, and I'm getting scolded for my past mistakes."
+        },
+        {
+            "couplet": "Māṭe kharā e khūnī asur, ene jovā āpaṇe jarūr; <RHYME_22>\nPachhī ene keḍye foj chaḍī, gherī līdhā asur te ghaḍī.  <RHYME_22>",
+            "couplet_number": 22,
+            "context": "A demon of debt will surely trouble you if you don't clear your dues on time.\nEven if it's just a small amount, worry about paying it off or else it will engulf you."
+        },
+        {
+            "couplet": "Kahyu lyo ūbhāro ūḍu ūḍu, em kahīne kāpiyu mūnḍu; <RHYME_23>\nMuvā adharamī tyā apār, bahu ūtaryo bhūmino bhār.  <RHYME_23>",
+            "couplet_number": 23,
+            "context": "In times of distress, one's own efforts may seem futile; it's in the darkness that a guiding star appears.\n\nWhen adversity is great, even little strength can bear it down."
+        },
+        {
+            "couplet": "Em potānā pāp pratāpe, thayā nāsh te asur āpe; <RHYME_24>\nHari pote apāp adoṣh, nathī rākhatā koīshu roṣh.  <RHYME_24>",
+            "couplet_number": 24,
+            "context": "The couplet says that when one's sins are washed away by God, the devil himself gets angry; and with no one to complain to, even God is unaware of the complaint."
+        },
+        {
+            "couplet": "Evā Kṛuṣhṇa dev je dayāḷ, pachhī chālyā tyāthī tatkāḷ; <RHYME_25>\nĀvyā Venkaṭādriye jīvan, karyā Ṭhākorjīnā darshan.  <RHYME_25>",
+            "couplet_number": 25,
+            "context": "Lord Krishna's compassion knows no bounds, He follows those who cry out to Him; He grants eternal life at Venkateshwara and allows a glimpse of His divine form."
+        },
+        {
+            "couplet": "Pachhī chālyā tyāthī nirmohī, Shivkānchī Viṣhṇukānchī joī; <RHYME_26>\nTyāthī Shrīrange āvyā chhe shyām, moṭā moṭānā karavā kām.  <RHYME_26>",
+            "couplet_number": 26,
+            "context": "The devotee has reached the ultimate goal, free from worldly attachment and desires; their soul is immersed in the divine love of Vishnu."
+        },
+        {
+            "couplet": "Kāverī Gangāmā pote nāhī, ūtariyā fūlavāḍī māhi; <RHYME_27>\nVāḍī sundar shobhe chhe sār, jemā faḷ fūl chhe apār.  <RHYME_27>",
+            "couplet_number": 27,
+            "context": "The river Kaveri is not tied down by its banks, and similarly, a beautiful heart is not bound by worldly affairs; it's as if the beauty of a flower exceeds its petals."
+        },
+        {
+            "couplet": "Rahyā pote tiyā doy mās, karavā bahu jīvne samās; <RHYME_28>\nTiyā Vaiṣhṇavne vāt karī, enā fel tajāviyā Hari.  <RHYME_28>",
+            "couplet_number": 28,
+            "context": "Two months have passed since my dear one's departure, and I am still seeking the meaning of life; the Lord Hari has taken away our beloved, leaving me with nothing but sorrow."
+        },
+        {
+            "couplet": "Bījā nāṭak cheṭakvāḷā, bahu karatā hatā karma kāḷā; <RHYME_29>\nTene jītī pote tatakāḷ, ḍanko besāḍyo pote dayāḷ.  <RHYME_29>",
+            "couplet_number": 29,
+            "context": "The couplet compares the seed of a play (bijā nāṭak) to a small and insignificant thing that can lead to great consequences. Similarly, even a tiny act of kindness or charity can bring immense joy and mercy."
+        },
+        {
+            "couplet": "Chālyā tyāthī thaī tatapar, āvyā Setubandha Rāmeshvar; <RHYME_30>\nNāyā samudramā tyā jīvan, karyā Rāmeshvarnā darshan.  <RHYME_30>",
+            "couplet_number": 30,
+            "context": "The devotee of Lord Rameshwar sets foot on the shores of life, seeking a glimpse of him. One's entire journey is for the sake of beholding Lord Rameshwar."
+        },
+        {
+            "couplet": "Kṣhetra pavitra chhe ati eh, tapasvine sevyā jevu teh; <RHYME_31>\nRahyā pote tiyā doy mās, pachhī tyāthī chālyā avināsh.  <RHYME_31>",
+            "couplet_number": 31,
+            "context": "The land is pure and sacred, one who serves with devotion will benefit; one should stay for at least two months to fully enjoy the place."
+        },
+        {
+            "couplet": "Āvyā sundar rājmā shyām, karyo tiyā kāīk vishrām; <RHYME_32>\nPachhī chālyā Bhūtpurī bhaṇī, nā pūchhī rītya e vāṭ taṇī.  <RHYME_32>",
+            "couplet_number": 32,
+            "context": "The beautiful couple's rest is disturbed by the world, and they are forced to leave their peaceful abode. They have departed for Bhupuri, without even asking permission from anyone in this world."
+        },
+        {
+            "couplet": "Chālyā dish bāndhīne dayāḷ, nathī jene sharīr sambhāḷ; <RHYME_33>\nĀvyu āgaḷya vikaṭ van, ati ghor ghaṇu chhe saghan.  <RHYME_33>",
+            "couplet_number": 33,
+            "context": "The couplet describes the suffering of a person who has forgotten to show mercy and compassion. Their body is tormented by the consequences, like being in a dark forest with no escape."
+        },
+        {
+            "couplet": "Chālatā chālatā paḍe rātya, tiyā poḍhī chāle parbhātya; <RHYME_34>\nEm vahī gayā panch dan, maḷyu nahi tiyā jaḷ anna.  <RHYME_34>",
+            "couplet_number": 34,
+            "context": "As time passes, one's good deeds are forgotten, but their mistakes are remembered. Five virtues were gone with the wind, and only sorrow was left behind."
+        },
+        {
+            "couplet": "Paḍī sānj maḷyu nahi pāṇī, sūko kanṭha na bolāy vāṇī; <RHYME_35>\nThayā āpe atishe achet, em kaṣhṭa sahe jan het.  <RHYME_35>",
+            "couplet_number": 35,
+            "context": "A strong person doesn't get tired easily and doesn't let their emotions overwhelm them. They bear difficulties patiently for the sake of others."
+        },
+        {
+            "couplet": "Pachhī dhīre dhīre chālyā dhīr, tyā to āvyu chhe araṇyamā nīr; <RHYME_36>\nTemā nāyā pote Ghanshyām, pachhī navarāvyā Shālagrām.  <RHYME_36>",
+            "couplet_number": 36,
+            "context": "Slowly and steadily go forward with courage, for beyond the fear lies a peaceful forest; Ghausheem is the name of my ship and Shalagram is the destination I seek."
+        },
+        {
+            "couplet": "Tiyā praboliyāfaḷī chyār, shekī karyu naivedya te vār; <RHYME_37>\nTene jamyā pote Ghanshyām, pahor ek rahyā eh ṭhām.  <RHYME_37>",
+            "couplet_number": 37,
+            "context": "The humble bride (tiyā) offers her best to the Lord, just as she would offer naivedya (food offering) at home; and so, Ghanshyam remains with us even in the evening hours."
+        },
+        {
+            "couplet": "Pachhī chāliyā tyāthī dayāḷ, thayo bīje di madhyān kāḷ; <RHYME_38>\nTyā araṇye āvyo ek kūp, bharyo amaḷ jaḷe anup.  <RHYME_38>",
+            "couplet_number": 38,
+            "context": "A kind person's virtues are not seen immediately, but their good deeds come to the forefront in times of need; similarly, a wife's loyalty is only evident when her husband faces difficulties."
+        },
+        {
+            "couplet": "Tiyā nāyā pote jaḷ kāḍhī, pachhī beṭhā chhāyā joī ṭāḍhī; <RHYME_39>\nBharī gaḷī jaḷnī kaṭhārī, sher dashnī sundar sārī.  <RHYME_39>",
+            "couplet_number": 39,
+            "context": "The couplet describes a majestic tree whose branches spread wide like a queen's skirt, providing shade to all who sit beneath it. Its beauty is enhanced by the sweet scent of flowers and the chirping of birds that reside within its lush foliage."
+        },
+        {
+            "couplet": "Pachhī Shāḷagrām laī tyāī, te padharāvyā kaṭorī māī; <RHYME_40>\nUparthī kīdhī jaḷdhār, thaī ṭhālī kaṭhārī te vār.  <RHYME_40>",
+            "couplet_number": 40,
+            "context": "Here is a summary of the Gujarati couplet:\n\nA gentle breeze carries sweet memories, filling my heart with joy and longing; just like a tender shoot springs forth from the soil."
+        },
+        {
+            "couplet": "Tyāre pote joyu vichārī, kiyā vahī gayu āṭalu vāri; <RHYME_41>\nRakhe kaṭorī fūṭel hoy, joyu tyāre sājī dīṭhī soy.  <RHYME_41>",
+            "couplet_number": 41,
+            "context": "A person who thinks too much gets lost in their own thoughts, and even if they reach the destination, it's of no use. Their thought process becomes muddled like a tied thread, which is of no benefit."
+        },
+        {
+            "couplet": "Pachhī jāṇyu em Ghanshyāme, pīdhu jarūr e Shālagrāme; <RHYME_42>\nRakhe hoy hajīe pipāsā, em kahīne man vimāshā.  <RHYME_42>",
+            "couplet_number": 42,
+            "context": "In the presence of God, even a leper's wound will heal in Salagrama; In His remembrance, one's mind becomes calm and peaceful."
+        },
+        {
+            "couplet": "Pachhī kāḍhī kāḍhīne kaṭhārī, pāyu bahu Shālagrāmne vāri; <RHYME_43>\nJem jem jaḷ mānḍyu pāvā, tem mānḍyu ṭhām ṭhālu thāvā.  <RHYME_43>",
+            "couplet_number": 43,
+            "context": "A gentle breeze is blowing, bearing the fragrance of Shalagram; with each passing moment, my soul finds solace and peace."
+        },
+        {
+            "couplet": "Ek beno na rahyo vichār, pīdhu jaḷ kaṭhārī apār; <RHYME_44>\nSinchī sinchī thākyā Ghanshyām, tyāre tṛupta thayā Shālagrām.  <RHYME_44>",
+            "couplet_number": 44,
+            "context": "A wise thought is not found in a moment of sorrow; after some time, it becomes a stable decision.\n\nGhanshyam's thoughts were scattered like dust, but then they became aligned like the sacred gemstone Shalagrama."
+        },
+        {
+            "couplet": "Pachhī pūjyā chhe chandane karī, vaḷatā em vichāriyā Hari; <RHYME_45>\nPyās bhāngī paṇ hashe bhūkh, thayu e vātnu ati dukh.  <RHYME_45>",
+            "couplet_number": 45,
+            "context": "The couplet describes the pain of unfulfilled desires, where one's thirst and hunger are not quenched, causing immense sorrow.\n\nA person's devotion to God is like offering a prayer, but their worldly needs remain unsatisfied, leading to distress."
+        },
+        {
+            "couplet": "Potāne to maḷyu nathī anna, tene vītī gayā ṣhaṭ dan; <RHYME_46>\nTenu to potāne nathī kāy, ati dhīrajya parvatprāy.  <RHYME_46>",
+            "couplet_number": 46,
+            "context": "A person's wealth is not in their grains, but in their wit and cleverness. A person's true strength lies not in their physical power, but in their bravery like a mighty mountain."
+        },
+        {
+            "couplet": "Teh same tyā āvyā kāpaḍī, puruṣh nārī te poṭhiye chaḍī; <RHYME_47>\nKāṣhāmbar te sundar dharyā, beu ati bhāv māhi bharyā.  <RHYME_47>",
+            "couplet_number": 47,
+            "context": "A man who cannot manage his own household is unable to control others; a home where love and harmony prevail is truly beautiful."
+        },
+        {
+            "couplet": "Āviyā eh van mozār, dekhī Hari karyo namaskār; <RHYME_48>\nĀpyu āsan ādare jyāre, vaḷatā bolyā chhe dampatī tyāre.  <RHYME_48>",
+            "couplet_number": 48,
+            "context": "The couplet describes the joy and respect one feels when experiencing God's work (Hari karyo namaskar). In a home where love and harmony exist, even strangers feel like family members."
+        },
+        {
+            "couplet": "Tame kyāthī āvyā ekā-ek, nathī sange te kem sevak; <RHYME_49>\nTame bhūkhyā hasho mārā vīr, em kahī bharyā neṇe nīr.  <RHYME_49>",
+            "couplet_number": 49,
+            "context": "The beloved is a single gemstone unmatched by any other, and I am merely its servant; She is a hungry and brave warrior, and my wife's love is like a refreshing rain."
+        },
+        {
+            "couplet": "Pachhī triyāne kahe mahāmati, āpo sāthu ā bhūkhyā chhe ati; <RHYME_50>\nTyāre āpyo sāthu luṇ sahite, dharyu Viṣhṇune naivedya prītye.  <RHYME_50>",
+            "couplet_number": 50,
+            "context": "The couplet says that the ocean's thirst is never quenched because it always has water to drink with it, and similarly, one's love for God (Vishnu) is never satisfied. It compares the ocean's endless desire for water to a devotee's eternal longing for God's love."
+        },
+        {
+            "couplet": "Tyāre Hari kahe pūchhu chhu ame, āvā koṇ dayāḷu chho tame; <RHYME_51>\nTyāre yogī kahe jamī liyo, dhīrā rahī pachhī jaḷ piyo.  <RHYME_51>",
+            "couplet_number": 51,
+            "context": "The speaker asks God why they are not merciful to them, and why their faith is not rewarded. The yogi says that one should surrender oneself to the divine will and then their difficulties will be overcome."
+        },
+        {
+            "couplet": "Tyār pachhī hu karīsh vāt, jem chhe tem kahīsh vikhyāt; <RHYME_52>\nPachhī jamī jaḷapān karyu, tyāre yogī bolyā modbharyu.  <RHYME_52>",
+            "couplet_number": 52,
+            "context": "The winds of fortune are blowing in my favor, and my fame is spreading far and wide. With this good luck, I will make great progress, and my spiritual journey will be blessed with joy."
+        },
+        {
+            "couplet": "Suṇo Varṇī tapasvī akrodh, jāṇyā ame Shrī Kṛuṣhṇa chho shuddha; <RHYME_53>\nMāṭe nahi bolu jūṭhu mahāmati, mane jāṇo īsh ā chhe satī.  <RHYME_53>",
+            "couplet_number": 53,
+            "context": "The devotee of Lord Krishna is pure and detached from worldly desires. Their mind is filled with the presence of God and they speak calmly without being affected by external circumstances."
+        },
+        {
+            "couplet": "Tamane bhūkhyā jāṇīne dayāḷ, ame āvyā āhi tatakāḷ; <RHYME_54>\nShrīrangādi jeh bījā kṣhetra, tiyā faru chhu jāṇī pavitra.  <RHYME_54>",
+            "couplet_number": 54,
+            "context": "A hungry person will understand compassion when they're in the same shoes; a fertile land yields sacred harvests."
+        },
+        {
+            "couplet": "Tam jevānā darshan sāru, Nāth rahevu jāṇo āhi māru; <RHYME_55>\nEvī suṇī Maheshnī vāt, thayā Hari bahu raḷiyāt.  <RHYME_55>",
+            "couplet_number": 55,
+            "context": "The couplet describes a meeting with one's true nature (Tam jevānā darshan sāru) and the need to understand it (Nāth rahevu jāṇo āhi māru). It also mentions the arrival of Maheshni's breeze, which is likened to Hari's beloved."
+        },
+        {
+            "couplet": "Sadā Shiv Kailās rahenār, te maḷyā mane sākṣhātkār; <RHYME_56>\nLāgyā pāy paḍī oḷakhāṇya, tyāre Nāthe joḍyā jug pāṇya.  <RHYME_56>",
+            "couplet_number": 56,
+            "context": "Here is a summary of the couplet in English:\n\nLord Shiva and Kailash are always present, witnessing my inner turmoil; The play of fate unfolds as I take steps forward, under the will of the Lord.\n\n(Last two words removed for brevity)"
+        },
+        {
+            "couplet": "Kahe Nāth karo Shiv sāy, je thakī draḍh vairāgya thāy; <RHYME_57>\nKahe Shivjī sāmbhaḷo vīr, thāshe draḍh vairāgya sudhīr.  <RHYME_57>",
+            "couplet_number": 57,
+            "context": "The couplet describes the ideal seeker of spiritual truth as one who has given up attachment and possessiveness, seeking only the divine. This seeker is characterized by renunciation and detachment."
+        },
+        {
+            "couplet": "Karī prashansā te paraspar, maḷyā beu pachhī modbhar; <RHYME_58>\nVaḷatā īsh antardhān thiyā, Prabhu Bhūtpurīye āviyā.  <RHYME_58>",
+            "couplet_number": 58,
+            "context": "As the world's praise and criticism alternate, one should be humble and quiet; God's will arrives unexpectedly, like an uninvited guest."
+        }
+    ]
+}

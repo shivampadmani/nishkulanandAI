@@ -1,0 +1,549 @@
+{
+    "prakaran": 27,
+    "title_gu": "પ્રકરણ ૨૭: શ્રીજીમહારાજ ઘેરથી નીસર્યા ને કેડ્યે વિલાપ કર્યો",
+    "title_trans": "Prakaran 27: Shrījī Mahārāj Gherthī Nīsaryā ne Keḍye Vilāp Karyo",
+    "gujarati": [
+        {
+            "couplet": "ત્યાર પછીની વારતા સુણજ્યો સહુ રૂડી પેર્ય \nબરોબર્યનાં બાળકાં આવ્યાં હરિને મળવા ઘેર્ય",
+            "couplet_number": 1,
+            "context": "After the war, those who were separated will reunite with joy; children will grow up to reach God's abode."
+        },
+        {
+            "couplet": "આવીને કહ્યું ભાઈને ક્યાં ગયા હરિ મહારાજ \nશોધું છું અમે સવારનાં પણ મળ્યા નહિ એહ આજ",
+            "couplet_number": 2,
+            "context": "I've searched for Lord Hari's path, my brother; but I couldn't find it today or yesterday."
+        },
+        {
+            "couplet": "જે જે સ્થળે જાતાં અમે તે તો શોધ્યાં સરવે ઠામ \nક્યાંયે ન મળ્યા નીલકંઠજી ઘણું ગોત્યા અમે ઘનશ્યામ",
+            "couplet_number": 3,
+            "context": "We find our own place and settle down; wherever we go, we search for a home. We haven't found the blue mountain, but we've gained a lot by being with Ghanshyam."
+        },
+        {
+            "couplet": "ત્યારે ભાઈ ભોજાઈ સાંભળી વળી પેટમાં પડી ફાળ \nઆથમ્યા લગી ન આવિયા ક્યાં હશે હરિ દયાળ",
+            "couplet_number": 4,
+            "context": "When you eat with joy and contentment, your stomach becomes full and satisfied; but then you forget God's mercy, where is that compassion of the Lord?"
+        },
+        {
+            "couplet": "એ પછી પડી રાત્ય ભ્રાત જોઈને રે \nહૈયું ન રહ્યું હાથ દીધું રોઈને રે",
+            "couplet_number": 5,
+            "context": "After the brother's departure, I am left alone; my hands are empty, like an unwatered garden."
+        },
+        {
+            "couplet": "એ ભોજાઈ તનભાન ભૂલ્યાં સાંભળી રે \nપ્રેમે થઈ પરવશ પડ્યાં ભોંયે ઢળી રે",
+            "couplet_number": 6,
+            "context": "The couplet describes a person who has become consumed by love and has forgotten everything else, even their own well-being. Love has taken over, leaving them numb and helpless."
+        },
+        {
+            "couplet": "એ પછી ઊઠી એમ બોલ્યા વાણિયે રે \nસ્વામી શોધી શહેર એને ઘેર્ય આણિયે રે",
+            "couplet_number": 7,
+            "context": "After that moment, she got up and spoke; \nHer husband searched the city, took her back home."
+        },
+        {
+            "couplet": "એ સસરે ભલામણ્ય આપીતી એહની રે \nસાંજ સુધી ખબર્ય ન લીધી તેહની રે",
+            "couplet_number": 8,
+            "context": "This couplet says that one should not take the advice of someone who is busy until evening (sunset), because their counsel may not be reliable.\n\nTheir words may be unreliable, as they may have already planned something by then."
+        },
+        {
+            "couplet": "એવું જાણી દોય દર્દે ડોલિયાં રે \nખાન પાન ખબર સર્વે ભૂલિયાં રે",
+            "couplet_number": 9,
+            "context": "Know this and be aware: the world is like a doll that's danced by the hands of fate; all secrets are revealed, yet everyone remains oblivious."
+        },
+        {
+            "couplet": "એ અનુજ ઇચ્છારામ રુવે ઘરમાં રે \nપડિયા બેઉ ભાઈ શોક સાગરમાં રે",
+            "couplet_number": 10,
+            "context": "A brother's desire is fulfilled at home, where he resides; Another brother has fallen in sorrow like an ocean."
+        },
+        {
+            "couplet": "એ મારા ભાગ્યની વાત કહીએ કેહને રે \nબાળપણામાં માયે મૂક્યો દેહને રે",
+            "couplet_number": 11,
+            "context": "This couplet is a story about my fate, which I'll share with someone who wants to listen; in childhood, my body was mute and silent."
+        },
+        {
+            "couplet": "એ જાણું નીલકંઠ લાડ લડાવશે રે \nતે પણ ગયા ક્યાંય કૈયે આવશે રે",
+            "couplet_number": 12,
+            "context": "I know the Nilkantha's roar, it will make a loud noise again; \nBut even if he goes away, he'll come back somehow, you see."
+        },
+        {
+            "couplet": "એ પછી જોવા કાજ સર્વે ચાલિયાં રે \nનયણે વહે નીર ન રહે ઝાલિયાં રે",
+            "couplet_number": 13,
+            "context": "After having gone through the struggles, one finally sees the light; Just like water flows smoothly down the slope, without any resistance or obstacle."
+        },
+        {
+            "couplet": "એ જોયું સર્વે શહેર બજારું શેરિયું રે \nજોયાં ગલી ઘર ફરી ફરી હેરિયું રે",
+            "couplet_number": 14,
+            "context": "This couplet describes a person who is stuck in their daily routine and feels suffocated by the monotony of city life, longing to break free. The speaker yearns for a change from the mundane streets and home, seeking excitement and adventure."
+        },
+        {
+            "couplet": "એ જોયાં ચૌટા ચોક મંદિર માળિયાં રે \nજોયાં મેડી મોલ ઝરુખા જાળિયાં રે",
+            "couplet_number": 15,
+            "context": "In this Gujarati couplet, the speaker describes a serene and peaceful atmosphere where time seems to stand still, with gentle streams flowing like a soothing melody. The poem evokes a sense of calmness and tranquility."
+        },
+        {
+            "couplet": "એમ અટારી અવાસ અગાશી ફળિયાં રે \nગોતતાં ગઈ રાત્ય નાથ ન મળિયા રે",
+            "couplet_number": 16,
+            "context": "As the sun sets slowly down, its last rays are hard to find; Like a fleeting night, happiness eludes me in time."
+        },
+        {
+            "couplet": "એ જોઈ સર્વે સીમ વન વાડિયું રે \nસર સરિતા તીર પોકારું પાડિયું રે",
+            "couplet_number": 17,
+            "context": "The boundaries of the self are not fixed; it can be stretched or shrunk at will. The arrow of consciousness pierces and shapes one's destiny."
+        },
+        {
+            "couplet": "એ વીર મારા લઈ પ્રાણ કોને ક્યાં ગયા રે \nદીધાં અમને દુઃખ કેમ નાવી દયા રે",
+            "couplet_number": 18,
+            "context": "He took my life and went away, leaving only sorrow behind. His mercy is a mystery that I cannot fathom."
+        },
+        {
+            "couplet": "એ દશરથને દુઃખ દીધું રઘુનાથજી રે \nએમ કીધું તમે આજ નીલકંઠ નાથજી રે",
+            "couplet_number": 19,
+            "context": "The phrase describes a moment of regret and longing for something or someone that has been lost forever. The speaker is lamenting the fact that they can't turn back time to relive the past or make amends with what's been irreparably harmed."
+        },
+        {
+            "couplet": "એ અમારા જાશે પ્રાણ પછી આવશો રે \nનિંદા કરશે લોક નમેરા કહાવશો રે",
+            "couplet_number": 20,
+            "context": "Life will end our mortal souls; afterwards, we'll come back to account for our actions. People will criticize us, and we should be prepared to explain ourselves."
+        },
+        {
+            "couplet": "એ એમ કલપે ભાઈ વીર સાંભરે રે \nનહિ એવા નીલકંઠ વિસાર્યા વિસરે રે",
+            "couplet_number": 21,
+            "context": "A brave brother's valor will be tested; if not worthy, it will vanish in the air."
+        },
+        {
+            "couplet": "એ દિયોરને વિયોગ દુઃખે જાય પડી રે \nનોતી કરવી નાથ અમ પર આવડી રે",
+            "couplet_number": 22,
+            "context": "This couplet laments the pain of separation and sorrow that can't be shared with others, as if saying \"the world is not mine to express my grief\"."
+        },
+        {
+            "couplet": "એ કેમ ધરું ધીર મારા મનમાં રે \nમૂર્તિ ચડી ચિત્ત તપિયાં તનમાં રે",
+            "couplet_number": 23,
+            "context": "I will not hasten my pace, for it is in my mind; the thought of separation burns within me."
+        },
+        {
+            "couplet": "એ ભોજાઈ મનમાંઈ ચિહ્ન ચિંતવે રે \nહૈયે ન રહી ધીર દુઃખી બહુ હવી રે",
+            "couplet_number": 24,
+            "context": "The sorrow is deeply ingrained in my mind and heart, causing constant worry and pain. The heart remains heavy with grief, as if it will never be alleviated."
+        },
+        {
+            "couplet": "એ અવલ ઊર્ધ્વરેખ દોય પગમાં રે \nપડતી હશે છાપ તેની મારગમાં રે",
+            "couplet_number": 25,
+            "context": "The couplet describes a humble person who walks upwards and never looks down at others; their path will be illuminated with success. Their footsteps will lead them to prosperity, as they tread the right path."
+        },
+        {
+            "couplet": "એ પગ અંગોઠે રે ઓપે આંગળી રે \nમાનું મણિ લાલ નખ આવલી રે",
+            "couplet_number": 26,
+            "context": "The couplet is describing a beautiful and loving relationship where the partners walk hand in hand, their love shining like precious gems. The poem highlights the joy and intimacy of being together."
+        },
+        {
+            "couplet": "એ અંકિત લંકિત પાય પેની પાતળી રે \nજ્યારે જોઈશ નાથ ત્યારે લઈશ કળી રે",
+            "couplet_number": 27,
+            "context": "As the account is spent and empty remains, I'll take only what's left when no more can be gained."
+        },
+        {
+            "couplet": "એ જંઘા જાનું ઉરુ ઉભય જોઈને રે \nનાભિ નીર્ખી નેણ નહિ પૂછું કોઈને રે",
+            "couplet_number": 28,
+            "context": "The summary is: This fleeting life is a brief moment, seen and gone; without reflection, I won't ask anyone else's opinion."
+        },
+        {
+            "couplet": "એ પડે પેટે વળ ત્રણ તેહને રે \nઉર તરુતમાલ ભૂલું કેમ એહને રે",
+            "couplet_number": 29,
+            "context": "The couplet describes the intense emotions that arise when one is separated from a loved one. It expresses the longing to be with them, as if the heart is trapped and cannot forget their presence."
+        },
+        {
+            "couplet": "એ ચિબુક મુખ માંય દંત આવલિ રે \nઓપે છે અપાર જાણું અનાર કળિ રે",
+            "couplet_number": 30,
+            "context": "A good book is like a mirror to the soul, revealing one's true nature; and an ignorant person remains unaware of their own ignorance."
+        },
+        {
+            "couplet": "એ નાસા પાસે તિલ અવલ ગાલ છે રે \nએ બે એધાંણે નાથ માથે વાળ છે રે",
+            "couplet_number": 31,
+            "context": "This couplet describes a person who is clever and witty, always ready with a sharp reply (the \"til\" or \"edible gold dust\" refers to their quick thinking). Their words are so sharp that even if they don't have any hair on their head, they can still comb it."
+        },
+        {
+            "couplet": "એ કોમળ સુંદર નેણ છપાડ્યાં નહિ છપે રે \nજેની ભ્રકુટિ જોઈ કાળ મન માંહિ કંપે રે",
+            "couplet_number": 32,
+            "context": "This beauty is so delicate, it can't be bruised; only time's decay will affect its charm."
+        },
+        {
+            "couplet": "એ અવલ છે એક તિલ ડાબા કાનમાં રે \nસુંદર શોભે ભાલ છે ભીના વાનમાં રે",
+            "couplet_number": 33,
+            "context": "A single pearl is like a treasure, precious in the left ear; beautiful and radiant as the sun in a clear sky."
+        },
+        {
+            "couplet": "એ એવા મારો વીર માં સંતાડજ્યો રે \nમારો જીવન પ્રાણ મને દેખાડજ્યો રે",
+            "couplet_number": 34,
+            "context": "My hero is one who can understand me; My life and soul are revealed to him alone."
+        },
+        {
+            "couplet": "એ નાવે બીજો કોઈ એની જોડ્યમાં રે \nઅણપૂછ્યે ઓળખાય લાખો ક્રોડ્યમાં રે",
+            "couplet_number": 35,
+            "context": "A second person cannot be added to a harmonious partnership; only when unspoken understanding develops can it flourish in countless relationships."
+        },
+        {
+            "couplet": "એ યોગી યતિ કોઈ રખે ભોળવો રે \nજાણી નાનો બાળ એને નહિ ઓળવો રે",
+            "couplet_number": 36,
+            "context": "This Gujarati couplet says that a yogi (enlightened one) should not waste time and effort on something as trivial as a small child, and instead focus on higher pursuits. It emphasizes the importance of prioritizing more meaningful activities over petty ones."
+        },
+        {
+            "couplet": "એ નરનારી માંય જેને જેને મળે રે \nકહેજ્યો જાવો ઘેર્ય ઘરનાં કળકળે રે",
+            "couplet_number": 37,
+            "context": "In this couplet, a man is advising his wife to go wherever she pleases and not worry about the housework's noise."
+        },
+        {
+            "couplet": "એ ન મળ્યા નીલકંઠ થયાં બહુ દુઃખી રે \nપછી આવ્યાં ઘેર્ય વિલખી વિલખી રે",
+            "couplet_number": 38,
+            "context": "Someone has not been able to get what they wanted, and it's caused them a lot of suffering; later on, they've returned home, feeling lost and alone."
+        },
+        {
+            "couplet": "એ કટિ ઉપર કર લિયે લડથડિયાં રે \nનયણે ચાલ્યાં નીર દુઃખડાં પડિયાં રે",
+            "couplet_number": 39,
+            "context": "Suffer the difficulties that come your way, and don't get distressed; walk alone, and tears will fall from your eyes."
+        },
+        {
+            "couplet": "એ પછી પોત્યાં ઘેર્ય ગુણ ખટકે ખરા રે \nરાંધ્યાં રહ્યાં અન્ન નાવી નિદરા રે",
+            "couplet_number": 40,
+            "context": "After the dust settles and virtues are tested; \nThe grain of good deeds remains, while worries fade away."
+        },
+        {
+            "couplet": "એ ઝંખે સર્વે જન સંભારી શ્યામને રે \nગયા ઘનશ્યામ ઘેલું કરી ગામને રે",
+            "couplet_number": 41,
+            "context": "Shyam, the all-powerful one, has gone to his village, and brought prosperity to everyone there. He has blessed the land with his presence."
+        },
+        {
+            "couplet": "એ ભાભી ભુવન માંય જોઈ જણશું રે \nહૈયે ન રહી ધીર જોઈ ચિતડું ખશું રે",
+            "couplet_number": 42,
+            "context": "In the vastness of life, we'll meet our loved ones; but without patience and perseverance, we'll miss out on the sweetness of life's journey."
+        },
+        {
+            "couplet": "એ પડી રહી પાઘ ન પહેરી ઝુલડી રે \nગયા નાગે પાય ન પહેરી મોજડી રે",
+            "couplet_number": 43,
+            "context": "The person is stuck in their old habits, unable to change; similarly, the goat goes back to its old path, unable to change its ways."
+        },
+        {
+            "couplet": "એ કાંટા ને કાંકર વીર ખૂંચશે રે \nલાગશે જ્યારે ભૂખ ત્યારે કોણ પૂછશે રે",
+            "couplet_number": 44,
+            "context": "When one's hunger pangs cry out loud, even the brave will tremble with fear; it is then that others will ask who you are."
+        },
+        {
+            "couplet": "એ એમ કલ્પે ભાઈ ભોજાઈ મનમાં રે \nજાણું છું જીવન ગયા છો વનમાં રે",
+            "couplet_number": 45,
+            "context": "Life is like a dream, let it unfold in my mind; I know that I'm alive, and you are gone into the forest."
+        },
+        {
+            "couplet": "એ વરું વાનર વાઘ વસે વનમાં રે \nતેથી બીશો તાત તમે મનમાં રે",
+            "couplet_number": 46,
+            "context": "The speaker is like a wild animal, free and wild in the forest; thus, my heart should be as fearless as yours."
+        },
+        {
+            "couplet": "એ વળી રીંછ ભીંછ રોજ ચિતરા રે \nમહિષા ને માતંગ વરાહ વન ખરા રે",
+            "couplet_number": 47,
+            "context": "The couplet compares a humble person to a wild boar that digs and burrows daily, while a great leader is like an elephant or the king of beasts, majestic and unafraid. It highlights the contrast between a simple individual and one who is powerful and commanding."
+        },
+        {
+            "couplet": "એ ભૂત પ્રેત દૈત્ય રાક્ષસ રાક્ષસી રે \nવનમાં ભાવુ ભીલ વસે હબસી રે",
+            "couplet_number": 48,
+            "context": "Here is a summary of the Gujarati couplet in English:\n\nThis wicked being, a demon or ghostly figure, roams freely; In the forest, a wild beast like a wolf lives."
+        },
+        {
+            "couplet": "એ વિકટ હશે વન સઘન ઝાડથી રે \nપડતી હશે ઝર્ય મોટા પહાડથી રે",
+            "couplet_number": 49,
+            "context": "A tree that falls will be still from the dense forest; a mighty mountain will break down into small pieces from its height."
+        },
+        {
+            "couplet": "એ દેખી એવું વન જન જાય ચળી રે \nતમે બીશો બાપ ઘેર્ય આવો વળી રે",
+            "couplet_number": 50,
+            "context": "Here is a summary of the Gujarati couplet:\n\n\"As I see you, my heart beats fast; You should be my father and come to me in love.\""
+        },
+        {
+            "couplet": "એ ભાઈ ને ભોજાઈ એમ કળકળે રે \nવાલો પોત્યા વન કોણ સાંભળે રે",
+            "couplet_number": 51,
+            "context": "This couplet describes a situation where someone is troubled by their brother's misbehavior, with the phrase \"kalkale re\" implying a sense of chaos or disorder. The poem questions who will take responsibility for resolving this turmoil."
+        },
+        {
+            "couplet": "એ કુટુંબ ને પરિવાર હાર્યાં રોઈને રે \nકેનો ન વ્યાપ્યો મોહ મને નિરમોહિને રે",
+            "couplet_number": 52,
+            "context": "This family is a household name; those who are bound by it should not be moored to fleeting attachments."
+        },
+        {
+            "couplet": "જાણું સગાં સેણ નોતાં સ્વપને રે \nમેલી વિસારી વાત વૈરાગ્ય ઉપને રે",
+            "couplet_number": 53,
+            "context": "I know my own destiny, not someone else's dream; I'll unravel the tangled thread, and achieve inner peace."
+        },
+        {
+            "couplet": "એ લીધી વિકટ વાટ વાલે વનની રે \nનિષ્કુળાનંદને નાથ ન સુણી સ્વજનની રે",
+            "couplet_number": 54,
+            "context": "A victorious struggle is won with great effort, but it's the joy of being carefree that is truly unattainable.\nThere is no happiness in celebrating someone else's success, only in one's own."
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Tyār pachhīnī vāratā, suṇajyo sahu rūḍī perya; <RHYME_1>\nBarobaryanā bāḷakā, āvyā Harine maḷavā gherya.  <RHYME_1>",
+            "couplet_number": 1,
+            "context": "The couplet describes a situation where someone is late (Tyār) and then hurries to catch up, but still falls short. It also mentions the importance of patience and not rushing into things."
+        },
+        {
+            "couplet": "Āvīne kahyu bhāīne, kyā gayā Hari Mahārāj; <RHYME_2>\nShodhu chhu ame savārnā, paṇ maḷyā nahi eh āj.  <RHYME_2>",
+            "couplet_number": 2,
+            "context": "The lord Krishna has left, what's the point of talking now? We've been delayed and can't even think about tomorrow."
+        },
+        {
+            "couplet": "Je je sthaḷe jātā ame, te to shodhyā sarave ṭhām; <RHYME_3>\nKyāye na maḷyā Nīlkanṭhjī, ghaṇu gotyā ame Ghanshyām.  <RHYME_3>",
+            "couplet_number": 3,
+            "context": "I don't have enough information to provide a summary of this Gujarati couplet as it appears to be missing some context and may not make sense on its own. If you could provide more information or the full text of the couplet, I'd be happy to try and help you with a summary."
+        },
+        {
+            "couplet": "Tyāre bhāī bhojāī sāmbhaḷī, vaḷī peṭmā paḍī fāḷ; <RHYME_4>\nĀthamyā lagī na āviyā, kyā hashe Hari dayāḷ.  <RHYME_4>",
+            "couplet_number": 4,
+            "context": "A brother-in-law's hunger and thirst are not satisfied, yet he takes pleasure in teasing others; only God's mercy can bring him relief."
+        },
+        {
+            "couplet": "E pachhī paḍī rātya, bhrāt joīne re; <RHYME_5>\nHaiyu na rahyu hāth, dīdhu roīne re.  <RHYME_5>",
+            "couplet_number": 5,
+            "context": "As the day ends and night arrives, brotherhood will flourish."
+        },
+        {
+            "couplet": "E bhojāī tanbhān, bhūlyā sāmbhaḷī re; <RHYME_6>\nPreme thaī paravash, paḍyā bhoye ḍhaḷī re.  <RHYME_6>",
+            "couplet_number": 6,
+            "context": "In a loving relationship, one's freedom is bound by the partner's emotions. Fears and worries arise from the weight of these emotions."
+        },
+        {
+            "couplet": "E pachhī ūṭhī em, bolyā vāṇiye re; <RHYME_7>\nSwāmī shodhī shaher, ene gherya āṇiye re.  <RHYME_7>",
+            "couplet_number": 7,
+            "context": "The couplet is saying that one should leave their worldly desires behind and focus on spiritual growth, just like a bird leaves its nest to explore the world."
+        },
+        {
+            "couplet": "E sasare bhalāmaṇya, āpītī ehnī re; <RHYME_8>\nSānj sudhī khabarya, na līdhī tehnī re.  <RHYME_8>",
+            "couplet_number": 8,
+            "context": "In a harmonious family, each member's contribution is essential and appreciated; in the evening, everyone gathers to enjoy their labor of love together."
+        },
+        {
+            "couplet": "Evu jāṇī doy, darde ḍoliyā re; <RHYME_9>\nKhān pān khabar, sarve bhūliyā re.  <RHYME_9>",
+            "couplet_number": 9,
+            "context": "This couplet is about knowing the truth (Evu jāṇī) and being aware of one's own suffering (darde ḍoliyā), while also acknowledging that all knowledge has been lost (Khān pān khabar, sarve bhūliyā)."
+        },
+        {
+            "couplet": "E anuj Ichchhārām, ruve gharmā re; <RHYME_10>\nPaḍiyā beu bhāī, shok sāgarmā re.  <RHYME_10>",
+            "couplet_number": 10,
+            "context": "The couplet expresses the longing for a distant place and the desire to escape from worldly sorrows. It conveys a sense of yearning for a better life beyond the current circumstances."
+        },
+        {
+            "couplet": "E mārā bhāgyanī vāt, kahīe kehne re; <RHYME_11>\nBāḷpaṇāmā māye, mūkyo dehne re.  <RHYME_11>",
+            "couplet_number": 11,
+            "context": "Life's circumstances can be unpredictable and change suddenly, as if whispered by fate itself. The journey of life is a mysterious play, where one's true self is slowly revealed over time."
+        },
+        {
+            "couplet": "E jāṇu Nīlkanṭh, lāḍ laḍāvashe re; <RHYME_12>\nTe paṇ gayā kyāy, kaiye āvashe re.  <RHYME_12>",
+            "couplet_number": 12,
+            "context": "A person like Nilkanth is always busy; he has no time to waste."
+        },
+        {
+            "couplet": "E pachhī jovā kāj, sarve chāliyā re; <RHYME_13>\nNayaṇe vahe nīr, na rahe zāliyā re.  <RHYME_13>",
+            "couplet_number": 13,
+            "context": "The couplet describes a situation where everyone is busy with their own work and no one has time to stop and smell the flowers. The speaker laments that even new things like water flowing from a mountain spring are not being appreciated because of people's preoccupation with their tasks."
+        },
+        {
+            "couplet": "E joyu sarve shaher, bajāru sheriyu re; <RHYME_14>\nJoyā galī ghar, farī farī heriyu re.  <RHYME_14>",
+            "couplet_number": 14,
+            "context": "The couplet describes a joyful atmosphere in every city and village, where people gather with enthusiasm and cheerfulness. In each home, there is harmony and mutual respect among family members."
+        },
+        {
+            "couplet": "E joyā chauṭā chok, mandir māḷiyā re; <RHYME_15>\nJoyā meḍī mol, zarukhā jāḷiyā re.  <RHYME_15>",
+            "couplet_number": 15,
+            "context": "A joyful gathering takes place at the temple fair, filled with happiness and devotion. The sweet aroma of snacks and treats spreads, making everyone's heart happy."
+        },
+        {
+            "couplet": "Em aṭārī avās, agāshī faḷiyā re; <RHYME_16>\nGotatā gaī rātya, Nāth na maḷiyā re.  <RHYME_16>",
+            "couplet_number": 16,
+            "context": "The couplet describes a person's home as being without love and warmth (em aṭārī avās), but the speaker still expects someone to show affection towards them."
+        },
+        {
+            "couplet": "E joī sarve sīm, van vāḍiyu re; <RHYME_17>\nSar saritā tīr, pokāru pāḍiyu re.  <RHYME_17>",
+            "couplet_number": 17,
+            "context": "As you cross the bridge of life, be mindful and take care not to slip away. Focus on your goals and avoid distractions, lest you fall behind."
+        },
+        {
+            "couplet": "E vīr mārā laī prāṇ, kone kyā gayā re; <RHYME_18>\nDīdhā amane dukh, kem nāvī dayā re.  <RHYME_18>",
+            "couplet_number": 18,
+            "context": "A brave man dies with his life force, but what is the point of lamenting; \nSuffering in silence is better than crying out loud."
+        },
+        {
+            "couplet": "E Dashrathne dukh, dīdhu Raghunāthjī re; <RHYME_19>\nEm kīdhu tame āj, Nīlkanṭh Nāthjī re.  <RHYME_19>",
+            "couplet_number": 19,
+            "context": "In Dashrath's sorrow, Raghunath weeps; Today, Nilkanth Nath also sheds tears for you."
+        },
+        {
+            "couplet": "E amārā jāshe prāṇ, pachhī āvasho re; <RHYME_20>\nNindā karashe lok, namerā kahāvasho re.  <RHYME_20>",
+            "couplet_number": 20,
+            "context": "When my life breath leaves me, I am gone forever; Don't blame others for my downfall, instead speak well of me."
+        },
+        {
+            "couplet": "E em kalape bhāī, vīr sāmbhare re; <RHYME_21>\nNahi evā Nīlkanṭh, visāryā visare re.  <RHYME_21>",
+            "couplet_number": 21,
+            "context": "The speaker is comparing themselves to a brother who has reached the peak of their potential, having overcome challenges like a warrior. However, they still have a long way to go, just like Nilkanth, which means \"unattainable peak\", suggesting humility in one's journey."
+        },
+        {
+            "couplet": "E diyorne viyog, dukhe jāy paḍī re; <RHYME_22>\nNotī karavī Nāth, am par āvaḍī re.  <RHYME_22>",
+            "couplet_number": 22,
+            "context": "In sorrow, one's strength is broken and falls apart; Only God knows the truth, not I myself."
+        },
+        {
+            "couplet": "E kem dharu dhīr, mārā manmā re; <RHYME_23>\nMūrti chaḍī chitta, tapiyā tanmā re.  <RHYME_23>",
+            "couplet_number": 23,
+            "context": "The brave heart is not shaken by others' words; it remains steadfast in its own conscience.\nThe soul's true form is revealed in the mirror of a pure mind."
+        },
+        {
+            "couplet": "E bhojāī manmāī, chihn chintave re; <RHYME_24>\nHaiye na rahī dhīr, dukhī bahu havī re.  <RHYME_24>",
+            "couplet_number": 24,
+            "context": "The couplet describes a person who is lost in thought (E bhojāī) and worries about the future (chihn chintave). The second line highlights that even a strong-minded person (Haiye na rahī dhīr) can't escape troubles that come with life's difficulties."
+        },
+        {
+            "couplet": "E aval ūrdhvarekh, doy pagmā re; <RHYME_25>\nPaḍatī hashe chhāp, tenī māragmā re.  <RHYME_25>",
+            "couplet_number": 25,
+            "context": "A person is born high or low in life, but the journey of self-improvement begins with taking the first step forward."
+        },
+        {
+            "couplet": "E pag angoṭhe re, ope āngaḷī re; <RHYME_26>\nMānu maṇi lāl, nakh āvalī re.  <RHYME_26>",
+            "couplet_number": 26,
+            "context": "In a loving bond, we are one, and in separation, we are none.\nJust as a pearl is not found separately from the oyster's shell."
+        },
+        {
+            "couplet": "E ankit lankit pāy, penī pātaḷī re; <RHYME_27>\nJyāre joīsh Nāth, tyāre laīsh kaḷī re.  <RHYME_27>",
+            "couplet_number": 27,
+            "context": "One's fortune is uncertain, like the flow of a river; and one's future is not in one's hands, but in God's."
+        },
+        {
+            "couplet": "E janghā jānu uru, ubhay joīne re; <RHYME_28>\nNābhi nīrkhī neṇ, nahi pūchhu koīne re.  <RHYME_28>",
+            "couplet_number": 28,
+            "context": "When difficulties come from both ends, I take responsibility and don't blame anyone else. My conscience is clear, so I won't be questioned by others."
+        },
+        {
+            "couplet": "E paḍe peṭe vaḷ, traṇ tehne re; <RHYME_29>\nUr tarutmāl, bhūlu kem ehne re.  <RHYME_29>",
+            "couplet_number": 29,
+            "context": "A ripe fruit falls from a tree when its time has come, and similarly, a person's fate is predetermined. The thread of destiny is woven by the Lord alone."
+        },
+        {
+            "couplet": "E chibuk mukh māy, dant āvali re; <RHYME_30>\nOpe chhe apār, jāṇu anār kaḷi re.  <RHYME_30>",
+            "couplet_number": 30,
+            "context": "When a person's face is smeared with makeup, their character remains unchanged. Similarly, when someone's outer appearance changes, their inner self remains the same."
+        },
+        {
+            "couplet": "E nāsā pāse til, aval gāl chhe re; <RHYME_31>\nE be edhāṇe Nāth, māthe vāḷ chhe re.  <RHYME_31>",
+            "couplet_number": 31,
+            "context": "There is no shortage of wisdom in what's available to us, and God is always watching from above; He is the guide and we are under His care."
+        },
+        {
+            "couplet": "E komaḷ sundar neṇ, chhapāḍyā nahi chhape re; <RHYME_32>\nJenī bhrakuṭi joī kāḷ, man māhi kampe re.  <RHYME_32>",
+            "couplet_number": 32,
+            "context": "A beautiful thing is not crushed by pressure; it remains intact. One's own foolishness is what fills their mind with sorrow."
+        },
+        {
+            "couplet": "E aval chhe ek til, ḍābā kānmā re; <RHYME_33>\nSundar shobhe bhāl, chhe bhīnā vānmā re.  <RHYME_33>",
+            "couplet_number": 33,
+            "context": "This couplet speaks of a person's life being like a single thread (til) that is fragile and easily broken, with moments of beauty and darkness entwined. It highlights the ebb and flow of life, where joy and sorrow are inextricably linked."
+        },
+        {
+            "couplet": "E evā māro vīr, mā santāḍajyo re; <RHYME_34>\nMāro jīvan prāṇ, mane dekhāḍajyo re.  <RHYME_34>",
+            "couplet_number": 34,
+            "context": "Here is a summary of the couplet:\n\nMy dear husband is my hero, peaceful and calm; My life breath is what I see in him, at peace."
+        },
+        {
+            "couplet": "E nāve bījo koī enī joḍyamā re; <RHYME_35>\nAṇapūchhye oḷakhāy, lākho kroḍyamā re.  <RHYME_35>",
+            "couplet_number": 35,
+            "context": "There is no joy greater than a child's birth. The happiness it brings is immeasurable and unmatched."
+        },
+        {
+            "couplet": "E yogī yati koī, rakhe bhoḷavo re; <RHYME_36>\nJāṇī nāno bāḷ, ene nahi oḷavo re.  <RHYME_36>",
+            "couplet_number": 36,
+            "context": "A wise person is one who keeps calm and patient in all situations. A foolish person is one who gets agitated and restless even in small matters."
+        },
+        {
+            "couplet": "E nar-nārī māy, jene jene maḷe re; <RHYME_37>\nKahejyo jāvo gherya, gharnā kaḷ-kaḷe re.  <RHYME_37>",
+            "couplet_number": 37,
+            "context": "In this couplet, a speaker describes the joy and laughter of married life, where love and happiness flourish like a garden. The playful rhythm conveys the warmth and togetherness between a loving couple."
+        },
+        {
+            "couplet": "E na maḷyā Nīlkanṭh, thayā bahu dukhī re; <RHYME_38>\nPachhī āvyā gherya, vilakhī vilakhī re.  <RHYME_38>",
+            "couplet_number": 38,
+            "context": "There is no pain like the pangs of separation from Nīlkanṭh, and it brings so much sorrow; The memory of past times still haunts me, oh so bitterly."
+        },
+        {
+            "couplet": "E kaṭi upar kar, liye laḍthaḍiyā re; <RHYME_39>\nNayaṇe chālyā nīr, dukhḍān paḍiyā re.  <RHYME_39>",
+            "couplet_number": 39,
+            "context": "Work hard and reach the top, then enjoy the fruits of your labor.\nDon't be idle and cry later, overcome your struggles now."
+        },
+        {
+            "couplet": "E pachhī potyā gherya, guṇ khaṭake kharā re; <RHYME_40>\nRāndhyā rahyā anna, nāvī nidarā re.  <RHYME_40>",
+            "couplet_number": 40,
+            "context": "A hardworking person's earnings are meager and uncertain, like a bird that has just flown away from its nest. Their life is full of struggles and uncertainties, like a boat drifting on the sea."
+        },
+        {
+            "couplet": "E zankhe sarve jan, sambhārī Shyāmne re; <RHYME_41>\nGayā Ghanshyām, ghelu karī gāmne re.  <RHYME_41>",
+            "couplet_number": 41,
+            "context": "All the people are equal in God's eyes, regardless of their social status. Just as Lord Krishna is the same everywhere, so too should we treat everyone with respect and equality."
+        },
+        {
+            "couplet": "E bhābhī bhuvan māy, joī jaṇashu re; <RHYME_42>\nHaiye na rahī dhīr, joī chitaḍu khashu re.  <RHYME_42>",
+            "couplet_number": 42,
+            "context": "The world is an illusion, and those who understand it will escape its grasp. The brave one who has conquered their ego will not be bound by worldly desires."
+        },
+        {
+            "couplet": "E paḍī rahī pāgh, na paherī zulaḍī re; <RHYME_43>\nGayā nāge pāy, na paherī mojaḍī re.  <RHYME_43>",
+            "couplet_number": 43,
+            "context": "As the path wears out, so does one's enthusiasm; and as one grows old, so do their youthful zeal."
+        },
+        {
+            "couplet": "E kānṭā ne kānkar, vīr khūnchashe re; <RHYME_44>\nLāgashe jyāre bhūkh, tyāre koṇ pūchhashe re.  <RHYME_44>",
+            "couplet_number": 44,
+            "context": "A person is hungry for words of praise, not food; they are starving for compliments, not actual sustenance."
+        },
+        {
+            "couplet": "E em kalpe bhāī, bhojāī manmā re; <RHYME_45>\nJāṇu chhu jīvan, gayā chho vanmā re.  <RHYME_45>",
+            "couplet_number": 45,
+            "context": "A brother's love is like a river that flows endlessly, and my heart is its banks where it resides. Just as life is short, my time with you will also soon vanish."
+        },
+        {
+            "couplet": "E varu vānar vāgh, vase vanmā re; <RHYME_46>\nTethī bīsho tāt, tame manmā re.  <RHYME_46>",
+            "couplet_number": 46,
+            "context": "The couplet describes the joy and contentment one feels in their own home (vase) compared to the difficulties of the outside world (vānar vāgh). It's a reminder to cherish what you have at home, for that is where true happiness lies."
+        },
+        {
+            "couplet": "E vaḷī rīnchh bhīnchh, roj chitarā re; <RHYME_47>\nMahiṣhā ne mātang, varāh van kharā re.  <RHYME_47>",
+            "couplet_number": 47,
+            "context": "Here is a summarization of the Gujarati couplet:\n\nThe moon waxes and wanes daily, while the Lord creates an illusion; The Lord has taken the form of a boar to lift the earth from the ocean's depths."
+        },
+        {
+            "couplet": "E bhūt pret daitya, rākṣhas rākṣhasī re; <RHYME_48>\nVanmā bhāvu bhīl, vase habasī re.  <RHYME_48>",
+            "couplet_number": 48,
+            "context": "A demon, a ghost, and an ogre are all forms of fear; One's own shadow is the most frightening of all."
+        },
+        {
+            "couplet": "E vikaṭ hashe van, saghan zāḍthī re; <RHYME_49>\nPaḍatī hashe zarya, moṭā pahāḍthī re.  <RHYME_49>",
+            "couplet_number": 49,
+            "context": "Life's unpredictability makes our future uncertain, just like the forest where animals roam freely. Similarly, our present is full of uncertainties, like a winding path that's difficult to navigate."
+        },
+        {
+            "couplet": "E dekhī evu van, jan jāy chaḷī re; <RHYME_50>\nTame bīsho bāp, gherya āvo vaḷī re.  <RHYME_50>",
+            "couplet_number": 50,
+            "context": "The couplet describes a child's journey of life where they face various ups and downs (E dekhī evu van). The parent's guidance and support help the child navigate these challenges (Tame bīsho bāp, gherya āvo vaḷī re)."
+        },
+        {
+            "couplet": "E bhāī ne bhojāī, em kaḷkaḷe re; <RHYME_51>\nVālo potyā van, koṇ sāmbhaḷe re.  <RHYME_51>",
+            "couplet_number": 51,
+            "context": "The brother has eaten his fill, and now he's happy with a full belly; He goes to the forest, playing with stones all day."
+        },
+        {
+            "couplet": "E kuṭumb ne parivār, hāryā roīne re; <RHYME_52>\nKeno na vyāpyo moh, mane nirmohine re.  <RHYME_52>",
+            "couplet_number": 52,
+            "context": "The family is like a tree, which withers away when it loses its roots; similarly, without self-control, one's mind becomes entangled in worldly desires."
+        },
+        {
+            "couplet": "Jāṇu sagā seṇ, notā swapane re; <RHYME_53>\nMelī visārī vāt, vairāgya upane re.  <RHYME_53>",
+            "couplet_number": 53,
+            "context": "The couplet suggests that one should understand the true nature of the world (Jāṇu sagā) and let go of attachments (notā swapane), and cultivate renunciation (vairāgya) in order to achieve spiritual growth. This is achieved by being mindful of the impermanence of worldly life (Melī visārī vāt)."
+        },
+        {
+            "couplet": "E līdhī vikaṭ vāṭ, vāle vannī re; <RHYME_54>\nNiṣhkuḷānandne Nāth, na suṇī swajannī re.  <RHYME_54>",
+            "couplet_number": 54,
+            "context": "A person's behavior is like a crazy wall, unpredictable and uncontrollable. Even one's own family members are unable to understand their nature."
+        }
+    ]
+}

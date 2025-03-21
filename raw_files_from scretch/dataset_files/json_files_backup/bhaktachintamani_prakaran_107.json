@@ -1,0 +1,385 @@
+{
+    "prakaran": 107,
+    "title_gu": "પ્રકરણ ૧૦૭: નિર્લોભી વ્રતમાન કહ્યું",
+    "title_trans": "Prakaran 107: Nirlobhī Vratmān Kahyu",
+    "gujarati": [
+        {
+            "couplet": "હવે કહું સંત નિરલોભી, જેણે કરી રહ્યા જન શોભી; <RHYME_1>\nજેમ નારીનો નહિ પ્રસંગ, તેમ તજ્યો છે દ્રવ્યનો સંગ.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "એવા સંતનો મળે સમાજ, માંહોમાંહિ બોલે મુનિરાજ; <RHYME_2>\nજેને મળ્યા પુરુષોત્તમરાય, તે તો પૂરણકામ કહેવાય.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "તેને ન્યૂન ન મનાય મન, લાધ્યું અખૂટ જેને મહાધન; <RHYME_3>\nધૂતા ન ધૂતે ચોર ન લૂંટે, ખાતાં ખરચતાં નવ ખૂટે.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "એવું મળ્યું મહાધન જેને, તે કેમ ધાશે આ ધાતુ ધનને; <RHYME_4>\nજેમાં અનેક રહ્યા અનર્થ, સંચે ત્યાગી તો વણસે અર્થ.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "ચોરી હિંસા અનૃત અપાર, કામ ક્રોધ ને દંભભંડાર; <RHYME_5>\nમદ ભેદ ને વૈર વ્યસન, સ્મય સ્પર્ધાદિ છે જિયાં ધન.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "મદ્યપાન ત્રિયાસંગ થાય, દ્યૂત વિદ્યા ને વિશ્વાસ જાય; <RHYME_6>\nરહ્યાં એટલાં દ્રવ્યમાં મળી, જેમ જળમાં જળજંતુ વળી.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "દ્રવ્ય કરાવે પાપ અધર્મ, દ્રવ્ય કરાવે વૈર વિકર્મ; <RHYME_7>\nદ્રવ્ય કરાવે કપટ છળ, દ્રવ્ય કરાવે કોટિ કકળ.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "દ્રવ્ય કરાવે દગા દુષ્ટાઈ, દ્રવ્ય કરાવે કામ કસાઈ; <RHYME_8>\nદ્રવ્ય કરાવે ઉચ્ચ ને નીચ, દ્રવ્ય કરાવે પાષંડ પેચ.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "દ્રવ્ય કરાવે જાતિ વટાળ, દ્રવ્ય ચડાવે સાચાને આળ; <RHYME_9>\nદ્રવ્ય કરાવે હાલ બેહાલ, દ્રવ્ય કરાવે કૃપણ કંગાલ.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "દ્રવ્ય કરાવે ચોરી ચાકરી, દ્રવ્ય કરાવે ટેલ્ય આકરી; <RHYME_10>\nદ્રવ્ય કરાવે જીવની ઘાત, દ્રવ્ય કરાવે પિંડનો પાત.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "દ્રવ્ય ન્યાયે અન્યાય કરાવે, દ્રવ્ય જૂઠી તે સાખ્ય ભરાવે; <RHYME_11>\nદ્રવ્ય લેવરાવે લાંચ ભાડ્ય, દ્રવ્ય કરાવે રાંકશું રાડ્ય.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "દ્રવ્ય સતિનું સત્ય મુકાવે, દ્રવ્ય જતિનું જત ચુકાવે; <RHYME_12>\nદ્રવ્ય મુનિનું મૌન બગાડે, દ્રવ્ય તપીને તપથી પાડે.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "દ્રવ્ય અર્થે પૃથ્વીએ ફરે છે, દ્રવ્ય અર્થે લડીને મરે છે; <RHYME_13>\nદ્રવ્ય અર્થે વેચે નિજ તન, તજે જીવિતવ્ય ન તજે ધન.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "દ્રવ્ય અર્થે વળી વાંણે ચડે, દ્રવ્ય અર્થે પહાડે ચડી પડે; <RHYME_14>\nદ્રવ્ય અર્થે ઘાત ઘણી ઘડે, થાય અનર્થ બહુ દ્રવ્ય વડે.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "દ્રવ્ય ધર્મ માંહિથી ચળાવે, દ્રવ્ય નીચના ધર્મ પળાવે; <RHYME_15>\nજે જે જાય છે નરકમાં જન, તેનું મૂળ કારણ છે ધન.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "કામ ક્રોધ ને મોહ કહેવાય, હર્ષ શોક લોભ થકી થાય; <RHYME_16>\nમાન ઈરષા મમતા તાણ્ય, લોભ સર્વેનું કારણ જાણ્ય.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "પામે છે જીવ જુજવા ક્ષોભ, તે તો જેને જેવડો છે લોભ; <RHYME_17>\nલોભ સંતશું હેત ત્રોડાવે, લોભ દુષ્ટશું પ્રીત જોડાવે.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "લોભ કરાવે ન કર્યાનાં કામ, લોભ કરાવે જીવત હરામ; <RHYME_18>\nજે જે અવળું જગતમાં થાય, તે તો સર્વે દ્રવ્યથી કહેવાય.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "દ્રવ્યે પુત્ર તે પિતાને મારે, દ્રવ્યે શિષ્ય ગુરુને સંહારે; <RHYME_19>\nથાય દ્રવ્યે મહા પંચ પાપ, થાય દ્રવ્યે કૃતઘની આપ.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "એવું અઘ જગે નહિ કોય, જે કોઈ દ્રવ્ય મળતાં ન હોય; <RHYME_20>\nદ્રવ્ય મુકાવે જ્ઞાનીનું જ્ઞાન, દ્રવ્ય મુકાવે ધ્યાનીનું ધ્યાન.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "દ્રવ્ય મુકાવે માનીનું માન, દ્રવ્ય કરાવે નિર્લજ્જ નિદાન; <RHYME_21>\nકહી કહી કેટલા કહેવાય, જે કોઈ દ્રવ્યથી અનર્થ થાય.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "એવા લોભ માંહિ જે લેવાણા, તે તો તૃષ્ણાને પૂરે તણાણા; <RHYME_22>\nતેને ઊગરવા સઈ આશ, એવું જાણી દૂર રહેવું દાસ.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "લોભે સુર ને અસુર લડે, દૈત્ય ભૂત દુઃખી લોભ વડે; <RHYME_23>\nયક્ષ રાક્ષસ સહુ લોભે હેરાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "લોભે કરાવ્યો કુટુંબે કળો, પડ્યો પાંડવ કૌરવમાં સળો; <RHYME_24>\nમાંહોમાંહિ લડી ખોટ્યા પ્રાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "લોભે લડે ભૂમિએ ભૂપતિ, લોભે બળે પતિ સંગે સતી; <RHYME_25>\nલોભ કરાવે પ્રાણની હાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "ડાહ્યા શિયાણા પંડિત પીર, લોભે કર્યા સહુને અધીર; <RHYME_26>\nકવિ કોવિદ કર્યા વેચાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "સ્વર્ગ મૃત્યુ ને પાતાળ માંય, લોભે લઈ લીધાં જન ત્યાંય; <RHYME_27>\nએવી પ્રસારી છે મોટી પાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "લોભે આપી છે અવળી મત્ય, મનાવ્યું છે અસત્યમાં સત્ય; <RHYME_28>\nતેની નરને નહિ ઓળખાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "લોભે નાખી ગળે જમે ફાંશી, લોભે લેવારી લખ ચોરાશી; <RHYME_29>\nલોભ ફેરવે છે ચારે ખાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "જન્મમરણનું કારણ જેહ, સહુ જન જાણો લોભ તેહ; <RHYME_30>\nતેની મેલી દેવી જોઇયે તાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "જેને લોભે કબજામાં લીધાં, તેને દીન દાલદરી કીધાં; <RHYME_31>\nસહ્યાં શરીરે દુઃખ મેરાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "એવું સમજી સંત અસાર, તજ્યું દ્રવ્ય ને સર્વ પ્રકાર; <RHYME_32>\nમેલી તન મને તેની તાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "મણિ હીરા મોતી પરવાળાં, રત્ન આદ્યે જે નંગ રૂપાળાં; <RHYME_33>\nએ તો જમની જાળ્ય જોરાણ, તેને ઇચ્છે તે નર અજાણ.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "અન્ન જળ ને વસ્ત્ર છે જેહ, તેણે કરી રહે છે આ દેહ; <RHYME_34>\nતેના આપનારા અવિનાશ, એમ સમજે છે હરિના દાસ.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "અન્ન ખાવું તે ક્ષુધાને ખોવા, જળ પિવું તે પ્રાણને ટોવા; <RHYME_35>\nરહેવું અન્ય વસ્તુથી નિરાશ, એમ સમજે છે હરિના દાસ.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "શીત ઉષ્ણ નિવારવા તન, રાખે અંગે વસ્ત્ર હરિજન; <RHYME_36>\nજેવું મળે તેવું રાખે પાસ, એમ સમજે છે હરિના દાસ.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "તેહ વિના છે સર્વેનો ત્યાગ, વિષય સુખ સાથે છે વૈરાગ્ય; <RHYME_37>\nક્યારે ઇચ્છે નહિ જાણી કાશ, એમ સમજે છે હરિના દાસ.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "સોના રૂપામાં સુખ ન માને, જેને મહાપ્રભુ આવિયા પાને; <RHYME_38>\nકીટ બ્રહ્મા લગી દેખે નાશ, એમ સમજે છે હરિના દાસ.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "એક સમજાણું હરિમાં સુખ, બીજું સર્વે જણાણું છે દુઃખ; <RHYME_39>\nજેવો જમકિંકર કાળપાશ, એમ સમજે છે હરિના દાસ.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "જેને મળ્યું છે મહાધન મોટું, બીજું સર્વે સમજાણું છે ખોટું; <RHYME_40>\nપાપ જાણીને ન કરે પ્યાસ, એમ સમજે છે હરિના દાસ.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "અહિ વીંછી ને વિષ અંગાર, કાકવિષ્ટા માંહિ શિયું સાર; <RHYME_41>\nએવું જાણી તજે સુખ આશ, એમ સમજે છે હરિના દાસ.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "એવી કોણ વસ્તુ છે આ ભૂમાં, જેમાં લોભે જે લોભ્યા પ્રભુમાં; <RHYME_42>\nરહે છે અંતર સહુથી ઉદાસ, એમ સમજે છે હરિના દાસ.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "એમ નર થયા નિરલોભ, કોઈ સુખે નહિ મન ક્ષોભ; <RHYME_43>\nજેણે માન્યો બ્રહ્મમોલે વાસ, એમ સમજે છે હરિના દાસ.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "એહ રીત્યે લોભને જીતાય, બીજો છે ઉપરનો ઉપાય; <RHYME_44>\nથાય અંતરે અભાવ જ્યારે, લોભ તજાય સમૂળો ત્યારે.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "એમ લોભ લાલચને જીતી, કરી પુરુષોત્તમ સાથે પ્રીતિ; <RHYME_45>\nતેને કામ ને લોભ ન વ્યાપે, સ્વામી સહજાનંદ પરતાપે.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "નિષ્કામી નિરલોભી થઈ, ભજે છે ભગવંત; <RHYME_46>\nતેવા જ ત્યાગી સ્વાદના, જેહ નિરસ્વાદી સંત.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "સર્વે રસ જાણી શ્યામમાં, અન્ય રસ જાણે અનિત્ય; <RHYME_47>\nનિરસ્વાદી એવા સંતની, કહું સાંભળજ્યો સહુ રીત.  <RHYME_47>",
+            "couplet_number": 47
+        }
+    ],
+    "transliteration": [
+        {
+            "couplet": "Have kahu sant niralobhī, jeṇe karī rahyā jan shobhī; <RHYME_1>\nJem nārīno nahi prasang, tem tajyo chhe dravyano sang.  <RHYME_1>",
+            "couplet_number": 1
+        },
+        {
+            "couplet": "Evā santno maḷe samāj, māhomāhi bole munirāj; <RHYME_2>\nJene maḷyā Puruṣhottamrāy, te to pūraṇkām kahevāy.  <RHYME_2>",
+            "couplet_number": 2
+        },
+        {
+            "couplet": "Tene nyūn na manāy man, lādhyu akhūṭ jene mahādhan; <RHYME_3>\nDhūtā na dhūte chor na lūṭe, khātā kharachtā nav khūṭe.  <RHYME_3>",
+            "couplet_number": 3
+        },
+        {
+            "couplet": "Evu maḷyu mahādhan jene, te kem dhāshe ā dhātu dhanne; <RHYME_4>\nJemā anek rahyā anarth, sanche tyāgī to vaṇase arth.  <RHYME_4>",
+            "couplet_number": 4
+        },
+        {
+            "couplet": "Chorī hinsā anṛut apār, kām krodh ne dambh-bhanḍār; <RHYME_5>\nMad bhed ne vair vyasan, smay spardhādi chhe jiyā dhan.  <RHYME_5>",
+            "couplet_number": 5
+        },
+        {
+            "couplet": "Madyapān triyāsang thāy, dyūt vidyā ne vishvās jāy; <RHYME_6>\nRahyā eṭalā dravyamā maḷī, jem jaḷmā jaḷ-jantu vaḷī.  <RHYME_6>",
+            "couplet_number": 6
+        },
+        {
+            "couplet": "Dravya karāve pāp adharma, dravya karāve vair vikarma; <RHYME_7>\nDravya karāve kapaṭ chhaḷ, dravya karāve koṭi kakaḷ.  <RHYME_7>",
+            "couplet_number": 7
+        },
+        {
+            "couplet": "Dravya karāve dagā duṣhṭāī, dravya karāve kām kasāī; <RHYME_8>\nDravya karāve uchcha ne nīch, dravya karāve pāṣhanḍ pech.  <RHYME_8>",
+            "couplet_number": 8
+        },
+        {
+            "couplet": "Dravya karāve jāti vaṭāḷ, dravya chaḍāve sāchāne āḷ; <RHYME_9>\nDravya karāve hāl behāl, dravya karāve kṛupaṇ kangāl.  <RHYME_9>",
+            "couplet_number": 9
+        },
+        {
+            "couplet": "Dravya karāve chorī chākarī, dravya karāve ṭelya ākarī; <RHYME_10>\nDravya karāve jīvnī ghāt, dravya karāve pinḍno pāt.  <RHYME_10>",
+            "couplet_number": 10
+        },
+        {
+            "couplet": "Dravya nyāye anyāy karāve, dravya jūṭhī te sākhya bharāve; <RHYME_11>\nDravya levarāve lānch bhāḍya, dravya karāve rānkshu rāḍya.  <RHYME_11>",
+            "couplet_number": 11
+        },
+        {
+            "couplet": "Dravya satinu satya mukāve, dravya jatinu jat chukāve; <RHYME_12>\nDravya muninu maun bagāḍe, dravya tapīne tapthī pāḍe.  <RHYME_12>",
+            "couplet_number": 12
+        },
+        {
+            "couplet": "Dravya arthe pṛuthvīe fare chhe, dravya arthe laḍīne mare chhe; <RHYME_13>\nDravya arthe veche nij tan, taje jīvitavya na taje dhan.  <RHYME_13>",
+            "couplet_number": 13
+        },
+        {
+            "couplet": "Dravya arthe vaḷī vāṇe chaḍe, dravya arthe pahāḍe chaḍī paḍe; <RHYME_14>\nDravya arthe ghāt ghaṇī ghaḍe, thāy anarth bahu dravya vaḍe.  <RHYME_14>",
+            "couplet_number": 14
+        },
+        {
+            "couplet": "Dravya dharma māhithī chaḷāve, dravya nīchnā dharma paḷāve; <RHYME_15>\nJe je jāy chhe narakmā jan, tenu mūḷ kāraṇ chhe dhan.  <RHYME_15>",
+            "couplet_number": 15
+        },
+        {
+            "couplet": "Kām krodh ne moh kahevāy, harṣh shok lobh thakī thāy; <RHYME_16>\nMān īraṣhā mamatā tāṇya, lobh sarvenu kāraṇ jāṇya.  <RHYME_16>",
+            "couplet_number": 16
+        },
+        {
+            "couplet": "Pāme chhe jīv jujavā kṣhobh, te to jene jevaḍo chhe lobh; <RHYME_17>\nLobh santshu het troḍāve, lobh duṣhṭashu prīt joḍāve.  <RHYME_17>",
+            "couplet_number": 17
+        },
+        {
+            "couplet": "Lobh karāve na karyānā kām, lobh karāve jīvat harām; <RHYME_18>\nJe je avaḷu jagatmā thāy, te to sarve dravyathī kahevāy.  <RHYME_18>",
+            "couplet_number": 18
+        },
+        {
+            "couplet": "Dravye putra te pitāne māre, dravye shiṣhya gurune sanhāre; <RHYME_19>\nThāy dravye mahā panch pāp, thāy dravye kṛutaghanī āp.  <RHYME_19>",
+            "couplet_number": 19
+        },
+        {
+            "couplet": "Evu agh jage nahi koy, je koī dravya maḷatā na hoy; <RHYME_20>\nDravya mukāve gnānīnu gnān, dravya mukāve dhyānīnu dhyān.  <RHYME_20>",
+            "couplet_number": 20
+        },
+        {
+            "couplet": "Dravya mukāve mānīnu mān, dravya karāve nirlajja nidān; <RHYME_21>\nKahī kahī keṭalā kahevāy, je koī dravyathī anarth thāy.  <RHYME_21>",
+            "couplet_number": 21
+        },
+        {
+            "couplet": "Evā lobh māhi je levāṇā, te to tṛuṣhṇāne pūre taṇāṇā; <RHYME_22>\nTene ūgaravā saī āsh, evu jāṇī dūr rahevu dās.  <RHYME_22>",
+            "couplet_number": 22
+        },
+        {
+            "couplet": "Lobhe sur ne asur laḍe, daitya bhūt dukhī lobh vaḍe; <RHYME_23>\nYakṣh rākṣhas sahu lobhe herāṇ, tene ichchhe te nar ajāṇ.  <RHYME_23>",
+            "couplet_number": 23
+        },
+        {
+            "couplet": "Lobhe karāvyo kuṭumbe kaḷo, paḍyo Pānḍav Kauravmā saḷo; <RHYME_24>\nMāhomāhi laḍī khoṭyā prāṇ, tene ichchhe te nar ajāṇ.  <RHYME_24>",
+            "couplet_number": 24
+        },
+        {
+            "couplet": "Lobhe laḍe bhūmie bhūpati, lobhe baḷe pati sange satī; <RHYME_25>\nLobh karāve prāṇnī hāṇ, tene ichchhe te nar ajāṇ.  <RHYME_25>",
+            "couplet_number": 25
+        },
+        {
+            "couplet": "Ḍāhyā shiyāṇā panḍit pīr, lobhe karyā sahune adhīr; <RHYME_26>\nKavi kovid karyā vechāṇ, tene ichchhe te nar ajāṇ.  <RHYME_26>",
+            "couplet_number": 26
+        },
+        {
+            "couplet": "Swarg mṛutyu ne pātāḷ māy, lobhe laī līdhā jan tyāy; <RHYME_27>\nEvī prasārī chhe moṭī pāṇ, tene ichchhe te nar ajāṇ.  <RHYME_27>",
+            "couplet_number": 27
+        },
+        {
+            "couplet": "Lobhe āpī chhe avaḷī matya, manāvyu chhe asatyamā satya; <RHYME_28>\nTenī narne nahi oḷakhāṇ, tene ichchhe te nar ajāṇ.  <RHYME_28>",
+            "couplet_number": 28
+        },
+        {
+            "couplet": "Lobhe nākhī gaḷe jame fāshī, lobhe levārī lakh chorāshī; <RHYME_29>\nLobh ferave chhe chāre khāṇ, tene ichchhe te nar ajāṇ.  <RHYME_29>",
+            "couplet_number": 29
+        },
+        {
+            "couplet": "Janma-maraṇnu kāraṇ jeh, sahu jan jāṇo lobh teh; <RHYME_30>\nTenī melī devī joiye tāṇ, tene ichchhe te nar ajāṇ.  <RHYME_30>",
+            "couplet_number": 30
+        },
+        {
+            "couplet": "Jene lobhe kabajāmā līdhā, tene dīn dāladarī kīdhā; <RHYME_31>\nSahyā sharīre dukh merāṇ, tene ichchhe te nar ajāṇ.  <RHYME_31>",
+            "couplet_number": 31
+        },
+        {
+            "couplet": "Evu samajī sant asār, tajyu dravya ne sarva prakār; <RHYME_32>\nMelī tan mane tenī tāṇ, tene ichchhe te nar ajāṇ.  <RHYME_32>",
+            "couplet_number": 32
+        },
+        {
+            "couplet": "Maṇi hīrā motī paravāḷā, ratna ādye je nang rūpāḷā; <RHYME_33>\nE to jamanī jāḷya jorāṇ, tene ichchhe te nar ajāṇ.  <RHYME_33>",
+            "couplet_number": 33
+        },
+        {
+            "couplet": "Anna jaḷ ne vastra chhe jeh, teṇe karī rahe chhe ā deh; <RHYME_34>\nTenā āpanārā Avināsh, em samaje chhe Harinā dās.  <RHYME_34>",
+            "couplet_number": 34
+        },
+        {
+            "couplet": "Anna khāvu te kṣhudhāne khovā, jaḷ pivu te prāṇne ṭovā; <RHYME_35>\nRahevu anya vastuthī nirāsh, em samaje chhe Harinā dās.  <RHYME_35>",
+            "couplet_number": 35
+        },
+        {
+            "couplet": "Shīt uṣhṇa nivāravā tan, rākhe ange vastra harijan; <RHYME_36>\nJevu maḷe tevu rākhe pās, em samaje chhe Harinā dās.  <RHYME_36>",
+            "couplet_number": 36
+        },
+        {
+            "couplet": "Teh vinā chhe sarveno tyāg, viṣhay sukh sāthe chhe vairāgya; <RHYME_37>\nKyāre ichchhe nahi jāṇī kāsh, em samaje chhe Harinā dās.  <RHYME_37>",
+            "couplet_number": 37
+        },
+        {
+            "couplet": "Sonā rūpāmā sukh na māne, jene Mahā-Prabhu āviyā pāne; <RHYME_38>\nKīṭ Brahmā lagī dekhe nāsh, em samaje chhe Harinā dās.  <RHYME_38>",
+            "couplet_number": 38
+        },
+        {
+            "couplet": "Ek samajāṇu Harimā sukh, bīju sarve jaṇāṇu chhe dukh; <RHYME_39>\nJevo Jamkikar kāḷpāsh, em samaje chhe Harinā dās.  <RHYME_39>",
+            "couplet_number": 39
+        },
+        {
+            "couplet": "Jene maḷyu chhe mahādhan moṭu, bīju sarve samajāṇu chhe khoṭu; <RHYME_40>\nPāp jāṇīne na kare pyās, em samaje chhe Harinā dās.  <RHYME_40>",
+            "couplet_number": 40
+        },
+        {
+            "couplet": "Ahi vīchhī ne viṣh angār, kāk-viṣhṭā māhi shiyu sār; <RHYME_41>\nEvu jāṇī taje sukh āsh, em samaje chhe Harinā dās.  <RHYME_41>",
+            "couplet_number": 41
+        },
+        {
+            "couplet": "Evī koṇ vastu chhe ā bhūmā, jemā lobhe je lobhyā Prabhumā; <RHYME_42>\nRahe chhe antar sahuthī udās, em samaje chhe Harinā dās.  <RHYME_42>",
+            "couplet_number": 42
+        },
+        {
+            "couplet": "Em nar thayā niralobh, koī sukhe nahi man kṣhobh; <RHYME_43>\nJeṇe mānyo Brahmamole vās, em samaje chhe Harinā dās.  <RHYME_43>",
+            "couplet_number": 43
+        },
+        {
+            "couplet": "Eh rītye lobhne jītāy, bījo chhe uparno upāy; <RHYME_44>\nThāy antare abhāv jyāre, lobh tajāy samūḷo tyāre.  <RHYME_44>",
+            "couplet_number": 44
+        },
+        {
+            "couplet": "Em lobh lālachne jītī, karī Puruṣhottam sāthe prīti; <RHYME_45>\nTene kām ne lobh na vyāpe, Swāmī Sahajānand paratāpe.  <RHYME_45>",
+            "couplet_number": 45
+        },
+        {
+            "couplet": "Niṣhkāmī nirlobhī thaī, bhaje chhe Bhagwant; <RHYME_46>\nTevā ja tyāgī swādnā, jeh niraswādī sant.  <RHYME_46>",
+            "couplet_number": 46
+        },
+        {
+            "couplet": "Sarve ras jāṇī Shyāmmā, anya ras jāṇe anitya; <RHYME_47>\nNiraswādī evā santnī, kahu sāmbhaḷajyo sahu rīt.  <RHYME_47>",
+            "couplet_number": 47
+        }
+    ]
+}
